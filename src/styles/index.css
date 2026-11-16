@@ -1,0 +1,21 @@
+/* Argonaut's styles, one file per part of the window. The order matters: later files build
+   on earlier ones, and a few rules rely on coming after the ones they adjust. */
+
+@import "./tokens.css"; /* Colours, type and spacing for both themes. */
+@import "./base.css"; /* Base elements, the focus ring, the three-column layout, drawers and the dialog layer. */
+@import "./buttons.css"; /* Buttons. */
+@import "./sidebar.css"; /* The sidebar: search, sections, the selected row, papers and their status line. */
+@import "./paper-view.css"; /* A paper in the document area, and the PDF viewer. */
+@import "./sidebar-tree.css"; /* The sidebar trees: picked notes, groups, drag and drop, row menus, search results. */
+@import "./tabs.css"; /* The tab strip. */
+@import "./empty.css"; /* Empty states. */
+@import "./editor.css"; /* The document column, a note's title and details, tags, and the marks behind the text. */
+@import "./find.css"; /* Find and replace. */
+@import "./reading.css"; /* Rendered Markdown, and the spelling pane. */
+@import "./assistant.css"; /* The side panel: assistant and history. */
+@import "./dialogs.css"; /* Dialogs: connecting the assistant, questions, linking to a note. */
+@import "./boards.css"; /* The Missions, Tests and Shortcuts pages, and the task board. */
+@import "./toasts.css"; /* Pop-ups at the bottom edge: task news, notices and the save alert. */
+@import "./tests.css"; /* The Tests tab: importing, generating and taking tests. */
+@import "./shortcuts.css"; /* The Shortcuts page. */
+@import "./responsive.css"; /* Smaller screens. */

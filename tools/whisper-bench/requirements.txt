@@ -1,0 +1,4 @@
+# pip picks the newest release with a wheel for this Python version.
+openvino-genai>=2025.4
+huggingface_hub>=0.24
+numpy

@@ -1,0 +1,177 @@
+/* Base */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  background: var(--bg);
+  color: var(--text);
+  font: 400 var(--fs-ui) / 1.5 var(--font-sans);
+}
+
+#root {
+  height: 100%;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+}
+
+/* One focus ring for everything reached by keyboard. The writing surfaces show their caret
+   instead, so a ring around the whole document isn't drawn there. */
+:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.title-input:focus-visible,
+.content-input:focus-visible {
+  outline: none;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.icon {
+  flex: none;
+  display: block;
+}
+
+.argonaut-mark .mark-gold {
+  stroke: var(--gold);
+}
+
+.argonaut-mark .mark-blue {
+  stroke: var(--blue);
+}
+
+/* Layout: sidebar | document | side panel. Side panels give way before the document does. */
+
+.app-layout {
+  height: 100%;
+  display: grid;
+  grid-template-columns: var(--sidebar-width) minmax(0, 1fr);
+}
+
+.app-layout.panel-open {
+  grid-template-columns: var(--sidebar-width) minmax(0, 1fr) var(--panel-width);
+}
+
+.app-layout.layout-narrow {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.editor-pane {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
+  /* Tools size themselves by the room the workspace has, not by the window. */
+  container: workspace / inline-size;
+}
+
+.editor-scroll {
+  flex: 1;
+  min-height: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+/* Drawers and the dialog, laid over the workspace. */
+
+.drawer-layer,
+.dialog-layer {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+}
+
+.dialog-layer {
+  z-index: 60;
+  display: grid;
+  place-items: center;
+  padding: 24px 16px;
+}
+
+.scrim {
+  position: absolute;
+  inset: 0;
+  background: var(--scrim);
+}
+
+.drawer {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-panel);
+  box-shadow: var(--shadow-overlay);
+  outline: none;
+}
+
+.drawer-left {
+  left: 0;
+  width: min(88vw, var(--sidebar-width));
+  border-right: 1px solid var(--border-strong);
+  animation: drawer-in-left 0.18s ease-out;
+}
+
+.drawer-right {
+  right: 0;
+  width: min(100vw, 400px);
+  border-left: 1px solid var(--border-strong);
+  animation: drawer-in-right 0.18s ease-out;
+}
+
+.drawer > .sidebar,
+.drawer > .side-panel {
+  flex: 1;
+  min-height: 0;
+  border: none;
+  background: var(--bg-panel);
+}
+
+@keyframes drawer-in-left {
+  from {
+    transform: translateX(-24px);
+    opacity: 0;
+  }
+}
+
+@keyframes drawer-in-right {
+  from {
+    transform: translateX(24px);
+    opacity: 0;
+  }
+}

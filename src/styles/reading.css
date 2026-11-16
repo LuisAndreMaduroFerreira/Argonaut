@@ -1,0 +1,182 @@
+/* Headings read as titles, so they keep a ragged edge. */
+.markdown-preview :is(h1, h2, h3, h4, h5, h6) {
+  text-align: start;
+}
+
+.markdown-preview h1 {
+  margin: 1.6em 0 0.5em;
+  font-size: 1.75em;
+  line-height: 1.25;
+}
+
+.markdown-preview h2 {
+  margin: 1.5em 0 0.45em;
+  font-size: 1.4em;
+  line-height: 1.3;
+}
+
+.markdown-preview h3,
+.markdown-preview h4 {
+  margin: 1.4em 0 0.4em;
+  color: var(--heading);
+  font: 600 1em/1.4 var(--font-sans);
+}
+
+.markdown-preview ul,
+.markdown-preview ol {
+  margin: 0 0 1.1em;
+  padding-left: 1.4em;
+}
+
+.markdown-preview li {
+  margin: 0.35em 0;
+}
+
+.markdown-preview li::marker {
+  color: var(--text-muted);
+}
+
+.markdown-preview code {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  color: var(--gold-text);
+}
+
+.markdown-preview pre {
+  margin: 0 0 1.1em;
+  padding: 2px 0 2px 16px;
+  border-left: 2px solid var(--gold-soft);
+  overflow-x: auto;
+}
+
+.markdown-preview blockquote {
+  margin: 0 0 1.1em;
+  padding-left: 16px;
+  border-left: 2px solid var(--gold);
+  color: var(--text-soft);
+}
+
+/* Every picture spans the full width of the text, whatever its own size. */
+.markdown-preview img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1.4em 0;
+  border-radius: 6px;
+}
+
+/* A table can be wider than the text. It spreads into the free room on both sides of the
+   column, as far as the pane's margins (more with the side panel closed), and scrolls sideways
+   only past that. The text itself keeps its reading width. */
+.md-table {
+  /* Half the room left in the pane once the column is placed; 100% is the column. */
+  --bleed: max(0px, (100cqi - 2 * var(--gutter) - 100%) / 2);
+  margin: 1.4em calc(-1 * var(--bleed));
+  overflow-x: auto;
+}
+
+.markdown-preview table {
+  /* Never narrower than the text, so a small table still lines up with it. */
+  min-width: min(100%, var(--reading-width));
+  margin: 0 auto;
+  border-collapse: collapse;
+  font-size: 0.94em;
+  line-height: 1.45;
+}
+
+.markdown-preview :is(th, td) {
+  padding: 8px 20px 8px 0;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+.markdown-preview :is(th, td):last-child {
+  padding-right: 0;
+}
+
+/* Cells keep a straight left edge: justified, a narrow cell opens gaps between its words. A
+   column aligned in the Markdown (:--- or ---:) keeps that alignment. */
+.markdown-preview :is(th, td):not([align]) {
+  text-align: start;
+}
+
+.markdown-preview th {
+  font: 600 var(--fs-meta) / 1.4 var(--font-sans);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-soft);
+  border-bottom-color: var(--border-strong);
+}
+
+.markdown-preview a,
+.wikilink {
+  color: var(--link);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
+
+.markdown-preview a:hover {
+  border-bottom-width: 2px;
+}
+
+/* A link to a note that doesn't exist yet: clicking it creates the note. */
+.markdown-preview .wikilink-missing {
+  color: var(--text-soft);
+  border-bottom-style: dashed;
+}
+
+/* The spelling pane, opened by right-clicking an underlined word. */
+
+.spell-menu {
+  position: fixed;
+  z-index: 40;
+  min-width: 220px;
+  max-width: 300px;
+  padding: 6px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-overlay);
+}
+
+.spell-menu-word {
+  margin-bottom: 4px;
+  padding: 6px 10px 8px;
+  border-bottom: 1px solid var(--border);
+  font: 400 var(--fs-meta) / 1.4 var(--font-mono);
+  color: var(--text-muted);
+  overflow-wrap: anywhere;
+}
+
+.spell-menu-item {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  min-height: 36px;
+  padding: 7px 10px;
+  background: transparent;
+  border: none;
+  border-radius: 6px;
+  text-align: left;
+  color: var(--text);
+  font-size: var(--fs-ui);
+  line-height: 1.4;
+}
+
+.spell-menu-item:hover {
+  background: var(--bg-raised);
+  color: var(--heading);
+}
+
+.spell-menu-item-keep {
+  margin-top: 4px;
+  border-top: 1px solid var(--border);
+  border-radius: 0 0 6px 6px;
+  color: var(--text-soft);
+}
+
+.spell-menu-note {
+  padding: 7px 10px;
+  font-size: var(--fs-ui);
+  color: var(--text-muted);
+}

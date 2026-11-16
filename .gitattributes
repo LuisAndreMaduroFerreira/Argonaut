@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Every text file stays LF, on Windows too: the containers build from these files.
+* text=auto eol=lf
+*.png binary
+*.ico binary

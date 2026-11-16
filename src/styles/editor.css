@@ -1,0 +1,415 @@
+/* The document: one reading column, centred, and the dominant thing on screen. */
+
+.doc {
+  width: 100%;
+  max-width: calc(var(--reading-width) + 2 * var(--gutter));
+  margin: 0 auto;
+  padding: 56px var(--gutter) 128px;
+}
+
+.doc-header {
+  margin-bottom: 36px;
+}
+
+.doc-topline {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  min-height: 36px;
+}
+
+.doc-tools {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-right: -8px;
+}
+
+.kicker {
+  font: 500 var(--fs-meta) / 1 var(--font-sans);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gold-text);
+}
+
+.title-input {
+  display: block;
+  width: 100%;
+  margin: 14px 0 14px;
+  padding: 0;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: var(--heading);
+  font: 400 42px/1.15 var(--font-serif);
+  letter-spacing: -0.005em;
+}
+
+.title-input::placeholder {
+  color: var(--text-muted);
+}
+
+/* A work's final view: the title reads like a note's, but isn't a field. */
+.final-view-title {
+  margin: 14px 0 14px;
+  color: var(--heading);
+  font: 400 42px/1.15 var(--font-serif);
+  letter-spacing: -0.005em;
+  overflow-wrap: anywhere;
+}
+
+.doc-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 10px;
+  font-size: var(--fs-ui);
+  line-height: 1.5;
+  color: var(--text-muted);
+}
+
+.doc-meta-error {
+  color: var(--flag);
+}
+
+.save-status-dirty,
+.save-status-error {
+  color: var(--gold-text);
+}
+
+.details-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 32px;
+  margin-left: auto;
+  padding: 4px 8px 4px 12px;
+  background: transparent;
+  border: 1px solid var(--border-strong);
+  border-radius: 999px;
+  color: var(--text-soft);
+  font: 500 var(--fs-meta) / 1.2 var(--font-sans);
+}
+
+.details-toggle:hover {
+  background: var(--bg-raised);
+  color: var(--text);
+}
+
+.details-toggle .icon {
+  transition: transform 0.15s ease;
+}
+
+.details-toggle-open {
+  color: var(--text);
+}
+
+.details-toggle-open .icon {
+  transform: rotate(180deg);
+}
+
+.doc-details {
+  display: grid;
+  gap: 16px;
+  margin-top: 16px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+
+.doc-details[hidden] {
+  display: none;
+}
+
+.detail-row {
+  display: grid;
+  grid-template-columns: 96px minmax(0, 1fr);
+  align-items: center;
+  gap: 16px;
+}
+
+.detail-label {
+  font: 500 var(--fs-meta) / 1.3 var(--font-sans);
+  color: var(--text-muted);
+}
+
+.detail-value {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 12px;
+  min-width: 0;
+}
+
+.detail-input {
+  width: 100%;
+  min-height: 36px;
+  padding: 6px 10px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-input);
+  border-radius: 6px;
+  outline: none;
+  color: var(--text);
+  font-size: var(--fs-ui);
+}
+
+.detail-input:focus {
+  border-color: var(--focus);
+}
+
+.detail-select {
+  width: auto;
+  min-width: 200px;
+}
+
+.detail-note {
+  font-size: var(--fs-meta);
+  color: var(--text-muted);
+}
+
+.chip-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+}
+
+.chip {
+  padding: 3px 10px;
+  background: var(--bg-raised);
+  border-radius: 999px;
+  color: var(--text-soft);
+  font-size: var(--fs-meta);
+}
+
+.chip-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  border: 1px solid transparent;
+  color: var(--link);
+}
+
+.chip-link:hover {
+  border-color: var(--link);
+}
+
+.chip-link-missing {
+  color: var(--text-soft);
+  border-style: dashed;
+  border-color: var(--border-input);
+}
+
+/* Tags: chips and a text box sharing one field, which carries the focus colour. */
+.tag-input {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  width: 100%;
+  min-height: 36px;
+  padding: 4px 6px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-input);
+  border-radius: 6px;
+  cursor: text;
+}
+
+.tag-input:focus-within {
+  border-color: var(--focus);
+}
+
+.tag-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  padding: 1px 1px 1px 10px;
+  color: var(--text);
+  cursor: default;
+}
+
+.tag-remove {
+  display: grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  background: none;
+  border: none;
+  border-radius: 999px;
+  color: var(--text-muted);
+}
+
+.tag-remove:hover {
+  background: var(--bg-selected);
+  color: var(--text);
+}
+
+/* The note's group, leading its tags. */
+.group-chip {
+  gap: 5px;
+  background: var(--gold-wash);
+  box-shadow: inset 0 0 0 1px var(--gold-soft);
+  color: var(--gold-text);
+}
+
+.group-chip > .icon {
+  flex: none;
+}
+
+.tag-input-field {
+  flex: 1;
+  min-width: 140px;
+  min-height: 26px;
+  padding: 0 4px;
+  background: none;
+  border: none;
+  outline: none;
+  color: var(--text);
+  font-size: var(--fs-ui);
+}
+
+.tag-input-field:focus-visible {
+  outline: none;
+}
+
+.tag-input-field::placeholder {
+  color: var(--text-muted);
+}
+
+.detail-images {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  width: 100%;
+}
+
+.detail-images img {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+/* The textarea sits on an invisible copy of its own text, which carries the spelling
+   underlines. Both must share every metric, or the lines drift apart. */
+.content-area {
+  position: relative;
+}
+
+.content-input,
+.spell-overlay,
+.find-overlay {
+  width: 100%;
+  min-height: 320px;
+  margin: 0;
+  padding: 0;
+  border: none;
+  font: 400 var(--fs-body) / var(--lh-body) var(--font-serif);
+  /* Every wrapped line runs edge to edge; the last line of a paragraph stays as it is. */
+  text-align: justify;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+
+.content-input {
+  display: block;
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  resize: none;
+  background: transparent;
+  outline: none;
+  color: var(--text-body);
+}
+
+.content-input::placeholder {
+  color: var(--text-muted);
+}
+
+.spell-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  color: transparent;
+}
+
+.misspelled {
+  background: none;
+  color: transparent;
+  text-decoration: underline wavy var(--flag);
+  text-decoration-skip-ink: none;
+  text-underline-offset: 3px;
+}
+
+/* Links while writing: underlined in the link colour, dashed when the note doesn't exist yet.
+   Ctrl+click opens them. */
+.link-mark {
+  background: none;
+  color: transparent;
+  text-decoration: underline solid var(--link);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 4px;
+}
+
+.link-mark-missing {
+  text-decoration-style: dashed;
+  text-decoration-color: var(--text-muted);
+}
+
+.content-area.link-hover .content-input {
+  cursor: pointer;
+}
+
+/* Find's matches, behind the text like the spelling marks. Nothing here may change the text's
+   layout (no padding, margins or borders), or the tints would drift off their words. */
+.find-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  color: transparent;
+}
+
+.find-mark {
+  background: var(--find-match);
+  color: transparent;
+  border-radius: 2px;
+}
+
+.find-mark-current {
+  background: var(--find-current);
+  box-shadow: 0 0 0 1px var(--find-edge);
+}
+
+/* An empty match (like ^ in a regular expression) is a thin bar where it would insert. */
+.find-mark-empty {
+  box-shadow: 0 0 0 1px var(--find-edge);
+}
+
+/* The same tints on rendered pages (Preview, final views, Missions, Tests), painted by the
+   browser's highlight API so the page itself isn't touched. */
+[data-theme="dark"] ::highlight(argonaut-find) {
+  background-color: rgba(199, 155, 69, 0.24);
+}
+
+[data-theme="dark"] ::highlight(argonaut-find-current) {
+  background-color: rgba(227, 184, 99, 0.36);
+  text-decoration: underline 2px #e3b863;
+}
+
+[data-theme="light"] ::highlight(argonaut-find) {
+  background-color: rgba(148, 112, 31, 0.16);
+}
+
+[data-theme="light"] ::highlight(argonaut-find-current) {
+  background-color: rgba(212, 160, 23, 0.4);
+  text-decoration: underline 2px #7d5e16;
+}

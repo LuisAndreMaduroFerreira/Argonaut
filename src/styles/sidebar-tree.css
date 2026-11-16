@@ -1,0 +1,380 @@
+/* Notes picked together with Shift+click or Ctrl+click. */
+.nav-item-selected {
+  background: var(--gold-wash);
+  box-shadow: inset 0 0 0 1px var(--gold-soft);
+}
+
+.nav-item-selected .nav-item-select {
+  color: var(--text);
+}
+
+/* What can be done with the picked notes, above the footer while there are some. */
+.selection-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2px 4px;
+  padding: 8px 10px 8px 14px;
+  border-top: 1px solid var(--border);
+  background: var(--bg-raised);
+}
+
+.selection-count {
+  margin-right: auto;
+  font: 500 var(--fs-meta) / 1.2 var(--font-sans);
+  color: var(--gold-text);
+}
+
+.selection-bar .ghost-btn {
+  padding: 4px 8px;
+}
+
+.ghost-btn.danger {
+  color: var(--flag);
+}
+
+.selection-clear {
+  width: 30px;
+  height: 30px;
+}
+
+/* Delete stays out of the way until the row is pointed at or reached by keyboard. */
+.nav-item-delete {
+  width: 30px;
+  height: 30px;
+  margin-right: 4px;
+  opacity: 0;
+}
+
+.nav-item:hover .nav-item-delete,
+.nav-item:focus-within .nav-item-delete {
+  opacity: 1;
+}
+
+/* Groups: folders with their notes and subgroups indented beneath. --depth is set per row. */
+.nav-heading-tools {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.nav-heading-btn {
+  width: 28px;
+  height: 28px;
+  margin: -8px -6px -8px 0;
+}
+
+.note-tree {
+  padding-bottom: 20px;
+  border-radius: var(--radius);
+}
+
+/* The top level takes a drop anywhere outside a group; its heading shows it will. */
+.note-tree.drop-top > .nav-heading {
+  color: var(--gold-text);
+  box-shadow: inset 0 -2px 0 var(--gold);
+}
+
+/* Notes and Works: section headings that open and close their section. */
+.nav-section-heading {
+  padding-left: 2px;
+}
+
+.nav-section-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin: -6px 0;
+  padding: 6px 6px 6px 0;
+  background: none;
+  border: none;
+  border-radius: 6px;
+  color: inherit;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: inherit;
+}
+
+.nav-section-toggle:hover {
+  color: var(--text);
+}
+
+.nav-section-toggle[aria-expanded="false"] .nav-group-chevron {
+  transform: rotate(-90deg);
+}
+
+.note-tree + .note-tree {
+  margin-top: 6px;
+}
+
+/* Dragging a note up or down: a gold line shows where it will land. */
+.nav-item.drop-before {
+  box-shadow: inset 0 2px 0 var(--gold);
+}
+
+.nav-item.drop-after {
+  box-shadow: inset 0 -2px 0 var(--gold);
+}
+
+.nav-item,
+.nav-group-row,
+.nav-group-edit,
+.nav-empty {
+  padding-left: calc(var(--depth, 0) * 16px);
+}
+
+/* In the tree, a note's title lines up with the folder icons of the groups beside it. */
+.note-tree .nav-item-select {
+  padding-left: 26px;
+}
+
+.nav-group-row {
+  position: relative;
+  display: flex;
+  align-items: center;
+  border-radius: 6px;
+}
+
+.nav-group-row:hover {
+  background: var(--bg-raised);
+}
+
+.nav-group-row.drop-target {
+  background: var(--gold-wash);
+  box-shadow: inset 0 0 0 1px var(--gold);
+}
+
+.nav-group-toggle {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 6px 8px 4px;
+  background: transparent;
+  border: none;
+  border-radius: 6px;
+  text-align: left;
+  color: var(--text);
+  font: 500 var(--fs-ui) / 1.35 var(--font-sans);
+}
+
+.nav-group-toggle .icon {
+  flex: none;
+  color: var(--text-muted);
+}
+
+.nav-group-chevron {
+  display: grid;
+  place-items: center;
+  width: 16px;
+  transition: transform 0.15s ease;
+}
+
+.nav-group-toggle[aria-expanded="false"] .nav-group-chevron {
+  transform: rotate(-90deg);
+}
+
+.nav-group-name {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.nav-group-count {
+  margin-left: auto;
+  padding-left: 6px;
+  font: 400 var(--fs-meta) / 1 var(--font-mono);
+  color: var(--text-muted);
+}
+
+/* New note and ⋯ wait until the row is pointed at or reached by keyboard, like delete. */
+.nav-row-action {
+  width: 28px;
+  height: 28px;
+  opacity: 0;
+}
+
+.nav-row-action:last-of-type {
+  margin-right: 4px;
+}
+
+.nav-group-row:hover .nav-row-action,
+.nav-group-row:focus-within .nav-row-action,
+.nav-row-action[aria-expanded="true"] {
+  opacity: 1;
+}
+
+.nav-empty {
+  list-style: none;
+  padding-top: 4px;
+  padding-bottom: 6px;
+  font-size: var(--fs-meta);
+  color: var(--text-muted);
+}
+
+.nav-empty,
+.nav-group-edit {
+  margin-left: 26px;
+}
+
+.nav-group-row .nav-group-edit {
+  flex: 1;
+  margin-left: 0;
+}
+
+.nav-group-edit {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  color: var(--text-muted);
+}
+
+.nav-group-input {
+  flex: 1;
+  min-width: 0;
+  min-height: 32px;
+  padding: 4px 8px;
+  background: var(--bg-panel);
+  border: 1px solid var(--focus);
+  border-radius: 6px;
+  outline: none;
+  color: var(--text);
+  font-size: var(--fs-ui);
+}
+
+.nav-group-input[aria-invalid="true"] {
+  border-color: var(--flag);
+}
+
+.nav-error {
+  flex-basis: 100%;
+  margin: 2px 0 6px;
+  padding: 0 4px;
+  font-size: var(--fs-meta);
+  line-height: 1.4;
+  color: var(--flag);
+}
+
+/* The ⋯ menu of a group, opened under its row. */
+.row-menu {
+  position: absolute;
+  top: calc(100% + 4px);
+  right: 4px;
+  z-index: 30;
+  display: flex;
+  flex-direction: column;
+  min-width: 190px;
+  max-width: 250px;
+  max-height: 320px;
+  overflow-y: auto;
+  padding: 6px;
+  background: var(--bg-raised);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-overlay);
+}
+
+.row-menu-heading {
+  margin: 4px 8px 6px;
+  font-size: var(--fs-meta);
+  color: var(--text-muted);
+}
+
+.row-menu-subheading {
+  margin: 8px 10px 2px;
+  font: 500 var(--fs-meta) / 1.2 var(--font-sans);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.row-menu-divider {
+  margin: 4px 6px;
+  border: none;
+  border-top: 1px solid var(--border-strong);
+}
+
+.row-menu-item .icon {
+  flex: none;
+  color: var(--text-soft);
+}
+
+.row-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 34px;
+  padding: 6px 10px;
+  background: transparent;
+  border: none;
+  border-radius: 6px;
+  text-align: left;
+  color: var(--text);
+  font-size: var(--fs-ui);
+}
+
+.row-menu-item span {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.row-menu-item:hover,
+.row-menu-item:focus-visible {
+  background: var(--bg-selected);
+}
+
+.row-menu-item:disabled {
+  color: var(--text-muted);
+}
+
+.row-menu-item.danger {
+  color: var(--flag);
+}
+
+/* Search results name the group each note is in. */
+.nav-item-found {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.nav-item-title,
+.nav-item-path {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.nav-item-path {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: var(--fs-meta);
+  color: var(--text-muted);
+}
+
+.nav-item-path .icon {
+  flex: none;
+}
+
+.empty-hint {
+  margin: 0;
+  padding: 6px 10px;
+  color: var(--text-muted);
+  font-size: var(--fs-ui);
+}
+
+.sidebar-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 12px;
+  border-top: 1px solid var(--border);
+}

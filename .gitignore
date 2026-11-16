@@ -1,0 +1,18 @@
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Local settings and the LLM key. Copy .env.example to .env to start.
+.env
+.env.*
+!.env.example
+
+# Built by launcher\build.ps1
+Argonaut.exe
+Microsoft.Web.WebView2.*.dll
+WebView2Loader.dll
+launcher/obj/
+launcher/packages/
+
+# Local Claude Code state
+.claude/settings.local.json

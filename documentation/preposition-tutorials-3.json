@@ -1,0 +1,5621 @@
+{
+  "name": "Preposition tutorials 3 — place and time",
+  "tests": [
+    {
+      "title": "ao lado de · next to",
+      "description": "Hint: 3 words, starts with à. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "La boulangerie est ___ la poste.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: A padaria fica ao lado dos correios."
+        },
+        {
+          "question": "Assieds-toi ___ moi.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: Senta-te ao meu lado."
+        },
+        {
+          "question": "Il habite ___ musée.",
+          "answer": [
+            "à côté du"
+          ],
+          "explanation": "PT: Vive ao lado do museu. à côté du = à côté de + le."
+        },
+        {
+          "question": "Mets la lampe ___ lit.",
+          "answer": [
+            "à côté du"
+          ],
+          "explanation": "PT: Põe o candeeiro ao lado da cama. à côté du = à côté de + le."
+        },
+        {
+          "question": "Le parking est ___ supermarché.",
+          "answer": [
+            "à côté du"
+          ],
+          "explanation": "PT: O parque de estacionamento fica ao lado do supermercado. à côté du = à côté de + le."
+        },
+        {
+          "question": "Il y a une école ___ l'église.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: Há uma escola ao lado da igreja."
+        },
+        {
+          "question": "Elle s'est garée ___ arbres.",
+          "answer": [
+            "à côté des"
+          ],
+          "explanation": "PT: Estacionou ao lado das árvores. à côté des = à côté de + les."
+        },
+        {
+          "question": "Les toilettes sont ___ escaliers.",
+          "answer": [
+            "à côté des"
+          ],
+          "explanation": "PT: A casa de banho fica ao lado das escadas. à côté des = à côté de + les."
+        },
+        {
+          "question": "Mon bureau est ___ celui du directeur.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: O meu gabinete fica ao lado do gabinete do diretor."
+        },
+        {
+          "question": "Il y a un café ___ l'hôtel.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: Há um café ao lado do hotel."
+        },
+        {
+          "question": "Le chien dort ___ la cheminée.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: O cão dorme ao lado da lareira."
+        },
+        {
+          "question": "La pharmacie se trouve ___une banque.",
+          "answer": [
+            "à côté d'"
+          ],
+          "explanation": "PT: A farmácia fica ao lado de um banco. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Ses problèmes sont petits ___ nôtres.",
+          "answer": [
+            "à côté des"
+          ],
+          "explanation": "PT: Os problemas dele são pequenos comparados com os nossos. à côté des = à côté de + les. À côté de can also mean compared with."
+        },
+        {
+          "question": "Range les verres ___ assiettes.",
+          "answer": [
+            "à côté des"
+          ],
+          "explanation": "PT: Arruma os copos ao lado dos pratos. à côté des = à côté de + les."
+        },
+        {
+          "question": "Il est passé ___ la vérité.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: Passou ao lado da verdade."
+        },
+        {
+          "question": "Le marché est juste ___ la gare routière.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: O mercado fica mesmo ao lado da central de camionagem."
+        },
+        {
+          "question": "Il a garé sa moto ___ mon vélo.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: Estacionou a mota ao lado da minha bicicleta."
+        },
+        {
+          "question": "Le cinéma est ___ centre commercial.",
+          "answer": [
+            "à côté du"
+          ],
+          "explanation": "PT: O cinema fica ao lado do centro comercial. à côté du = à côté de + le."
+        },
+        {
+          "question": "Les enfants dorment dans la chambre ___ la nôtre.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: As crianças dormem no quarto ao lado do nosso."
+        },
+        {
+          "question": "Il y a une fontaine ___ château.",
+          "answer": [
+            "à côté du"
+          ],
+          "explanation": "PT: Há uma fonte ao lado do castelo. à côté du = à côté de + le."
+        },
+        {
+          "question": "J'ai trouvé tes lunettes ___ téléphone.",
+          "answer": [
+            "à côté du"
+          ],
+          "explanation": "PT: Encontrei os teus óculos ao lado do telemóvel. à côté du = à côté de + le."
+        },
+        {
+          "question": "Ne passe pas ___ cette occasion !",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: Não deixes escapar esta oportunidade!"
+        },
+        {
+          "question": "Elle habite ___ ses parents.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: Vive ao lado dos pais."
+        },
+        {
+          "question": "Le restaurant est ___un magasin de vélos.",
+          "answer": [
+            "à côté d'"
+          ],
+          "explanation": "PT: O restaurante fica ao lado de uma loja de bicicletas. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Mets ta chaise ___ la mienne.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: Põe a tua cadeira ao lado da minha."
+        },
+        {
+          "question": "La salle de bains est ___ chambres.",
+          "answer": [
+            "à côté des"
+          ],
+          "explanation": "PT: A casa de banho fica ao lado dos quartos. à côté des = à côté de + les."
+        },
+        {
+          "question": "Il a l'air petit ___ son frère.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: Parece pequeno ao lado do irmão."
+        },
+        {
+          "question": "On a mangé ___ port.",
+          "answer": [
+            "à côté du"
+          ],
+          "explanation": "PT: Comemos ao lado do porto. à côté du = à côté de + le."
+        },
+        {
+          "question": "L'arrêt de bus est ___une boulangerie.",
+          "answer": [
+            "à côté d'"
+          ],
+          "explanation": "PT: A paragem do autocarro fica ao lado de uma padaria. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Le stylo est ___ ton cahier.",
+          "answer": [
+            "à côté de"
+          ],
+          "explanation": "PT: A caneta está ao lado do teu caderno."
+        }
+      ]
+    },
+    {
+      "title": "perto de · near",
+      "description": "Hint: 2 words, starts with p, with a grave accent. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Nous habitons ___ la mer.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Vivemos perto do mar."
+        },
+        {
+          "question": "Il y a un bon restaurant ___ chez moi.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Há um bom restaurante perto de minha casa."
+        },
+        {
+          "question": "L'hôtel est ___ centre.",
+          "answer": [
+            "près du"
+          ],
+          "explanation": "PT: O hotel fica perto do centro. près du = près de + le."
+        },
+        {
+          "question": "Elle travaille ___ l'aéroport.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Trabalha perto do aeroporto."
+        },
+        {
+          "question": "Ne t'assieds pas trop ___ feu.",
+          "answer": [
+            "près du"
+          ],
+          "explanation": "PT: Não te sentes muito perto do lume. près du = près de + le."
+        },
+        {
+          "question": "Le camping est ___ plages.",
+          "answer": [
+            "près des"
+          ],
+          "explanation": "PT: O parque de campismo fica perto das praias. près des = près de + les."
+        },
+        {
+          "question": "Il habite ___ ses enfants.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Vive perto dos filhos."
+        },
+        {
+          "question": "Viens ___ moi.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Vem para perto de mim."
+        },
+        {
+          "question": "La gare est tout ___ici.",
+          "answer": [
+            "près d'"
+          ],
+          "explanation": "PT: A estação fica muito perto daqui. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Il y a un parc ___ l'école.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Há um parque perto da escola."
+        },
+        {
+          "question": "Le chat dort ___ radiateur.",
+          "answer": [
+            "près du"
+          ],
+          "explanation": "PT: O gato dorme perto do aquecedor. près du = près de + le."
+        },
+        {
+          "question": "Nous avons loué une maison ___ lac.",
+          "answer": [
+            "près du"
+          ],
+          "explanation": "PT: Alugámos uma casa perto do lago. près du = près de + le."
+        },
+        {
+          "question": "Le village est ___ montagnes.",
+          "answer": [
+            "près des"
+          ],
+          "explanation": "PT: A aldeia fica perto das montanhas. près des = près de + les."
+        },
+        {
+          "question": "Elle était ___ la porte quand c'est arrivé.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Estava perto da porta quando aconteceu."
+        },
+        {
+          "question": "Il est ___ la retraite.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Está perto da reforma."
+        },
+        {
+          "question": "Les prix sont ___ 100 euros.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Os preços rondam os 100 euros. With a number, près de means nearly."
+        },
+        {
+          "question": "Il habite ___ Lyon.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Vive perto de Lyon."
+        },
+        {
+          "question": "Ne te mets pas ___ fenêtres ouvertes.",
+          "answer": [
+            "près des"
+          ],
+          "explanation": "PT: Não te ponhas perto das janelas abertas. près des = près de + les."
+        },
+        {
+          "question": "Ils ont acheté un appartement ___ l'hôpital.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Compraram um apartamento perto do hospital."
+        },
+        {
+          "question": "Il était ___ pleurer.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Esteve quase a chorar. Près de + infinitive: about to do it."
+        },
+        {
+          "question": "Mon bureau est ___ métro.",
+          "answer": [
+            "près du"
+          ],
+          "explanation": "PT: O meu escritório fica perto do metro. près du = près de + le."
+        },
+        {
+          "question": "Le marché se tient ___ remparts.",
+          "answer": [
+            "près des"
+          ],
+          "explanation": "PT: O mercado realiza-se perto das muralhas. près des = près de + les."
+        },
+        {
+          "question": "Reste ___ ta sœur.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Fica perto da tua irmã."
+        },
+        {
+          "question": "Il y a une source ___un vieux chêne.",
+          "answer": [
+            "près d'"
+          ],
+          "explanation": "PT: Há uma nascente perto de um velho carvalho. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Le stade est ___ fleuve.",
+          "answer": [
+            "près du"
+          ],
+          "explanation": "PT: O estádio fica perto do rio. près du = près de + le."
+        },
+        {
+          "question": "La boulangerie est ___ l'arrêt de bus.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: A padaria fica perto da paragem do autocarro."
+        },
+        {
+          "question": "Nous étions ___ deux cents à la fête.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Éramos perto de duzentos na festa."
+        },
+        {
+          "question": "Elle vit ___ ses amis d'enfance.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Vive perto dos amigos de infância."
+        },
+        {
+          "question": "Le bureau de poste est ___ la mairie.",
+          "answer": [
+            "près de"
+          ],
+          "explanation": "PT: Os correios ficam perto da câmara municipal."
+        },
+        {
+          "question": "Il a vécu ___un an à Berlin.",
+          "answer": [
+            "près d'"
+          ],
+          "explanation": "PT: Viveu quase um ano em Berlim. De becomes d' before a vowel or a mute h."
+        }
+      ]
+    },
+    {
+      "title": "longe de · far from",
+      "description": "Hint: 2 words, starts with l. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "L'aéroport est ___ la ville.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: O aeroporto fica longe da cidade."
+        },
+        {
+          "question": "Il habite ___ son travail.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Vive longe do trabalho."
+        },
+        {
+          "question": "Elle vit ___ sa famille.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Vive longe da família."
+        },
+        {
+          "question": "Le camping est ___ centre-ville.",
+          "answer": [
+            "loin du"
+          ],
+          "explanation": "PT: O parque de campismo fica longe do centro da cidade. loin du = loin de + le."
+        },
+        {
+          "question": "Ici, nous sommes ___ tout.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Aqui estamos longe de tudo."
+        },
+        {
+          "question": "Il a grandi ___ la mer.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Cresceu longe do mar."
+        },
+        {
+          "question": "Le village est ___ grandes villes.",
+          "answer": [
+            "loin des"
+          ],
+          "explanation": "PT: A aldeia fica longe das grandes cidades. loin des = loin de + les."
+        },
+        {
+          "question": "Le travail est ___être fini.",
+          "answer": [
+            "loin d'"
+          ],
+          "explanation": "PT: O trabalho está longe de estar acabado. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Reste ___ bord de la falaise.",
+          "answer": [
+            "loin du"
+          ],
+          "explanation": "PT: Fica longe da beira da falésia. loin du = loin de + le."
+        },
+        {
+          "question": "Ils vivent ___ bruit.",
+          "answer": [
+            "loin du"
+          ],
+          "explanation": "PT: Vivem longe do barulho. loin du = loin de + le."
+        },
+        {
+          "question": "La plage n'est pas ___ l'hôtel.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: A praia não fica longe do hotel."
+        },
+        {
+          "question": "Il travaille ___ chez lui.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Trabalha longe de casa."
+        },
+        {
+          "question": "Il est ___être bête.",
+          "answer": [
+            "loin d'"
+          ],
+          "explanation": "PT: Ele está longe de ser estúpido. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Mets les médicaments ___ enfants.",
+          "answer": [
+            "loin des"
+          ],
+          "explanation": "PT: Põe os medicamentos longe das crianças. loin des = loin de + les."
+        },
+        {
+          "question": "Elle a fait ses études ___ son pays.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Estudou longe do seu país."
+        },
+        {
+          "question": "Le stade est ___ la gare.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: O estádio fica longe da estação."
+        },
+        {
+          "question": "Ce n'est pas ___ici.",
+          "answer": [
+            "loin d'"
+          ],
+          "explanation": "PT: Não fica longe daqui. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "On part en vacances ___ écrans.",
+          "answer": [
+            "loin des"
+          ],
+          "explanation": "PT: Vamos de férias longe dos ecrãs. loin des = loin de + les."
+        },
+        {
+          "question": "Il s'est assis ___ autres.",
+          "answer": [
+            "loin des"
+          ],
+          "explanation": "PT: Sentou-se longe dos outros. loin des = loin de + les."
+        },
+        {
+          "question": "Le restaurant est un peu ___ métro.",
+          "answer": [
+            "loin du"
+          ],
+          "explanation": "PT: O restaurante fica um pouco longe do metro. loin du = loin de + le."
+        },
+        {
+          "question": "Nous sommes encore ___ la vérité.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Ainda estamos longe da verdade."
+        },
+        {
+          "question": "La maison est ___ la route principale.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: A casa fica longe da estrada principal."
+        },
+        {
+          "question": "Il vit ___ ses enfants depuis le divorce.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Vive longe dos filhos desde o divórcio."
+        },
+        {
+          "question": "Les soldats étaient ___ leur pays.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Os soldados estavam longe do seu país."
+        },
+        {
+          "question": "Le chalet est ___ pistes de ski.",
+          "answer": [
+            "loin des"
+          ],
+          "explanation": "PT: O chalé fica longe das pistas de esqui. loin des = loin de + les."
+        },
+        {
+          "question": "Elle est partie ___ ses soucis.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Partiu para longe das preocupações."
+        },
+        {
+          "question": "L'école n'est pas ___ parc.",
+          "answer": [
+            "loin du"
+          ],
+          "explanation": "PT: A escola não fica longe do parque. loin du = loin de + le."
+        },
+        {
+          "question": "Avec ce chiffre, on est ___ compte.",
+          "answer": [
+            "loin du"
+          ],
+          "explanation": "PT: Com este número, estamos muito longe da conta certa. loin du = loin de + le."
+        },
+        {
+          "question": "Il a placé son bureau ___ la fenêtre.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Pôs a secretária longe da janela."
+        },
+        {
+          "question": "Ils habitent ___ la côte.",
+          "answer": [
+            "loin de"
+          ],
+          "explanation": "PT: Vivem longe da costa."
+        }
+      ]
+    },
+    {
+      "title": "em frente a, defronte de · opposite, facing",
+      "description": "Hint: 3 words, starts with e. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "La pharmacie est ___ la mairie.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: A farmácia fica em frente à câmara municipal."
+        },
+        {
+          "question": "Il s'est assis ___ moi.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: Sentou-se em frente a mim."
+        },
+        {
+          "question": "Le café est ___ musée.",
+          "answer": [
+            "en face du"
+          ],
+          "explanation": "PT: O café fica em frente ao museu. en face du = en face de + le."
+        },
+        {
+          "question": "J'habite ___ parc.",
+          "answer": [
+            "en face du"
+          ],
+          "explanation": "PT: Moro em frente ao parque. en face du = en face de + le."
+        },
+        {
+          "question": "La banque est ___ l'église.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: O banco fica em frente à igreja."
+        },
+        {
+          "question": "Il y a un arrêt de bus ___ l'école.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: Há uma paragem de autocarro em frente à escola."
+        },
+        {
+          "question": "L'hôtel est ___ la gare.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: O hotel fica em frente à estação."
+        },
+        {
+          "question": "Le restaurant est ___ quais.",
+          "answer": [
+            "en face des"
+          ],
+          "explanation": "PT: O restaurante fica em frente ao cais. en face des = en face de + les."
+        },
+        {
+          "question": "Notre maison est ___ jardins publics.",
+          "answer": [
+            "en face des"
+          ],
+          "explanation": "PT: A nossa casa fica em frente aos jardins públicos. en face des = en face de + les."
+        },
+        {
+          "question": "Le théâtre est ___ jardin botanique.",
+          "answer": [
+            "en face du"
+          ],
+          "explanation": "PT: O teatro fica em frente ao jardim botânico. en face du = en face de + le."
+        },
+        {
+          "question": "Je me suis garé ___ ta maison.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: Estacionei em frente à tua casa."
+        },
+        {
+          "question": "La boulangerie est juste ___ marché.",
+          "answer": [
+            "en face du"
+          ],
+          "explanation": "PT: A padaria fica mesmo em frente ao mercado. en face du = en face de + le."
+        },
+        {
+          "question": "On s'est retrouvés ___un vieux cinéma.",
+          "answer": [
+            "en face d'"
+          ],
+          "explanation": "PT: Encontrámo-nos em frente a um cinema antigo. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Elle travaille ___ l'hôpital.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: Trabalha em frente ao hospital."
+        },
+        {
+          "question": "Le bureau de tabac est ___ la poste.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: A tabacaria fica em frente aos correios."
+        },
+        {
+          "question": "Il habite ___ mes parents.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: Vive em frente aos meus pais."
+        },
+        {
+          "question": "Le lycée est ___ stade.",
+          "answer": [
+            "en face du"
+          ],
+          "explanation": "PT: O liceu fica em frente ao estádio. en face du = en face de + le."
+        },
+        {
+          "question": "La station-service est ___ garage Renault.",
+          "answer": [
+            "en face du"
+          ],
+          "explanation": "PT: A bomba de gasolina fica em frente à garagem da Renault. en face du = en face de + le."
+        },
+        {
+          "question": "Nous avons dîné dans le restaurant ___ notre hôtel.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: Jantámos no restaurante em frente ao nosso hotel."
+        },
+        {
+          "question": "La statue se trouve ___ château.",
+          "answer": [
+            "en face du"
+          ],
+          "explanation": "PT: A estátua fica em frente ao castelo. en face du = en face de + le."
+        },
+        {
+          "question": "Il y a une terrasse ___ fontaines.",
+          "answer": [
+            "en face des"
+          ],
+          "explanation": "PT: Há uma esplanada em frente às fontes. en face des = en face de + les."
+        },
+        {
+          "question": "Mets le miroir ___ la fenêtre.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: Põe o espelho em frente à janela."
+        },
+        {
+          "question": "Ma place est ___ celle de Paul.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: O meu lugar fica em frente ao do Paul."
+        },
+        {
+          "question": "Le kiosque est ___un grand magasin.",
+          "answer": [
+            "en face d'"
+          ],
+          "explanation": "PT: O quiosque fica em frente a um grande armazém. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Les enfants jouent ___ l'immeuble.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: As crianças brincam em frente ao prédio."
+        },
+        {
+          "question": "Le bateau est ancré ___ îles.",
+          "answer": [
+            "en face des"
+          ],
+          "explanation": "PT: O barco está ancorado em frente às ilhas. en face des = en face de + les."
+        },
+        {
+          "question": "Il y a une librairie ___ l'université.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: Há uma livraria em frente à universidade."
+        },
+        {
+          "question": "Le commissariat est ___ palais de justice.",
+          "answer": [
+            "en face du"
+          ],
+          "explanation": "PT: A esquadra fica em frente ao tribunal. en face du = en face de + le."
+        },
+        {
+          "question": "Ils ont ouvert un magasin ___une école.",
+          "answer": [
+            "en face d'"
+          ],
+          "explanation": "PT: Abriram uma loja em frente a uma escola. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "La maison bleue est ___ la nôtre.",
+          "answer": [
+            "en face de"
+          ],
+          "explanation": "PT: A casa azul fica em frente à nossa."
+        }
+      ]
+    },
+    {
+      "title": "por cima de, acima de · above, over",
+      "description": "Hint: 3 parts joined by a hyphen, starts with au. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Le miroir est accroché ___ lavabo.",
+          "answer": [
+            "au-dessus du"
+          ],
+          "explanation": "PT: O espelho está pendurado por cima do lavatório. au-dessus du = au-dessus de + le."
+        },
+        {
+          "question": "L'avion vole ___ nuages.",
+          "answer": [
+            "au-dessus des"
+          ],
+          "explanation": "PT: O avião voa acima das nuvens. au-dessus des = au-dessus de + les."
+        },
+        {
+          "question": "Il fait cinq degrés ___ zéro.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: Estão cinco graus acima de zero."
+        },
+        {
+          "question": "Les voisins ___ nous sont bruyants.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: Os vizinhos de cima são barulhentos."
+        },
+        {
+          "question": "Une lampe pend ___ la table.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: Um candeeiro está pendurado por cima da mesa."
+        },
+        {
+          "question": "Les oiseaux tournent ___ champ.",
+          "answer": [
+            "au-dessus du"
+          ],
+          "explanation": "PT: Os pássaros dão voltas por cima do campo. au-dessus du = au-dessus de + le."
+        },
+        {
+          "question": "Ce prix est ___ mes moyens.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: Este preço está acima das minhas possibilidades."
+        },
+        {
+          "question": "Le drone vole ___ maisons.",
+          "answer": [
+            "au-dessus des"
+          ],
+          "explanation": "PT: O drone voa por cima das casas. au-dessus des = au-dessus de + les."
+        },
+        {
+          "question": "Il habite ___ la boulangerie.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: Vive por cima da padaria."
+        },
+        {
+          "question": "La température est ___ la normale.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: A temperatura está acima do normal."
+        },
+        {
+          "question": "Une étagère est fixée ___ bureau.",
+          "answer": [
+            "au-dessus du"
+          ],
+          "explanation": "PT: Uma prateleira está fixada por cima da secretária. au-dessus du = au-dessus de + le."
+        },
+        {
+          "question": "Le soleil brille ___ la mer.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: O sol brilha sobre o mar."
+        },
+        {
+          "question": "Il est ___ tout soupçon.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: Está acima de qualquer suspeita."
+        },
+        {
+          "question": "Mets les verres ___ assiettes dans le placard.",
+          "answer": [
+            "au-dessus des"
+          ],
+          "explanation": "PT: Põe os copos por cima dos pratos no armário. au-dessus des = au-dessus de + les."
+        },
+        {
+          "question": "La lune est ___ toits.",
+          "answer": [
+            "au-dessus des"
+          ],
+          "explanation": "PT: A lua está por cima dos telhados. au-dessus des = au-dessus de + les."
+        },
+        {
+          "question": "Notre appartement est ___un restaurant.",
+          "answer": [
+            "au-dessus d'"
+          ],
+          "explanation": "PT: O nosso apartamento fica por cima de um restaurante. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Le panneau est ___ la porte.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: A placa está por cima da porta."
+        },
+        {
+          "question": "Les montagnes s'élèvent ___ la vallée.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: As montanhas erguem-se acima do vale."
+        },
+        {
+          "question": "Personne n'est ___ lois.",
+          "answer": [
+            "au-dessus des"
+          ],
+          "explanation": "PT: Ninguém está acima das leis. au-dessus des = au-dessus de + les."
+        },
+        {
+          "question": "Un hélicoptère tourne ___ stade.",
+          "answer": [
+            "au-dessus du"
+          ],
+          "explanation": "PT: Um helicóptero anda às voltas por cima do estádio. au-dessus du = au-dessus de + le."
+        },
+        {
+          "question": "La note de Marie est ___ la moyenne.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: A nota da Marie está acima da média."
+        },
+        {
+          "question": "Le pont passe ___ la rivière.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: A ponte passa por cima do rio."
+        },
+        {
+          "question": "Il a levé les bras ___ sa tête.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: Levantou os braços acima da cabeça."
+        },
+        {
+          "question": "La chambre est ___ garage.",
+          "answer": [
+            "au-dessus du"
+          ],
+          "explanation": "PT: O quarto fica por cima da garagem. au-dessus du = au-dessus de + le."
+        },
+        {
+          "question": "Le vol passe ___ Alpes.",
+          "answer": [
+            "au-dessus des"
+          ],
+          "explanation": "PT: O voo passa por cima dos Alpes. au-dessus des = au-dessus de + les."
+        },
+        {
+          "question": "Ses résultats sont ___ attentes.",
+          "answer": [
+            "au-dessus des"
+          ],
+          "explanation": "PT: Os resultados dele estão acima das expectativas. au-dessus des = au-dessus de + les."
+        },
+        {
+          "question": "Une horloge est accrochée ___ l'entrée.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: Um relógio está pendurado por cima da entrada."
+        },
+        {
+          "question": "Il y a un nid ___ la fenêtre.",
+          "answer": [
+            "au-dessus de"
+          ],
+          "explanation": "PT: Há um ninho por cima da janela."
+        },
+        {
+          "question": "La ville est située à 500 mètres ___ niveau de la mer.",
+          "answer": [
+            "au-dessus du"
+          ],
+          "explanation": "PT: A cidade fica a 500 metros acima do nível do mar. au-dessus du = au-dessus de + le."
+        },
+        {
+          "question": "Le ballon est passé ___un joueur.",
+          "answer": [
+            "au-dessus d'"
+          ],
+          "explanation": "PT: A bola passou por cima de um jogador. De becomes d' before a vowel or a mute h."
+        }
+      ]
+    },
+    {
+      "title": "por baixo de, abaixo de · below, under",
+      "description": "Hint: 3 parts joined by a hyphen, starts with au; the opposite of above. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Il fait dix degrés ___ zéro.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: Estão dez graus abaixo de zero. En dessous de means the same."
+        },
+        {
+          "question": "Le parking est ___ l'immeuble.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: O parque de estacionamento fica por baixo do prédio."
+        },
+        {
+          "question": "Signez ___ cette ligne.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: Assine por baixo desta linha."
+        },
+        {
+          "question": "La cave est ___ la cuisine.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: A cave fica por baixo da cozinha."
+        },
+        {
+          "question": "Les résultats sont ___ la moyenne.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: Os resultados estão abaixo da média."
+        },
+        {
+          "question": "Nos voisins ___ nous ont un bébé.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: Os vizinhos de baixo têm um bebé."
+        },
+        {
+          "question": "Le métro passe ___ fleuve.",
+          "answer": [
+            "au-dessous du"
+          ],
+          "explanation": "PT: O metro passa por baixo do rio. au-dessous du = au-dessous de + le."
+        },
+        {
+          "question": "Le prix est ___ 50 euros.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: O preço está abaixo dos 50 euros."
+        },
+        {
+          "question": "Une rivière coule ___ pont.",
+          "answer": [
+            "au-dessous du"
+          ],
+          "explanation": "PT: Um rio corre por baixo da ponte. au-dessous du = au-dessous de + le."
+        },
+        {
+          "question": "Les enfants ___ six ans entrent gratuitement.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: As crianças com menos de seis anos entram de graça."
+        },
+        {
+          "question": "La légende est écrite ___ la photo.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: A legenda está escrita por baixo da fotografia."
+        },
+        {
+          "question": "Le village se trouve ___ col.",
+          "answer": [
+            "au-dessous du"
+          ],
+          "explanation": "PT: A aldeia fica abaixo do desfiladeiro. au-dessous du = au-dessous de + le."
+        },
+        {
+          "question": "Vus de l'avion, les nuages sont ___ nous.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: Vistas do avião, as nuvens estão abaixo de nós."
+        },
+        {
+          "question": "La température est restée ___ la normale.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: A temperatura manteve-se abaixo do normal."
+        },
+        {
+          "question": "Les températures descendent ___ normales saisonnières.",
+          "answer": [
+            "au-dessous des"
+          ],
+          "explanation": "PT: As temperaturas descem abaixo das normais da época. au-dessous des = au-dessous de + les."
+        },
+        {
+          "question": "Il y a un tiroir ___ four.",
+          "answer": [
+            "au-dessous du"
+          ],
+          "explanation": "PT: Há uma gaveta por baixo do forno. au-dessous du = au-dessous de + le."
+        },
+        {
+          "question": "Ce salaire est ___ minimum légal.",
+          "answer": [
+            "au-dessous du"
+          ],
+          "explanation": "PT: Este salário está abaixo do mínimo legal. au-dessous du = au-dessous de + le."
+        },
+        {
+          "question": "Mets les chaussures ___ vêtements.",
+          "answer": [
+            "au-dessous des"
+          ],
+          "explanation": "PT: Põe os sapatos por baixo da roupa. au-dessous des = au-dessous de + les."
+        },
+        {
+          "question": "La cuisine est ___un grand salon.",
+          "answer": [
+            "au-dessous d'"
+          ],
+          "explanation": "PT: A cozinha fica por baixo de uma grande sala. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Ce film est bien ___ ses promesses.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: Este filme fica muito abaixo do que prometia."
+        },
+        {
+          "question": "Son niveau est ___ celui de la classe.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: O nível dele está abaixo do da turma."
+        },
+        {
+          "question": "Les ventes sont ___ prévisions.",
+          "answer": [
+            "au-dessous des"
+          ],
+          "explanation": "PT: As vendas estão abaixo das previsões. au-dessous des = au-dessous de + les."
+        },
+        {
+          "question": "Le lac est à 200 mètres ___ village.",
+          "answer": [
+            "au-dessous du"
+          ],
+          "explanation": "PT: O lago fica 200 metros abaixo da aldeia. au-dessous du = au-dessous de + le."
+        },
+        {
+          "question": "Il range ses dossiers ___ son bureau.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: Guarda os processos por baixo da secretária."
+        },
+        {
+          "question": "Le tunnel passe ___ montagnes.",
+          "answer": [
+            "au-dessous des"
+          ],
+          "explanation": "PT: O túnel passa por baixo das montanhas. au-dessous des = au-dessous de + les."
+        },
+        {
+          "question": "Le texte est placé ___une image.",
+          "answer": [
+            "au-dessous d'"
+          ],
+          "explanation": "PT: O texto está colocado por baixo de uma imagem. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "La pression est ___ la limite.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: A pressão está abaixo do limite."
+        },
+        {
+          "question": "La chambre d'amis est ___ grenier.",
+          "answer": [
+            "au-dessous du"
+          ],
+          "explanation": "PT: O quarto de hóspedes fica por baixo do sótão. au-dessous du = au-dessous de + le."
+        },
+        {
+          "question": "Le poisson nage juste ___ la surface.",
+          "answer": [
+            "au-dessous de"
+          ],
+          "explanation": "PT: O peixe nada mesmo abaixo da superfície."
+        },
+        {
+          "question": "Le prix du pain est ___un euro.",
+          "answer": [
+            "au-dessous d'"
+          ],
+          "explanation": "PT: O preço do pão está abaixo de um euro. De becomes d' before a vowel or a mute h."
+        }
+      ]
+    },
+    {
+      "title": "à volta de, em torno de · around",
+      "description": "Hint: 2 words, starts with a. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Les enfants dansent ___ l'arbre.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: As crianças dançam à volta da árvore."
+        },
+        {
+          "question": "Ils sont assis ___ la table.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: Estão sentados à volta da mesa."
+        },
+        {
+          "question": "La Terre tourne ___ Soleil.",
+          "answer": [
+            "autour du"
+          ],
+          "explanation": "PT: A Terra gira à volta do Sol. autour du = autour de + le."
+        },
+        {
+          "question": "Il y a un mur ___ jardin.",
+          "answer": [
+            "autour du"
+          ],
+          "explanation": "PT: Há um muro à volta do jardim. autour du = autour de + le."
+        },
+        {
+          "question": "On a fait une promenade ___ lac.",
+          "answer": [
+            "autour du"
+          ],
+          "explanation": "PT: Demos um passeio à volta do lago. autour du = autour de + le."
+        },
+        {
+          "question": "Le chat tourne ___ moi.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: O gato anda à volta de mim."
+        },
+        {
+          "question": "La discussion tourne ___un seul sujet.",
+          "answer": [
+            "autour d'"
+          ],
+          "explanation": "PT: A discussão gira em torno de um só tema. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Il y a des arbres ___ la maison.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: Há árvores à volta da casa."
+        },
+        {
+          "question": "Elle porte une écharpe ___ cou.",
+          "answer": [
+            "autour du"
+          ],
+          "explanation": "PT: Usa um cachecol à volta do pescoço. autour du = autour de + le."
+        },
+        {
+          "question": "Les journalistes se pressent ___ ministre.",
+          "answer": [
+            "autour du"
+          ],
+          "explanation": "PT: Os jornalistas acotovelam-se à volta do ministro. autour du = autour de + le."
+        },
+        {
+          "question": "Le prix tourne ___ cent euros.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: O preço anda à volta dos cem euros."
+        },
+        {
+          "question": "Nous sommes allés ___ monde.",
+          "answer": [
+            "autour du"
+          ],
+          "explanation": "PT: Demos a volta ao mundo. autour du = autour de + le."
+        },
+        {
+          "question": "Les abeilles volent ___ fleurs.",
+          "answer": [
+            "autour des"
+          ],
+          "explanation": "PT: As abelhas voam à volta das flores. autour des = autour de + les."
+        },
+        {
+          "question": "Il y a des remparts ___ la vieille ville.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: Há muralhas à volta da cidade velha."
+        },
+        {
+          "question": "Les élèves se sont réunis ___ professeur.",
+          "answer": [
+            "autour du"
+          ],
+          "explanation": "PT: Os alunos juntaram-se à volta do professor. autour du = autour de + le."
+        },
+        {
+          "question": "Il a passé un bras ___ ses épaules.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: Pôs um braço à volta dos ombros dela."
+        },
+        {
+          "question": "Le film tourne ___une famille.",
+          "answer": [
+            "autour d'"
+          ],
+          "explanation": "PT: O filme gira em torno de uma família. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Ils ont construit une clôture ___ champ.",
+          "answer": [
+            "autour du"
+          ],
+          "explanation": "PT: Construíram uma vedação à volta do campo. autour du = autour de + le."
+        },
+        {
+          "question": "Il est arrivé ___ midi.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: Chegou por volta do meio-dia."
+        },
+        {
+          "question": "Les maisons sont groupées ___ l'église.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: As casas estão agrupadas à volta da igreja."
+        },
+        {
+          "question": "On a mis des bougies ___ gâteau.",
+          "answer": [
+            "autour du"
+          ],
+          "explanation": "PT: Pusemos velas à volta do bolo. autour du = autour de + le."
+        },
+        {
+          "question": "Les gens se rassemblent ___ musiciens.",
+          "answer": [
+            "autour des"
+          ],
+          "explanation": "PT: As pessoas juntam-se à volta dos músicos. autour des = autour de + les."
+        },
+        {
+          "question": "Il y a beaucoup de bruit ___ cette affaire.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: Há muito barulho à volta deste caso."
+        },
+        {
+          "question": "Les satellites tournent ___ planètes.",
+          "answer": [
+            "autour des"
+          ],
+          "explanation": "PT: Os satélites giram à volta dos planetas. autour des = autour de + les."
+        },
+        {
+          "question": "Elle a noué un ruban ___ ses cheveux.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: Atou uma fita à volta do cabelo."
+        },
+        {
+          "question": "Nous nous sommes assis ___ feu de camp.",
+          "answer": [
+            "autour du"
+          ],
+          "explanation": "PT: Sentámo-nos à volta da fogueira. autour du = autour de + le."
+        },
+        {
+          "question": "La ville s'est développée ___ port.",
+          "answer": [
+            "autour du"
+          ],
+          "explanation": "PT: A cidade desenvolveu-se em torno do porto. autour du = autour de + le."
+        },
+        {
+          "question": "Le chien court ___ arbres.",
+          "answer": [
+            "autour des"
+          ],
+          "explanation": "PT: O cão corre à volta das árvores. autour des = autour de + les."
+        },
+        {
+          "question": "La conférence s'organise ___ trois thèmes.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: A conferência organiza-se em torno de três temas."
+        },
+        {
+          "question": "Regarde ___ toi.",
+          "answer": [
+            "autour de"
+          ],
+          "explanation": "PT: Olha à tua volta."
+        }
+      ]
+    },
+    {
+      "title": "através de · through, across",
+      "description": "Hint: 2 words, starts with à; no de after it. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "La lumière passe ___ les rideaux.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: A luz passa através das cortinas."
+        },
+        {
+          "question": "Nous avons marché ___ la forêt.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Caminhámos através da floresta."
+        },
+        {
+          "question": "Il regarde ___ la vitre.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Olha através do vidro."
+        },
+        {
+          "question": "Ils ont voyagé ___ l'Europe.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Viajaram pela Europa."
+        },
+        {
+          "question": "La pluie passe ___ le toit.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: A chuva passa pelo telhado."
+        },
+        {
+          "question": "On voit la mer ___ les arbres.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Vê-se o mar através das árvores."
+        },
+        {
+          "question": "___ ses yeux, on devine sa tristesse.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Através dos olhos dele, adivinha-se a tristeza."
+        },
+        {
+          "question": "Le vent souffle ___ les fenêtres mal fermées.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: O vento sopra através das janelas mal fechadas."
+        },
+        {
+          "question": "Le chemin passe ___ les champs.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: O caminho passa pelos campos."
+        },
+        {
+          "question": "Il a couru ___ la ville.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Correu pela cidade."
+        },
+        {
+          "question": "Elle parle de son pays ___ ses chansons.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Fala do seu país através das canções."
+        },
+        {
+          "question": "Le café passe ___ le filtre.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: O café passa pelo filtro."
+        },
+        {
+          "question": "Les soldats ont marché ___ le désert.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Os soldados caminharam pelo deserto."
+        },
+        {
+          "question": "Le message est passé ___ plusieurs personnes.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: A mensagem passou por várias pessoas."
+        },
+        {
+          "question": "Je l'ai aperçu ___ la foule.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Vi-o por entre a multidão."
+        },
+        {
+          "question": "Le soleil brille ___ les nuages.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: O sol brilha através das nuvens."
+        },
+        {
+          "question": "On entend tout ___ ces murs fins.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Ouve-se tudo através destas paredes finas."
+        },
+        {
+          "question": "La rivière coule ___ la vallée.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: O rio corre pelo vale."
+        },
+        {
+          "question": "Il a découvert la France ___ sa cuisine.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Descobriu a França através da cozinha."
+        },
+        {
+          "question": "Le chat s'est échappé ___ la grille.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: O gato fugiu pela grade."
+        },
+        {
+          "question": "L'histoire est racontée ___ les yeux d'un enfant.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: A história é contada através dos olhos de uma criança."
+        },
+        {
+          "question": "Ce livre est un voyage ___ le temps.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Este livro é uma viagem através do tempo."
+        },
+        {
+          "question": "Le froid passe ___ mon manteau.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: O frio atravessa o meu casaco."
+        },
+        {
+          "question": "La route serpente ___ les collines.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: A estrada serpenteia pelas colinas."
+        },
+        {
+          "question": "On a vu la lune ___ la fenêtre du train.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Vimos a lua através da janela do comboio."
+        },
+        {
+          "question": "Il a appris l'anglais ___ les films.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Aprendeu inglês através dos filmes."
+        },
+        {
+          "question": "L'eau filtre ___ le sable.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: A água infiltra-se através da areia."
+        },
+        {
+          "question": "Les enfants ont couru ___ le jardin.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: As crianças correram pelo jardim."
+        },
+        {
+          "question": "La tradition s'est transmise ___ les siècles.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: A tradição transmitiu-se ao longo dos séculos."
+        },
+        {
+          "question": "Je sens la chaleur ___ mes chaussures.",
+          "answer": [
+            "à travers"
+          ],
+          "explanation": "PT: Sinto o calor através dos sapatos."
+        }
+      ]
+    },
+    {
+      "title": "ao longo de · along",
+      "description": "Hint: 3 words, starts with l. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Nous nous sommes promenés ___ la rivière.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: Passeámos ao longo do rio."
+        },
+        {
+          "question": "Des arbres sont plantés ___ la route.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: Há árvores plantadas ao longo da estrada."
+        },
+        {
+          "question": "Il y a des cafés ___ quai.",
+          "answer": [
+            "le long du"
+          ],
+          "explanation": "PT: Há cafés ao longo do cais. le long du = le long de + le."
+        },
+        {
+          "question": "On a marché ___ la plage.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: Caminhámos ao longo da praia."
+        },
+        {
+          "question": "Les bateaux sont amarrés ___ quais.",
+          "answer": [
+            "le long des"
+          ],
+          "explanation": "PT: Os barcos estão atracados ao longo dos cais. le long des = le long de + les."
+        },
+        {
+          "question": "Une piste cyclable passe ___ canal.",
+          "answer": [
+            "le long du"
+          ],
+          "explanation": "PT: Uma ciclovia passa ao longo do canal. le long du = le long de + le."
+        },
+        {
+          "question": "Des fleurs poussent ___ mur.",
+          "answer": [
+            "le long du"
+          ],
+          "explanation": "PT: Crescem flores ao longo do muro. le long du = le long de + le."
+        },
+        {
+          "question": "Ils ont couru ___ la côte.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: Correram ao longo da costa."
+        },
+        {
+          "question": "Des maisons s'alignent ___ la rue.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: As casas alinham-se ao longo da rua."
+        },
+        {
+          "question": "La voie ferrée passe ___ fleuve.",
+          "answer": [
+            "le long du"
+          ],
+          "explanation": "PT: A linha do comboio passa ao longo do rio. le long du = le long de + le."
+        },
+        {
+          "question": "Des lampadaires sont installés ___ l'avenue.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: Há candeeiros instalados ao longo da avenida."
+        },
+        {
+          "question": "On trouve des vignes ___ collines.",
+          "answer": [
+            "le long des"
+          ],
+          "explanation": "PT: Encontram-se vinhas ao longo das colinas. le long des = le long de + les."
+        },
+        {
+          "question": "Le sentier passe ___ prés.",
+          "answer": [
+            "le long des"
+          ],
+          "explanation": "PT: O trilho passa ao longo dos prados. le long des = le long de + les."
+        },
+        {
+          "question": "Une haie pousse ___ jardin.",
+          "answer": [
+            "le long du"
+          ],
+          "explanation": "PT: Uma sebe cresce ao longo do jardim. le long du = le long de + le."
+        },
+        {
+          "question": "Il a laissé des traces ___ chemin.",
+          "answer": [
+            "le long du"
+          ],
+          "explanation": "PT: Deixou marcas ao longo do caminho. le long du = le long de + le."
+        },
+        {
+          "question": "Les enfants marchent ___ trottoir.",
+          "answer": [
+            "le long du"
+          ],
+          "explanation": "PT: As crianças andam ao longo do passeio. le long du = le long de + le."
+        },
+        {
+          "question": "Des pêcheurs sont assis ___ la berge.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: Há pescadores sentados ao longo da margem."
+        },
+        {
+          "question": "Elle a fait glisser sa main ___ la rampe.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: Fez deslizar a mão ao longo do corrimão."
+        },
+        {
+          "question": "La frontière passe ___ montagnes.",
+          "answer": [
+            "le long des"
+          ],
+          "explanation": "PT: A fronteira passa ao longo das montanhas. le long des = le long de + les."
+        },
+        {
+          "question": "Il y a un banc tous les cent mètres ___ lac.",
+          "answer": [
+            "le long du"
+          ],
+          "explanation": "PT: Há um banco a cada cem metros ao longo do lago. le long du = le long de + le."
+        },
+        {
+          "question": "Les fils électriques courent ___ la façade.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: Os fios elétricos correm ao longo da fachada."
+        },
+        {
+          "question": "Le bateau a navigué ___une île.",
+          "answer": [
+            "le long d'"
+          ],
+          "explanation": "PT: O barco navegou ao longo de uma ilha. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Des marchands s'installent ___ boulevard.",
+          "answer": [
+            "le long du"
+          ],
+          "explanation": "PT: Os vendedores instalam-se ao longo da avenida. le long du = le long de + le."
+        },
+        {
+          "question": "La route passe ___ falaises.",
+          "answer": [
+            "le long des"
+          ],
+          "explanation": "PT: A estrada passa ao longo das falésias. le long des = le long de + les."
+        },
+        {
+          "question": "Des statues sont alignées ___ l'allée.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: Há estátuas alinhadas ao longo da alameda."
+        },
+        {
+          "question": "Les larmes coulaient ___ ses joues.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: As lágrimas corriam-lhe pela cara."
+        },
+        {
+          "question": "Le train roule ___une rivière.",
+          "answer": [
+            "le long d'"
+          ],
+          "explanation": "PT: O comboio segue ao longo de um rio. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Il y a des parasols ___ la piscine.",
+          "answer": [
+            "le long de"
+          ],
+          "explanation": "PT: Há guarda-sóis ao longo da piscina."
+        },
+        {
+          "question": "On a cueilli des mûres ___ sentier.",
+          "answer": [
+            "le long du"
+          ],
+          "explanation": "PT: Apanhámos amoras ao longo do trilho. le long du = le long de + le."
+        },
+        {
+          "question": "Ils ont planté des peupliers ___une route de campagne.",
+          "answer": [
+            "le long d'"
+          ],
+          "explanation": "PT: Plantaram choupos ao longo de uma estrada rural. De becomes d' before a vowel or a mute h."
+        }
+      ]
+    },
+    {
+      "title": "no meio de, a meio de · in the middle of",
+      "description": "Hint: 3 words, starts with au. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Il y a une fontaine ___ la place.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: Há uma fonte no meio da praça."
+        },
+        {
+          "question": "Le téléphone a sonné ___ la nuit.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: O telefone tocou a meio da noite."
+        },
+        {
+          "question": "La table est ___ salon.",
+          "answer": [
+            "au milieu du"
+          ],
+          "explanation": "PT: A mesa está no meio da sala. au milieu du = au milieu de + le."
+        },
+        {
+          "question": "Il est parti ___ film.",
+          "answer": [
+            "au milieu du"
+          ],
+          "explanation": "PT: Saiu a meio do filme. au milieu du = au milieu de + le."
+        },
+        {
+          "question": "Une île se trouve ___ lac.",
+          "answer": [
+            "au milieu du"
+          ],
+          "explanation": "PT: Há uma ilha no meio do lago. au milieu du = au milieu de + le."
+        },
+        {
+          "question": "Elle a dansé ___ la piste.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: Dançou no meio da pista."
+        },
+        {
+          "question": "La maison est ___ champs.",
+          "answer": [
+            "au milieu des"
+          ],
+          "explanation": "PT: A casa fica no meio dos campos. au milieu des = au milieu de + les."
+        },
+        {
+          "question": "Il s'est arrêté ___ la phrase.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: Parou a meio da frase."
+        },
+        {
+          "question": "Ne reste pas ___ chemin.",
+          "answer": [
+            "au milieu du"
+          ],
+          "explanation": "PT: Não fiques no meio do caminho. au milieu du = au milieu de + le."
+        },
+        {
+          "question": "Le refuge est perdu ___ sommets.",
+          "answer": [
+            "au milieu des"
+          ],
+          "explanation": "PT: O abrigo está perdido no meio dos cumes. au milieu des = au milieu de + les."
+        },
+        {
+          "question": "Il vit ___ ses livres.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: Vive no meio dos livros."
+        },
+        {
+          "question": "On s'est retrouvés ___une tempête.",
+          "answer": [
+            "au milieu d'"
+          ],
+          "explanation": "PT: Ficámos no meio de uma tempestade. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "La voiture est tombée en panne ___ désert.",
+          "answer": [
+            "au milieu du"
+          ],
+          "explanation": "PT: O carro avariou no meio do deserto. au milieu du = au milieu de + le."
+        },
+        {
+          "question": "Elle est arrivée ___ la réunion.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: Chegou a meio da reunião."
+        },
+        {
+          "question": "Un arbre pousse ___ la cour.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: Uma árvore cresce no meio do pátio."
+        },
+        {
+          "question": "Il a crié ___ silence.",
+          "answer": [
+            "au milieu du"
+          ],
+          "explanation": "PT: Gritou no meio do silêncio. au milieu du = au milieu de + le."
+        },
+        {
+          "question": "Elle se sent seule ___ tous ces gens.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: Sente-se sozinha no meio de toda esta gente."
+        },
+        {
+          "question": "Le bateau est ___ l'océan.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: O barco está no meio do oceano."
+        },
+        {
+          "question": "Il y a une ferme ___ vignes.",
+          "answer": [
+            "au milieu des"
+          ],
+          "explanation": "PT: Há uma quinta no meio das vinhas. au milieu des = au milieu de + les."
+        },
+        {
+          "question": "Je me suis réveillé ___un rêve.",
+          "answer": [
+            "au milieu d'"
+          ],
+          "explanation": "PT: Acordei a meio de um sonho. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Les enfants jouent ___ la rue.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: As crianças brincam no meio da rua."
+        },
+        {
+          "question": "Il a changé d'avis ___ voyage.",
+          "answer": [
+            "au milieu du"
+          ],
+          "explanation": "PT: Mudou de ideias a meio da viagem. au milieu du = au milieu de + le."
+        },
+        {
+          "question": "La tour se dresse ___ la ville.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: A torre ergue-se no meio da cidade."
+        },
+        {
+          "question": "Une fleur a poussé ___ pierres.",
+          "answer": [
+            "au milieu des"
+          ],
+          "explanation": "PT: Nasceu uma flor no meio das pedras. au milieu des = au milieu de + les."
+        },
+        {
+          "question": "Il s'est endormi ___ cours.",
+          "answer": [
+            "au milieu du"
+          ],
+          "explanation": "PT: Adormeceu a meio da aula. au milieu du = au milieu de + le."
+        },
+        {
+          "question": "La cabane est cachée ___ la forêt.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: A cabana está escondida no meio da floresta."
+        },
+        {
+          "question": "Ils se sont mariés ___ l'été.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: Casaram-se a meio do verão."
+        },
+        {
+          "question": "Le chat dort ___ coussins.",
+          "answer": [
+            "au milieu des"
+          ],
+          "explanation": "PT: O gato dorme no meio das almofadas. au milieu des = au milieu de + les."
+        },
+        {
+          "question": "Mets le vase ___ la table.",
+          "answer": [
+            "au milieu de"
+          ],
+          "explanation": "PT: Põe a jarra no meio da mesa."
+        },
+        {
+          "question": "Il y a un puits ___un petit jardin.",
+          "answer": [
+            "au milieu d'"
+          ],
+          "explanation": "PT: Há um poço no meio de um pequeno jardim. De becomes d' before a vowel or a mute h."
+        }
+      ]
+    },
+    {
+      "title": "à beira de · at the edge of, by (the sea, a road)",
+      "description": "Hint: 3 words, starts with au. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Nous passons nos vacances ___ la mer.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: Passamos as férias à beira-mar."
+        },
+        {
+          "question": "Ne reste pas ___ la falaise !",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: Não fiques à beira da falésia!"
+        },
+        {
+          "question": "Ils ont pique-niqué ___ lac.",
+          "answer": [
+            "au bord du"
+          ],
+          "explanation": "PT: Fizeram um piquenique à beira do lago. au bord du = au bord de + le."
+        },
+        {
+          "question": "Ils ont acheté une maison ___ fleuve.",
+          "answer": [
+            "au bord du"
+          ],
+          "explanation": "PT: Compraram uma casa à beira do rio. au bord du = au bord de + le."
+        },
+        {
+          "question": "La voiture s'est arrêtée ___ la route.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: O carro parou na berma da estrada."
+        },
+        {
+          "question": "Il était ___ larmes.",
+          "answer": [
+            "au bord des"
+          ],
+          "explanation": "PT: Estava à beira das lágrimas. au bord des = au bord de + les."
+        },
+        {
+          "question": "L'entreprise est ___ la faillite.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: A empresa está à beira da falência."
+        },
+        {
+          "question": "On a bu un verre dans un café ___ canal.",
+          "answer": [
+            "au bord du"
+          ],
+          "explanation": "PT: Bebemos um copo num café à beira do canal. au bord du = au bord de + le."
+        },
+        {
+          "question": "Elle est assise ___ lit.",
+          "answer": [
+            "au bord du"
+          ],
+          "explanation": "PT: Está sentada à beira da cama. au bord du = au bord de + le."
+        },
+        {
+          "question": "Il vit dans un village ___ l'océan.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: Vive numa aldeia à beira do oceano."
+        },
+        {
+          "question": "Ne pose pas le verre ___ la table, il va tomber.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: Não ponhas o copo na beira da mesa, vai cair."
+        },
+        {
+          "question": "Les pêcheurs attendent ___ quai.",
+          "answer": [
+            "au bord du"
+          ],
+          "explanation": "PT: Os pescadores esperam à beira do cais. au bord du = au bord de + le."
+        },
+        {
+          "question": "Le pays est ___ la guerre.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: O país está à beira da guerra."
+        },
+        {
+          "question": "Des fleurs sauvages poussent ___ chemins.",
+          "answer": [
+            "au bord des"
+          ],
+          "explanation": "PT: Crescem flores silvestres à beira dos caminhos. au bord des = au bord de + les."
+        },
+        {
+          "question": "On a dîné ___ la piscine.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: Jantámos à beira da piscina."
+        },
+        {
+          "question": "Il était ___ l'épuisement.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: Estava à beira da exaustão."
+        },
+        {
+          "question": "Une petite église se dresse ___ précipice.",
+          "answer": [
+            "au bord du"
+          ],
+          "explanation": "PT: Uma pequena igreja ergue-se à beira do precipício. au bord du = au bord de + le."
+        },
+        {
+          "question": "Les enfants jouent ___ l'eau.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: As crianças brincam à beira da água."
+        },
+        {
+          "question": "Elle s'est arrêtée ___ trottoir.",
+          "answer": [
+            "au bord du"
+          ],
+          "explanation": "PT: Parou à beira do passeio. au bord du = au bord de + le."
+        },
+        {
+          "question": "Ils habitent une cabane ___un étang.",
+          "answer": [
+            "au bord d'"
+          ],
+          "explanation": "PT: Vivem numa cabana à beira de uma lagoa. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Les maisons ___ rivières sont souvent inondées.",
+          "answer": [
+            "au bord des"
+          ],
+          "explanation": "PT: As casas à beira dos rios são muitas vezes inundadas. au bord des = au bord de + les."
+        },
+        {
+          "question": "J'étais ___ la crise de nerfs.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: Estava à beira de um ataque de nervos."
+        },
+        {
+          "question": "La route longe la côte, ___ ravins.",
+          "answer": [
+            "au bord des"
+          ],
+          "explanation": "PT: A estrada segue a costa, à beira das ravinas. au bord des = au bord de + les."
+        },
+        {
+          "question": "Il a garé sa voiture ___un champ.",
+          "answer": [
+            "au bord d'"
+          ],
+          "explanation": "PT: Estacionou o carro à beira de um campo. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Nous avons marché ___ golfe.",
+          "answer": [
+            "au bord du"
+          ],
+          "explanation": "PT: Caminhámos à beira do golfo. au bord du = au bord de + le."
+        },
+        {
+          "question": "Un banc nous attendait ___ bassin.",
+          "answer": [
+            "au bord du"
+          ],
+          "explanation": "PT: Um banco esperava-nos à beira do tanque. au bord du = au bord de + le."
+        },
+        {
+          "question": "La tente est plantée ___ la forêt.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: A tenda está montada à beira da floresta."
+        },
+        {
+          "question": "L'équipe est ___ la victoire.",
+          "answer": [
+            "au bord de"
+          ],
+          "explanation": "PT: A equipa está à beira da vitória."
+        },
+        {
+          "question": "Le chalet se trouve ___une rivière.",
+          "answer": [
+            "au bord d'"
+          ],
+          "explanation": "PT: O chalé fica à beira de um rio. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "On a regardé le coucher de soleil ___ fjord.",
+          "answer": [
+            "au bord du"
+          ],
+          "explanation": "PT: Vimos o pôr do sol à beira do fiorde. au bord du = au bord de + le."
+        }
+      ]
+    },
+    {
+      "title": "no fim de, ao fundo de; ao fim de (tempo) · at the end of; after (time)",
+      "description": "Hint: 3 words, starts with au. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "La boulangerie se trouve ___ la rue.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: A padaria fica no fim da rua."
+        },
+        {
+          "question": "Il s'est endormi ___ cinq minutes.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: Adormeceu ao fim de cinco minutos. With a length of time, au bout de means after."
+        },
+        {
+          "question": "Les toilettes sont ___ couloir.",
+          "answer": [
+            "au bout du"
+          ],
+          "explanation": "PT: A casa de banho fica ao fundo do corredor. au bout du = au bout de + le."
+        },
+        {
+          "question": "___une heure, le bus est enfin arrivé.",
+          "answer": [
+            "au bout d'"
+          ],
+          "explanation": "PT: Ao fim de uma hora, o autocarro finalmente chegou. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Il est ___ ses forces.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: Está no limite das forças."
+        },
+        {
+          "question": "Il habite ___ monde.",
+          "answer": [
+            "au bout du"
+          ],
+          "explanation": "PT: Vive no fim do mundo. au bout du = au bout de + le."
+        },
+        {
+          "question": "___ trois jours, il a enfin appelé.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: Ao fim de três dias, finalmente ligou."
+        },
+        {
+          "question": "Le phare est ___ la jetée.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: O farol fica no fim do paredão."
+        },
+        {
+          "question": "Elle tenait un pinceau ___ doigts.",
+          "answer": [
+            "au bout des"
+          ],
+          "explanation": "PT: Segurava um pincel na ponta dos dedos. au bout des = au bout de + les."
+        },
+        {
+          "question": "Il y a de la lumière ___ tunnel.",
+          "answer": [
+            "au bout du"
+          ],
+          "explanation": "PT: Há luz ao fundo do túnel. au bout du = au bout de + le."
+        },
+        {
+          "question": "___ quelques semaines, il parlait déjà français.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: Ao fim de algumas semanas, já falava francês."
+        },
+        {
+          "question": "Ils sont allés ___ leur rêve.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: Foram até ao fim do sonho."
+        },
+        {
+          "question": "Le village est ___ chemin.",
+          "answer": [
+            "au bout du"
+          ],
+          "explanation": "PT: A aldeia fica no fim do caminho. au bout du = au bout de + le."
+        },
+        {
+          "question": "___ six mois, il a trouvé du travail.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: Ao fim de seis meses, arranjou trabalho."
+        },
+        {
+          "question": "Il pêche ___ ponton.",
+          "answer": [
+            "au bout du"
+          ],
+          "explanation": "PT: Pesca na ponta do pontão. au bout du = au bout de + le."
+        },
+        {
+          "question": "Après ce mois de travail, je suis ___ rouleau.",
+          "answer": [
+            "au bout du"
+          ],
+          "explanation": "PT: Depois deste mês de trabalho, estou exausto. au bout du = au bout de + le."
+        },
+        {
+          "question": "La chambre est ___un long couloir.",
+          "answer": [
+            "au bout d'"
+          ],
+          "explanation": "PT: O quarto fica ao fundo de um longo corredor. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "___ cinq kilomètres, tournez à gauche.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: Ao fim de cinco quilómetros, vire à esquerda."
+        },
+        {
+          "question": "Elle est restée ___ fil pendant une heure.",
+          "answer": [
+            "au bout du"
+          ],
+          "explanation": "PT: Esteve ao telefone durante uma hora. au bout du = au bout de + le."
+        },
+        {
+          "question": "Le parking est ___ l'allée.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: O parque fica no fim da alameda."
+        },
+        {
+          "question": "___ dix minutes de marche, on arrive à la plage.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: Ao fim de dez minutos a pé, chega-se à praia."
+        },
+        {
+          "question": "___ plusieurs années de silence, ils se sont reparlé.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: Ao fim de vários anos de silêncio, voltaram a falar-se."
+        },
+        {
+          "question": "La maison est ___ l'impasse.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: A casa fica no fim do beco."
+        },
+        {
+          "question": "Il a perdu patience ___ deux heures.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: Perdeu a paciência ao fim de duas horas."
+        },
+        {
+          "question": "Il y a un banc ___ jardin.",
+          "answer": [
+            "au bout du"
+          ],
+          "explanation": "PT: Há um banco ao fundo do jardim. au bout du = au bout de + le."
+        },
+        {
+          "question": "Les deux pays sont arrivés ___ négociations.",
+          "answer": [
+            "au bout des"
+          ],
+          "explanation": "PT: Os dois países chegaram ao fim das negociações. au bout des = au bout de + les."
+        },
+        {
+          "question": "___ plusieurs essais, la machine a démarré.",
+          "answer": [
+            "au bout de"
+          ],
+          "explanation": "PT: Ao fim de várias tentativas, a máquina arrancou."
+        },
+        {
+          "question": "Le gâteau est cuit ___une demi-heure.",
+          "answer": [
+            "au bout d'"
+          ],
+          "explanation": "PT: O bolo fica cozido ao fim de meia hora. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Il a attaché un drapeau ___ bâton.",
+          "answer": [
+            "au bout du"
+          ],
+          "explanation": "PT: Atou uma bandeira na ponta do pau. au bout du = au bout de + le."
+        },
+        {
+          "question": "La sortie est ___ quai numéro trois.",
+          "answer": [
+            "au bout du"
+          ],
+          "explanation": "PT: A saída fica no fim do cais número três. au bout du = au bout de + le."
+        }
+      ]
+    },
+    {
+      "title": "ao fundo de, no fundo de · at the back of, at the bottom of",
+      "description": "Hint: 3 words, starts with au. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Les toilettes sont ___ restaurant, à gauche.",
+          "answer": [
+            "au fond du"
+          ],
+          "explanation": "PT: A casa de banho fica ao fundo do restaurante, à esquerda. au fond du = au fond de + le."
+        },
+        {
+          "question": "J'ai retrouvé ma bague ___ ma poche.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: Encontrei o meu anel no fundo do bolso."
+        },
+        {
+          "question": "Le chat se cache ___ jardin.",
+          "answer": [
+            "au fond du"
+          ],
+          "explanation": "PT: O gato esconde-se ao fundo do jardim. au fond du = au fond de + le."
+        },
+        {
+          "question": "Il y a du sable ___ la piscine.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: Há areia no fundo da piscina."
+        },
+        {
+          "question": "___ moi, je savais qu'il avait raison.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: No fundo, eu sabia que ele tinha razão."
+        },
+        {
+          "question": "La bouteille est tombée ___ lac.",
+          "answer": [
+            "au fond du"
+          ],
+          "explanation": "PT: A garrafa caiu ao fundo do lago. au fond du = au fond de + le."
+        },
+        {
+          "question": "Assieds-toi ___ la classe.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: Senta-te ao fundo da sala de aula."
+        },
+        {
+          "question": "Le bureau du directeur est ___ couloir.",
+          "answer": [
+            "au fond du"
+          ],
+          "explanation": "PT: O gabinete do diretor fica ao fundo do corredor. au fond du = au fond de + le."
+        },
+        {
+          "question": "Il reste un peu de café ___ la tasse.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: Ainda há um pouco de café no fundo da chávena."
+        },
+        {
+          "question": "Des épaves reposent ___ océans.",
+          "answer": [
+            "au fond des"
+          ],
+          "explanation": "PT: Há destroços no fundo dos oceanos. au fond des = au fond de + les."
+        },
+        {
+          "question": "Il habite ___ la vallée.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: Vive no fundo do vale."
+        },
+        {
+          "question": "___ placard, il y a une vieille valise.",
+          "answer": [
+            "au fond du"
+          ],
+          "explanation": "PT: No fundo do armário, há uma mala velha. au fond du = au fond de + le."
+        },
+        {
+          "question": "On lit la tristesse ___ ses yeux.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: Lê-se a tristeza no fundo dos olhos dele."
+        },
+        {
+          "question": "On s'est assis ___ bus.",
+          "answer": [
+            "au fond du"
+          ],
+          "explanation": "PT: Sentámo-nos ao fundo do autocarro. au fond du = au fond de + le."
+        },
+        {
+          "question": "La grotte est ___une forêt.",
+          "answer": [
+            "au fond d'"
+          ],
+          "explanation": "PT: A gruta fica no fundo de uma floresta. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "___ cœur, c'est un homme bon.",
+          "answer": [
+            "au fond du"
+          ],
+          "explanation": "PT: No fundo do coração, é um homem bom. au fond du = au fond de + le."
+        },
+        {
+          "question": "Le trésor est ___ la mer.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: O tesouro está no fundo do mar."
+        },
+        {
+          "question": "Il garde ses lettres ___un tiroir.",
+          "answer": [
+            "au fond d'"
+          ],
+          "explanation": "PT: Guarda as cartas no fundo de uma gaveta. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "L'église se trouve ___ la place.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: A igreja fica ao fundo da praça."
+        },
+        {
+          "question": "Les poissons dorment ___ l'eau.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: Os peixes dormem no fundo da água."
+        },
+        {
+          "question": "J'ai mis tes chaussures ___ l'armoire.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: Pus os teus sapatos no fundo do armário."
+        },
+        {
+          "question": "Il y a une petite cour ___ l'impasse.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: Há um pequeno pátio no fundo do beco."
+        },
+        {
+          "question": "La scène se passe ___ bois.",
+          "answer": [
+            "au fond des"
+          ],
+          "explanation": "PT: A cena passa-se no fundo dos bosques. au fond des = au fond de + les."
+        },
+        {
+          "question": "Le vélo est rangé ___ garage.",
+          "answer": [
+            "au fond du"
+          ],
+          "explanation": "PT: A bicicleta está guardada ao fundo da garagem. au fond du = au fond de + le."
+        },
+        {
+          "question": "Il faut aller ___ choses.",
+          "answer": [
+            "au fond des"
+          ],
+          "explanation": "PT: É preciso ir ao fundo das questões. au fond des = au fond de + les."
+        },
+        {
+          "question": "Le sucre est resté ___ verre.",
+          "answer": [
+            "au fond du"
+          ],
+          "explanation": "PT: O açúcar ficou no fundo do copo. au fond du = au fond de + le."
+        },
+        {
+          "question": "On voit un petit village ___ la baie.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: Vê-se uma pequena aldeia ao fundo da baía."
+        },
+        {
+          "question": "___ son cœur, elle l'aimait encore.",
+          "answer": [
+            "au fond de"
+          ],
+          "explanation": "PT: No fundo do coração, ainda gostava dele."
+        },
+        {
+          "question": "Le jardin est ___une cour pavée.",
+          "answer": [
+            "au fond d'"
+          ],
+          "explanation": "PT: O jardim fica ao fundo de um pátio empedrado. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "La salle de jeux est ___ sous-sol.",
+          "answer": [
+            "au fond du"
+          ],
+          "explanation": "PT: A sala de jogos fica ao fundo da cave. au fond du = au fond de + le."
+        }
+      ]
+    },
+    {
+      "title": "dentro de, no interior de · inside",
+      "description": "Hint: 3 words with an apostrophe, starts with à. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Il fait bon ___ la cabane.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: Está agradável dentro da cabana."
+        },
+        {
+          "question": "Il est interdit de manger ___ musée.",
+          "answer": [
+            "à l'intérieur du"
+          ],
+          "explanation": "PT: É proibido comer dentro do museu. à l'intérieur du = à l'intérieur de + le."
+        },
+        {
+          "question": "Les enfants jouent ___ gymnase.",
+          "answer": [
+            "à l'intérieur du"
+          ],
+          "explanation": "PT: As crianças brincam dentro do pavilhão. à l'intérieur du = à l'intérieur de + le."
+        },
+        {
+          "question": "Il y a un jardin ___ château.",
+          "answer": [
+            "à l'intérieur du"
+          ],
+          "explanation": "PT: Há um jardim no interior do castelo. à l'intérieur du = à l'intérieur de + le."
+        },
+        {
+          "question": "Restez ___ la voiture.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: Fiquem dentro do carro."
+        },
+        {
+          "question": "La température ___ bâtiment est de 20 degrés.",
+          "answer": [
+            "à l'intérieur du"
+          ],
+          "explanation": "PT: A temperatura dentro do edifício é de 20 graus. à l'intérieur du = à l'intérieur de + le."
+        },
+        {
+          "question": "Les bijoux sont ___ coffre.",
+          "answer": [
+            "à l'intérieur du"
+          ],
+          "explanation": "PT: As joias estão dentro do cofre. à l'intérieur du = à l'intérieur de + le."
+        },
+        {
+          "question": "Il y a des tensions ___ l'équipe.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: Há tensões dentro da equipa."
+        },
+        {
+          "question": "Les photos sont interdites ___ églises.",
+          "answer": [
+            "à l'intérieur des"
+          ],
+          "explanation": "PT: As fotografias são proibidas dentro das igrejas. à l'intérieur des = à l'intérieur de + les."
+        },
+        {
+          "question": "Le chat est resté ___ la boîte.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: O gato ficou dentro da caixa."
+        },
+        {
+          "question": "On peut descendre ___ volcan.",
+          "answer": [
+            "à l'intérieur du"
+          ],
+          "explanation": "PT: Pode-se descer ao interior do vulcão. à l'intérieur du = à l'intérieur de + le."
+        },
+        {
+          "question": "Il y a une surprise ___ gâteau.",
+          "answer": [
+            "à l'intérieur du"
+          ],
+          "explanation": "PT: Há uma surpresa dentro do bolo. à l'intérieur du = à l'intérieur de + le."
+        },
+        {
+          "question": "Les gens attendent ___ magasins à cause de la pluie.",
+          "answer": [
+            "à l'intérieur des"
+          ],
+          "explanation": "PT: As pessoas esperam dentro das lojas por causa da chuva. à l'intérieur des = à l'intérieur de + les."
+        },
+        {
+          "question": "Il a caché l'argent ___un livre.",
+          "answer": [
+            "à l'intérieur d'"
+          ],
+          "explanation": "PT: Escondeu o dinheiro dentro de um livro. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "___ la ville, la vitesse est limitée.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: Dentro da cidade, a velocidade é limitada."
+        },
+        {
+          "question": "Il y a des fils électriques ___ mur.",
+          "answer": [
+            "à l'intérieur du"
+          ],
+          "explanation": "PT: Há fios elétricos dentro da parede. à l'intérieur du = à l'intérieur de + le."
+        },
+        {
+          "question": "Les passagers doivent rester ___ l'avion.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: Os passageiros têm de ficar dentro do avião."
+        },
+        {
+          "question": "___ la grotte, il fait très froid.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: Dentro da gruta, faz muito frio."
+        },
+        {
+          "question": "Les règles sont différentes ___ l'école.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: As regras são diferentes dentro da escola."
+        },
+        {
+          "question": "Il y a deux chambres ___ l'appartement.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: Há dois quartos dentro do apartamento."
+        },
+        {
+          "question": "Les fruits sont protégés ___ caisses.",
+          "answer": [
+            "à l'intérieur des"
+          ],
+          "explanation": "PT: A fruta está protegida dentro das caixas. à l'intérieur des = à l'intérieur de + les."
+        },
+        {
+          "question": "La clé est restée ___ la serrure.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: A chave ficou dentro da fechadura."
+        },
+        {
+          "question": "On a dîné ___ restaurant, pas en terrasse.",
+          "answer": [
+            "à l'intérieur du"
+          ],
+          "explanation": "PT: Jantámos dentro do restaurante, não na esplanada. à l'intérieur du = à l'intérieur de + le."
+        },
+        {
+          "question": "Il reste de l'eau ___ la gourde.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: Ainda há água dentro do cantil."
+        },
+        {
+          "question": "Les secrets restent ___ la famille.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: Os segredos ficam dentro da família."
+        },
+        {
+          "question": "Le moteur se trouve ___une boîte métallique.",
+          "answer": [
+            "à l'intérieur d'"
+          ],
+          "explanation": "PT: O motor fica dentro de uma caixa metálica. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Il y a un ascenseur ___ la tour.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: Há um elevador dentro da torre."
+        },
+        {
+          "question": "Les animaux dorment ___ la grange.",
+          "answer": [
+            "à l'intérieur de"
+          ],
+          "explanation": "PT: Os animais dormem dentro do celeiro."
+        },
+        {
+          "question": "Les visiteurs peuvent entrer ___ pyramides.",
+          "answer": [
+            "à l'intérieur des"
+          ],
+          "explanation": "PT: Os visitantes podem entrar no interior das pirâmides. à l'intérieur des = à l'intérieur de + les."
+        },
+        {
+          "question": "Le message était ___une bouteille.",
+          "answer": [
+            "à l'intérieur d'"
+          ],
+          "explanation": "PT: A mensagem estava dentro de uma garrafa. De becomes d' before a vowel or a mute h."
+        }
+      ]
+    },
+    {
+      "title": "fora de, no exterior de · outside (a place)",
+      "description": "Hint: 3 words with an apostrophe, starts with à; the opposite of inside. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Les fumeurs se retrouvent ___ bâtiment.",
+          "answer": [
+            "à l'extérieur du"
+          ],
+          "explanation": "PT: Os fumadores juntam-se fora do edifício. à l'extérieur du = à l'extérieur de + le."
+        },
+        {
+          "question": "Nous habitons ___ village.",
+          "answer": [
+            "à l'extérieur du"
+          ],
+          "explanation": "PT: Moramos fora da aldeia. à l'extérieur du = à l'extérieur de + le."
+        },
+        {
+          "question": "Il fait froid ___ la maison.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: Está frio fora de casa."
+        },
+        {
+          "question": "Le parking longue durée est ___ l'aéroport.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: O parque de longa duração fica fora do aeroporto."
+        },
+        {
+          "question": "On a mangé ___ restaurant, sur la terrasse.",
+          "answer": [
+            "à l'extérieur du"
+          ],
+          "explanation": "PT: Comemos fora do restaurante, na esplanada. à l'extérieur du = à l'extérieur de + le."
+        },
+        {
+          "question": "Les chiens doivent rester ___ magasin.",
+          "answer": [
+            "à l'extérieur du"
+          ],
+          "explanation": "PT: Os cães têm de ficar fora da loja. à l'extérieur du = à l'extérieur de + le."
+        },
+        {
+          "question": "Le nouveau stade est construit ___ la ville.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: O novo estádio foi construído fora da cidade."
+        },
+        {
+          "question": "Les enfants jouent ___ l'école après les cours.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: As crianças brincam fora da escola depois das aulas."
+        },
+        {
+          "question": "La peinture ___ maisons est blanche.",
+          "answer": [
+            "à l'extérieur des"
+          ],
+          "explanation": "PT: A pintura exterior das casas é branca. à l'extérieur des = à l'extérieur de + les."
+        },
+        {
+          "question": "Il attend ___ l'hôpital.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: Espera fora do hospital."
+        },
+        {
+          "question": "Les poubelles sont ___ l'immeuble.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: Os caixotes do lixo estão fora do prédio."
+        },
+        {
+          "question": "La fête s'est déroulée ___ château.",
+          "answer": [
+            "à l'extérieur du"
+          ],
+          "explanation": "PT: A festa decorreu fora do castelo. à l'extérieur du = à l'extérieur de + le."
+        },
+        {
+          "question": "Il travaille souvent ___ pays.",
+          "answer": [
+            "à l'extérieur du"
+          ],
+          "explanation": "PT: Trabalha muitas vezes fora do país. à l'extérieur du = à l'extérieur de + le."
+        },
+        {
+          "question": "On entend des cris ___ la salle.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: Ouvem-se gritos fora da sala."
+        },
+        {
+          "question": "Le marché a lieu ___ remparts.",
+          "answer": [
+            "à l'extérieur des"
+          ],
+          "explanation": "PT: O mercado realiza-se fora das muralhas. à l'extérieur des = à l'extérieur de + les."
+        },
+        {
+          "question": "Il a garé la voiture ___ la propriété.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: Estacionou o carro fora da propriedade."
+        },
+        {
+          "question": "Les vélos restent ___ la gare.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: As bicicletas ficam fora da estação."
+        },
+        {
+          "question": "La livraison est payante ___un rayon de dix kilomètres.",
+          "answer": [
+            "à l'extérieur d'"
+          ],
+          "explanation": "PT: A entrega é paga fora de um raio de dez quilómetros. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "En été, les vaches dorment ___ l'étable.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: No verão, as vacas dormem fora do estábulo."
+        },
+        {
+          "question": "Le concert a été organisé ___ la salle des fêtes.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: O concerto foi organizado fora do salão de festas."
+        },
+        {
+          "question": "Les journalistes attendent ___ tribunal.",
+          "answer": [
+            "à l'extérieur du"
+          ],
+          "explanation": "PT: Os jornalistas esperam fora do tribunal. à l'extérieur du = à l'extérieur de + le."
+        },
+        {
+          "question": "Ils ont mis des tables ___ café.",
+          "answer": [
+            "à l'extérieur du"
+          ],
+          "explanation": "PT: Puseram mesas fora do café. à l'extérieur du = à l'extérieur de + le."
+        },
+        {
+          "question": "La piscine est ___ l'hôtel.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: A piscina fica fora do hotel."
+        },
+        {
+          "question": "Les supporters sont restés ___ stade.",
+          "answer": [
+            "à l'extérieur du"
+          ],
+          "explanation": "PT: Os adeptos ficaram fora do estádio. à l'extérieur du = à l'extérieur de + le."
+        },
+        {
+          "question": "Les lumières ___ bâtiments s'allument la nuit.",
+          "answer": [
+            "à l'extérieur des"
+          ],
+          "explanation": "PT: As luzes exteriores dos edifícios acendem-se à noite. à l'extérieur des = à l'extérieur de + les."
+        },
+        {
+          "question": "Il y a un distributeur ___ la banque.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: Há uma caixa multibanco fora do banco."
+        },
+        {
+          "question": "Le spectacle se passe ___ la tente.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: O espetáculo passa-se fora da tenda."
+        },
+        {
+          "question": "On s'est donné rendez-vous ___ cinéma.",
+          "answer": [
+            "à l'extérieur du"
+          ],
+          "explanation": "PT: Combinámos encontrar-nos fora do cinema. à l'extérieur du = à l'extérieur de + le."
+        },
+        {
+          "question": "Les invités fument ___ la salle de réception.",
+          "answer": [
+            "à l'extérieur de"
+          ],
+          "explanation": "PT: Os convidados fumam fora da sala de receção."
+        },
+        {
+          "question": "Les vendeurs s'installent ___ marché couvert.",
+          "answer": [
+            "à l'extérieur du"
+          ],
+          "explanation": "PT: Os vendedores instalam-se fora do mercado coberto. à l'extérieur du = à l'extérieur de + le."
+        }
+      ]
+    },
+    {
+      "title": "fora de; além de · outside of; apart from",
+      "description": "Hint: 3 words, starts with e; also for times and ideas, not only places. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "___ ses cours, elle travaille dans un café.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Fora das aulas, trabalha num café."
+        },
+        {
+          "question": "Le magasin est fermé ___ heures d'ouverture.",
+          "answer": [
+            "en dehors des"
+          ],
+          "explanation": "PT: A loja está fechada fora do horário de abertura. en dehors des = en dehors de + les."
+        },
+        {
+          "question": "___ toi, personne ne le sait.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Além de ti, ninguém sabe."
+        },
+        {
+          "question": "Le nouvel hôpital a été construit ___ la ville.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: O novo hospital foi construído fora da cidade."
+        },
+        {
+          "question": "Ce sujet est ___ mes compétences.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Este tema está fora das minhas competências."
+        },
+        {
+          "question": "___ la cuisine, il n'aime rien faire.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Tirando a cozinha, não gosta de fazer nada."
+        },
+        {
+          "question": "Ils se voient ___ bureau.",
+          "answer": [
+            "en dehors du"
+          ],
+          "explanation": "PT: Veem-se fora do escritório. en dehors du = en dehors de + le."
+        },
+        {
+          "question": "___ cela, tout va bien.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Tirando isso, está tudo bem."
+        },
+        {
+          "question": "Les appels ___Europe coûtent cher.",
+          "answer": [
+            "en dehors d'"
+          ],
+          "explanation": "PT: As chamadas para fora da Europa são caras. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Le parc est fermé ___ horaires affichés.",
+          "answer": [
+            "en dehors des"
+          ],
+          "explanation": "PT: O parque está fechado fora dos horários afixados. en dehors des = en dehors de + les."
+        },
+        {
+          "question": "___ quelques amis, personne n'est venu.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Além de alguns amigos, ninguém veio."
+        },
+        {
+          "question": "Il vit un peu ___ la réalité.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Vive um pouco fora da realidade."
+        },
+        {
+          "question": "___ week-end, je ne cuisine jamais.",
+          "answer": [
+            "en dehors du"
+          ],
+          "explanation": "PT: Fora do fim de semana, nunca cozinho. en dehors du = en dehors de + le."
+        },
+        {
+          "question": "La décision a été prise ___ nous.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: A decisão foi tomada sem nós."
+        },
+        {
+          "question": "Les chiens sont interdits ___ zones prévues.",
+          "answer": [
+            "en dehors des"
+          ],
+          "explanation": "PT: Os cães são proibidos fora das zonas previstas. en dehors des = en dehors de + les."
+        },
+        {
+          "question": "___ son travail, il a peu d'amis.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Fora do trabalho, tem poucos amigos."
+        },
+        {
+          "question": "Ce cas est ___ la règle.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Este caso está fora da regra."
+        },
+        {
+          "question": "Il sort rarement ___ quartier.",
+          "answer": [
+            "en dehors du"
+          ],
+          "explanation": "PT: Raramente sai do bairro. en dehors du = en dehors de + le."
+        },
+        {
+          "question": "Les résultats sont ___ la moyenne habituelle.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Os resultados estão fora da média habitual."
+        },
+        {
+          "question": "On ne peut pas camper ___ terrains autorisés.",
+          "answer": [
+            "en dehors des"
+          ],
+          "explanation": "PT: Não se pode acampar fora dos terrenos autorizados. en dehors des = en dehors de + les."
+        },
+        {
+          "question": "___ ces deux exceptions, la loi s'applique à tous.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Tirando estas duas exceções, a lei aplica-se a todos."
+        },
+        {
+          "question": "Ce sujet sort ___ programme.",
+          "answer": [
+            "en dehors du"
+          ],
+          "explanation": "PT: Este tema sai fora do programa. en dehors du = en dehors de + le."
+        },
+        {
+          "question": "Elle a des passions ___ son métier.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Tem paixões fora da profissão."
+        },
+        {
+          "question": "Les livraisons se font ___ heures de pointe.",
+          "answer": [
+            "en dehors des"
+          ],
+          "explanation": "PT: As entregas fazem-se fora das horas de ponta. en dehors des = en dehors de + les."
+        },
+        {
+          "question": "Restez ___ cette histoire.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Fique fora desta história."
+        },
+        {
+          "question": "Il n'a jamais voyagé ___ pays.",
+          "answer": [
+            "en dehors du"
+          ],
+          "explanation": "PT: Nunca viajou para fora do país. en dehors du = en dehors de + le."
+        },
+        {
+          "question": "___un médecin, personne ne peut entrer.",
+          "answer": [
+            "en dehors d'"
+          ],
+          "explanation": "PT: Além de um médico, ninguém pode entrar. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "La maison se trouve ___ village.",
+          "answer": [
+            "en dehors du"
+          ],
+          "explanation": "PT: A casa fica fora da aldeia. en dehors du = en dehors de + le."
+        },
+        {
+          "question": "___ l'été, la plage est déserte.",
+          "answer": [
+            "en dehors de"
+          ],
+          "explanation": "PT: Fora do verão, a praia está deserta."
+        },
+        {
+          "question": "Les appels ___ heures de bureau sont transférés.",
+          "answer": [
+            "en dehors des"
+          ],
+          "explanation": "PT: As chamadas fora do horário de expediente são transferidas. en dehors des = en dehors de + les."
+        }
+      ]
+    },
+    {
+      "title": "para além de · beyond",
+      "description": "Hint: 3 parts joined by a hyphen, starts with au. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Ce succès va ___ ce que nous imaginions.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: Este sucesso vai além do que imaginávamos."
+        },
+        {
+          "question": "Il y a une vallée ___ la montagne.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: Há um vale para além da montanha."
+        },
+        {
+          "question": "___ la frontière, on parle espagnol.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: Para além da fronteira, fala-se espanhol."
+        },
+        {
+          "question": "Ne va pas ___ panneau.",
+          "answer": [
+            "au-delà du"
+          ],
+          "explanation": "PT: Não vás além da placa. au-delà du = au-delà de + le."
+        },
+        {
+          "question": "Le prix est ___ mes moyens.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: O preço está além das minhas possibilidades."
+        },
+        {
+          "question": "___ océans, il y a un autre monde.",
+          "answer": [
+            "au-delà des"
+          ],
+          "explanation": "PT: Para além dos oceanos, há outro mundo. au-delà des = au-delà de + les."
+        },
+        {
+          "question": "Il a travaillé ___ minuit.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: Trabalhou para lá da meia-noite."
+        },
+        {
+          "question": "___ ce point, la route est fermée.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: Para além deste ponto, a estrada está fechada."
+        },
+        {
+          "question": "Son talent va ___ la musique.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: O talento dele vai além da música."
+        },
+        {
+          "question": "___ apparences, c'est quelqu'un de fragile.",
+          "answer": [
+            "au-delà des"
+          ],
+          "explanation": "PT: Para além das aparências, é alguém frágil. au-delà des = au-delà de + les."
+        },
+        {
+          "question": "Les champs s'étendent ___ fleuve.",
+          "answer": [
+            "au-delà du"
+          ],
+          "explanation": "PT: Os campos estendem-se para além do rio. au-delà du = au-delà de + le."
+        },
+        {
+          "question": "Il ne voit pas ___ son intérêt personnel.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: Não vê além do seu interesse pessoal."
+        },
+        {
+          "question": "___ trois jours, le billet n'est plus remboursé.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: Para além de três dias, o bilhete já não é reembolsado."
+        },
+        {
+          "question": "La forêt continue ___ lac.",
+          "answer": [
+            "au-delà du"
+          ],
+          "explanation": "PT: A floresta continua para além do lago. au-delà du = au-delà de + le."
+        },
+        {
+          "question": "Le problème va bien ___une question d'argent.",
+          "answer": [
+            "au-delà d'"
+          ],
+          "explanation": "PT: O problema vai muito além de uma questão de dinheiro. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "___ mots, il y a les gestes.",
+          "answer": [
+            "au-delà des"
+          ],
+          "explanation": "PT: Para além das palavras, há os gestos. au-delà des = au-delà de + les."
+        },
+        {
+          "question": "Le vent souffle ___ cent kilomètres à l'heure.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: O vento sopra a mais de cem quilómetros por hora."
+        },
+        {
+          "question": "On ne voit rien ___ brouillard.",
+          "answer": [
+            "au-delà du"
+          ],
+          "explanation": "PT: Não se vê nada para além do nevoeiro. au-delà du = au-delà de + le."
+        },
+        {
+          "question": "Il est allé ___ ses limites.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: Foi além dos seus limites."
+        },
+        {
+          "question": "___ cette date, l'inscription est impossible.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: Depois desta data, a inscrição é impossível."
+        },
+        {
+          "question": "Les montagnes ___ la vallée sont enneigées.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: As montanhas para lá do vale estão cobertas de neve."
+        },
+        {
+          "question": "Sa réputation va ___ pays.",
+          "answer": [
+            "au-delà du"
+          ],
+          "explanation": "PT: A reputação dela vai além do país. au-delà du = au-delà de + le."
+        },
+        {
+          "question": "___un certain âge, on ne peut plus s'inscrire.",
+          "answer": [
+            "au-delà d'"
+          ],
+          "explanation": "PT: Depois de uma certa idade, já não é possível inscrever-se. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Ce débat va ___ la politique.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: Este debate vai além da política."
+        },
+        {
+          "question": "Le parc s'étend ___ remparts.",
+          "answer": [
+            "au-delà des"
+          ],
+          "explanation": "PT: O parque estende-se para lá das muralhas. au-delà des = au-delà de + les."
+        },
+        {
+          "question": "___ quelques détails, nous sommes d'accord.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: Para além de alguns pormenores, estamos de acordo."
+        },
+        {
+          "question": "Le chemin continue ___ la rivière.",
+          "answer": [
+            "au-delà de"
+          ],
+          "explanation": "PT: O caminho continua para além do rio."
+        },
+        {
+          "question": "Ses ambitions vont ___ succès commercial.",
+          "answer": [
+            "au-delà du"
+          ],
+          "explanation": "PT: As ambições dele vão além do sucesso comercial. au-delà du = au-delà de + le."
+        },
+        {
+          "question": "Il y a des îles ___ cap.",
+          "answer": [
+            "au-delà du"
+          ],
+          "explanation": "PT: Há ilhas para lá do cabo. au-delà du = au-delà de + le."
+        },
+        {
+          "question": "___une certaine vitesse, le moteur chauffe.",
+          "answer": [
+            "au-delà d'"
+          ],
+          "explanation": "PT: Acima de uma certa velocidade, o motor aquece. De becomes d' before a vowel or a mute h."
+        }
+      ]
+    },
+    {
+      "title": "no cimo de, no alto de · at the top of",
+      "description": "Hint: 3 words, starts with e. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Il y a une chapelle ___ la colline.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: Há uma capela no cimo da colina."
+        },
+        {
+          "question": "Mets la date ___ la feuille.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: Põe a data no cimo da folha."
+        },
+        {
+          "question": "Le restaurant est ___ la tour.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: O restaurante fica no cimo da torre."
+        },
+        {
+          "question": "Je t'attends ___ l'escalier.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: Espero-te no cimo das escadas."
+        },
+        {
+          "question": "Le château est ___ village.",
+          "answer": [
+            "en haut du"
+          ],
+          "explanation": "PT: O castelo fica na parte alta da aldeia. en haut du = en haut de + le."
+        },
+        {
+          "question": "Le chat est monté ___ l'armoire.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: O gato subiu para cima do armário."
+        },
+        {
+          "question": "Le logo est ___ l'écran.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: O logótipo está na parte de cima do ecrã."
+        },
+        {
+          "question": "Ils ont planté un drapeau ___ la montagne.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: Espetaram uma bandeira no cimo da montanha."
+        },
+        {
+          "question": "Range les verres ___ placard.",
+          "answer": [
+            "en haut du"
+          ],
+          "explanation": "PT: Arruma os copos na parte de cima do armário. en haut du = en haut de + le."
+        },
+        {
+          "question": "Ce chanteur est ___ classement.",
+          "answer": [
+            "en haut du"
+          ],
+          "explanation": "PT: Este cantor está no topo da classificação. en haut du = en haut de + le."
+        },
+        {
+          "question": "La vue est magnifique ___ phare.",
+          "answer": [
+            "en haut du"
+          ],
+          "explanation": "PT: A vista é magnífica do cimo do farol. en haut du = en haut de + le."
+        },
+        {
+          "question": "Les nids sont ___ arbres.",
+          "answer": [
+            "en haut des"
+          ],
+          "explanation": "PT: Os ninhos estão no cimo das árvores. en haut des = en haut de + les."
+        },
+        {
+          "question": "Le bouton est ___ la page d'accueil.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: O botão está no topo da página inicial."
+        },
+        {
+          "question": "On a pique-niqué ___ dunes.",
+          "answer": [
+            "en haut des"
+          ],
+          "explanation": "PT: Fizemos um piquenique no cimo das dunas. en haut des = en haut de + les."
+        },
+        {
+          "question": "Mon bureau est ___ bâtiment.",
+          "answer": [
+            "en haut du"
+          ],
+          "explanation": "PT: O meu escritório fica no último piso do edifício. en haut du = en haut de + le."
+        },
+        {
+          "question": "Il a mis le carton ___ la pile.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: Pôs a caixa no cimo da pilha."
+        },
+        {
+          "question": "La croix brille ___ clocher.",
+          "answer": [
+            "en haut du"
+          ],
+          "explanation": "PT: A cruz brilha no cimo do campanário. en haut du = en haut de + le."
+        },
+        {
+          "question": "Le prix est indiqué ___ l'affiche.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: O preço está indicado no topo do cartaz."
+        },
+        {
+          "question": "Nous sommes arrivés ___ col après trois heures.",
+          "answer": [
+            "en haut du"
+          ],
+          "explanation": "PT: Chegámos ao cimo do desfiladeiro ao fim de três horas. en haut du = en haut de + le."
+        },
+        {
+          "question": "___ marches, on voit toute la ville.",
+          "answer": [
+            "en haut des"
+          ],
+          "explanation": "PT: Do cimo dos degraus, vê-se a cidade toda. en haut des = en haut de + les."
+        },
+        {
+          "question": "Elle a rangé la valise ___une étagère.",
+          "answer": [
+            "en haut d'"
+          ],
+          "explanation": "PT: Guardou a mala no cimo de uma prateleira. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "La température ___ la montagne est basse.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: A temperatura no cimo da montanha é baixa."
+        },
+        {
+          "question": "Le titre est écrit ___ la lettre.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: O título está escrito no topo da carta."
+        },
+        {
+          "question": "Il y a une terrasse ___ l'immeuble.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: Há um terraço no cimo do prédio."
+        },
+        {
+          "question": "Le cerf-volant vole ___ falaises.",
+          "answer": [
+            "en haut des"
+          ],
+          "explanation": "PT: O papagaio de papel voa no cimo das falésias. en haut des = en haut de + les."
+        },
+        {
+          "question": "Le menu est ___ site.",
+          "answer": [
+            "en haut du"
+          ],
+          "explanation": "PT: O menu está no topo do site. en haut du = en haut de + le."
+        },
+        {
+          "question": "Il a grimpé ___un arbre.",
+          "answer": [
+            "en haut d'"
+          ],
+          "explanation": "PT: Subiu ao cimo de uma árvore. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Les chambres sont ___ la maison.",
+          "answer": [
+            "en haut de"
+          ],
+          "explanation": "PT: Os quartos ficam na parte de cima da casa."
+        },
+        {
+          "question": "Les enfants courent ___ toboggan.",
+          "answer": [
+            "en haut du"
+          ],
+          "explanation": "PT: As crianças correm para o cimo do escorrega. en haut du = en haut de + le."
+        },
+        {
+          "question": "On a construit une cabane ___un rocher.",
+          "answer": [
+            "en haut d'"
+          ],
+          "explanation": "PT: Construímos uma cabana no cimo de uma rocha. De becomes d' before a vowel or a mute h."
+        }
+      ]
+    },
+    {
+      "title": "ao fundo de, em baixo de · at the bottom of",
+      "description": "Hint: 3 words, starts with e; the opposite of the top. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Le numéro est ___ la page.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: O número está no fundo da página."
+        },
+        {
+          "question": "Je t'attends ___ la rue.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: Espero-te no fundo da rua."
+        },
+        {
+          "question": "Il habite ___ la colline.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: Vive no sopé da colina."
+        },
+        {
+          "question": "Le parking est ___ l'escalier.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: O parque fica ao fundo das escadas."
+        },
+        {
+          "question": "La boulangerie est ___ boulevard.",
+          "answer": [
+            "en bas du"
+          ],
+          "explanation": "PT: A padaria fica no fundo da avenida. en bas du = en bas de + le."
+        },
+        {
+          "question": "Mets tes chaussures ___ placard.",
+          "answer": [
+            "en bas du"
+          ],
+          "explanation": "PT: Põe os sapatos na parte de baixo do armário. en bas du = en bas de + le."
+        },
+        {
+          "question": "Les notes sont ___ document.",
+          "answer": [
+            "en bas du"
+          ],
+          "explanation": "PT: As notas estão no fim do documento. en bas du = en bas de + le."
+        },
+        {
+          "question": "Le village est ___ la vallée.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: A aldeia fica no fundo do vale."
+        },
+        {
+          "question": "Cette équipe est ___ classement.",
+          "answer": [
+            "en bas du"
+          ],
+          "explanation": "PT: Esta equipa está no fundo da classificação. en bas du = en bas de + le."
+        },
+        {
+          "question": "Cliquez sur le bouton ___ l'écran.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: Clique no botão no fundo do ecrã."
+        },
+        {
+          "question": "Le café est ___ ma rue.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: O café fica no fundo da minha rua."
+        },
+        {
+          "question": "Les enfants attendent ___ pistes de ski.",
+          "answer": [
+            "en bas des"
+          ],
+          "explanation": "PT: As crianças esperam no fundo das pistas de esqui. en bas des = en bas de + les."
+        },
+        {
+          "question": "Le prix total est ___ la facture.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: O preço total está no fundo da fatura."
+        },
+        {
+          "question": "La gare est ___ la ville.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: A estação fica na parte baixa da cidade."
+        },
+        {
+          "question": "Il y a un banc ___ marches.",
+          "answer": [
+            "en bas des"
+          ],
+          "explanation": "PT: Há um banco ao fundo dos degraus. en bas des = en bas de + les."
+        },
+        {
+          "question": "Le chat attend ___ l'arbre.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: O gato espera ao pé da árvore."
+        },
+        {
+          "question": "Les vieilles lettres sont ___ la boîte.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: As cartas antigas estão no fundo da caixa."
+        },
+        {
+          "question": "Le restaurant est ___ la station de ski.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: O restaurante fica na parte baixa da estância de esqui."
+        },
+        {
+          "question": "Le lac se trouve ___ montagnes.",
+          "answer": [
+            "en bas des"
+          ],
+          "explanation": "PT: O lago fica ao pé das montanhas. en bas des = en bas de + les."
+        },
+        {
+          "question": "Il a laissé son vélo ___ l'immeuble.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: Deixou a bicicleta à porta do prédio."
+        },
+        {
+          "question": "La légende est ___ la carte.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: A legenda está no fundo do mapa."
+        },
+        {
+          "question": "Il y a une fontaine ___ jardin.",
+          "answer": [
+            "en bas du"
+          ],
+          "explanation": "PT: Há uma fonte na parte de baixo do jardim. en bas du = en bas de + le."
+        },
+        {
+          "question": "Le chien dort ___un escalier en pierre.",
+          "answer": [
+            "en bas d'"
+          ],
+          "explanation": "PT: O cão dorme ao fundo de umas escadas de pedra. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Les cartons lourds sont ___ la pile.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: As caixas pesadas estão no fundo da pilha."
+        },
+        {
+          "question": "La rivière coule ___ falaises.",
+          "answer": [
+            "en bas des"
+          ],
+          "explanation": "PT: O rio corre ao pé das falésias. en bas des = en bas de + les."
+        },
+        {
+          "question": "Les vestiaires sont ___ gradins.",
+          "answer": [
+            "en bas des"
+          ],
+          "explanation": "PT: Os balneários ficam em baixo das bancadas. en bas des = en bas de + les."
+        },
+        {
+          "question": "Le bouton rouge est ___ la télécommande.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: O botão vermelho fica na parte de baixo do comando."
+        },
+        {
+          "question": "Les vignes poussent ___ coteau.",
+          "answer": [
+            "en bas du"
+          ],
+          "explanation": "PT: As vinhas crescem no sopé da encosta. en bas du = en bas de + le."
+        },
+        {
+          "question": "Le village s'étend ___une colline.",
+          "answer": [
+            "en bas d'"
+          ],
+          "explanation": "PT: A aldeia estende-se no sopé de uma colina. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Il signe toujours ___ ses lettres.",
+          "answer": [
+            "en bas de"
+          ],
+          "explanation": "PT: Assina sempre no fim das cartas."
+        }
+      ]
+    },
+    {
+      "title": "à esquerda de · to the left of",
+      "description": "Hint: 3 words, starts with à. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Le salon est ___ l'entrée.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: A sala fica à esquerda da entrada."
+        },
+        {
+          "question": "Pose le couteau ___ verre.",
+          "answer": [
+            "à gauche du"
+          ],
+          "explanation": "PT: Põe a faca à esquerda do copo. à gauche du = à gauche de + le."
+        },
+        {
+          "question": "Le bouton est ___ l'écran.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: O botão fica à esquerda do ecrã."
+        },
+        {
+          "question": "La pharmacie est ___ la banque.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: A farmácia fica à esquerda do banco."
+        },
+        {
+          "question": "Le marié se tient ___ la mariée.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: O noivo está à esquerda da noiva."
+        },
+        {
+          "question": "Le distributeur est ___ guichet.",
+          "answer": [
+            "à gauche du"
+          ],
+          "explanation": "PT: A caixa multibanco fica à esquerda do balcão. à gauche du = à gauche de + le."
+        },
+        {
+          "question": "Sur la photo, je suis ___ mon frère.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: Na fotografia, estou à esquerda do meu irmão."
+        },
+        {
+          "question": "Les toilettes sont ___ ascenseurs.",
+          "answer": [
+            "à gauche des"
+          ],
+          "explanation": "PT: A casa de banho fica à esquerda dos elevadores. à gauche des = à gauche de + les."
+        },
+        {
+          "question": "Le musée est ___ l'église.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: O museu fica à esquerda da igreja."
+        },
+        {
+          "question": "La photo est ___ texte.",
+          "answer": [
+            "à gauche du"
+          ],
+          "explanation": "PT: A fotografia fica à esquerda do texto. à gauche du = à gauche de + le."
+        },
+        {
+          "question": "Le bureau du directeur est ___ l'escalier.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: O gabinete do diretor fica à esquerda das escadas."
+        },
+        {
+          "question": "La date est écrite ___ la signature.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: A data está escrita à esquerda da assinatura."
+        },
+        {
+          "question": "Le chien dort ___ canapé.",
+          "answer": [
+            "à gauche du"
+          ],
+          "explanation": "PT: O cão dorme à esquerda do sofá. à gauche du = à gauche de + le."
+        },
+        {
+          "question": "Garez-vous ___ portail.",
+          "answer": [
+            "à gauche du"
+          ],
+          "explanation": "PT: Estacione à esquerda do portão. à gauche du = à gauche de + le."
+        },
+        {
+          "question": "L'interrupteur est ___ la porte.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: O interruptor fica à esquerda da porta."
+        },
+        {
+          "question": "Le numéro est ___ nom.",
+          "answer": [
+            "à gauche du"
+          ],
+          "explanation": "PT: O número fica à esquerda do nome. à gauche du = à gauche de + le."
+        },
+        {
+          "question": "La boulangerie se trouve ___ fleuriste.",
+          "answer": [
+            "à gauche du"
+          ],
+          "explanation": "PT: A padaria fica à esquerda da florista. à gauche du = à gauche de + le."
+        },
+        {
+          "question": "Mettez les livres ___ cahiers.",
+          "answer": [
+            "à gauche des"
+          ],
+          "explanation": "PT: Ponham os livros à esquerda dos cadernos. à gauche des = à gauche de + les."
+        },
+        {
+          "question": "Mon appartement est ___ celui de Paul.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: O meu apartamento fica à esquerda do do Paul."
+        },
+        {
+          "question": "Le café est ___un grand hôtel.",
+          "answer": [
+            "à gauche d'"
+          ],
+          "explanation": "PT: O café fica à esquerda de um grande hotel. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Le lit est ___ la fenêtre.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: A cama fica à esquerda da janela."
+        },
+        {
+          "question": "Le menu s'ouvre ___ la barre d'outils.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: O menu abre-se à esquerda da barra de ferramentas."
+        },
+        {
+          "question": "La sortie de secours est ___ caisses.",
+          "answer": [
+            "à gauche des"
+          ],
+          "explanation": "PT: A saída de emergência fica à esquerda das caixas. à gauche des = à gauche de + les."
+        },
+        {
+          "question": "Sur le tableau, le roi est ___ la reine.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: No quadro, o rei está à esquerda da rainha."
+        },
+        {
+          "question": "La gare est ___ pont.",
+          "answer": [
+            "à gauche du"
+          ],
+          "explanation": "PT: A estação fica à esquerda da ponte. à gauche du = à gauche de + le."
+        },
+        {
+          "question": "Le vase est ___ la lampe.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: A jarra fica à esquerda do candeeiro."
+        },
+        {
+          "question": "L'arrêt est juste ___un kiosque.",
+          "answer": [
+            "à gauche d'"
+          ],
+          "explanation": "PT: A paragem fica mesmo à esquerda de um quiosque. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Il y a un tiroir ___ l'évier.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: Há uma gaveta à esquerda do lava-loiça."
+        },
+        {
+          "question": "La clé est ___ l'ordinateur.",
+          "answer": [
+            "à gauche de"
+          ],
+          "explanation": "PT: A chave está à esquerda do computador."
+        },
+        {
+          "question": "Les vélos sont garés ___ arbres.",
+          "answer": [
+            "à gauche des"
+          ],
+          "explanation": "PT: As bicicletas estão estacionadas à esquerda das árvores. à gauche des = à gauche de + les."
+        }
+      ]
+    },
+    {
+      "title": "à direita de · to the right of",
+      "description": "Hint: 3 words, starts with à. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "La cuisine est ___ salon.",
+          "answer": [
+            "à droite du"
+          ],
+          "explanation": "PT: A cozinha fica à direita da sala. à droite du = à droite de + le."
+        },
+        {
+          "question": "La poignée est ___ la porte.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: O puxador fica à direita da porta."
+        },
+        {
+          "question": "Mets le verre ___ l'assiette.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: Põe o copo à direita do prato."
+        },
+        {
+          "question": "Le parking est ___ l'entrée.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: O parque fica à direita da entrada."
+        },
+        {
+          "question": "Assieds-toi ___ ta grand-mère.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: Senta-te à direita da tua avó."
+        },
+        {
+          "question": "La pharmacie est ___ la boulangerie.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: A farmácia fica à direita da padaria."
+        },
+        {
+          "question": "Le prix est écrit ___ produit.",
+          "answer": [
+            "à droite du"
+          ],
+          "explanation": "PT: O preço está escrito à direita do produto. à droite du = à droite de + le."
+        },
+        {
+          "question": "La sortie est ___ escaliers mécaniques.",
+          "answer": [
+            "à droite des"
+          ],
+          "explanation": "PT: A saída fica à direita das escadas rolantes. à droite des = à droite de + les."
+        },
+        {
+          "question": "Le titre est ___ logo.",
+          "answer": [
+            "à droite du"
+          ],
+          "explanation": "PT: O título fica à direita do logótipo. à droite du = à droite de + le."
+        },
+        {
+          "question": "Le lavabo est ___ la baignoire.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: O lavatório fica à direita da banheira."
+        },
+        {
+          "question": "Le cinéma est ___ la mairie.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: O cinema fica à direita da câmara municipal."
+        },
+        {
+          "question": "Le président est assis ___ ministre.",
+          "answer": [
+            "à droite du"
+          ],
+          "explanation": "PT: O presidente está sentado à direita do ministro. à droite du = à droite de + le."
+        },
+        {
+          "question": "Le lampadaire est ___ canapé.",
+          "answer": [
+            "à droite du"
+          ],
+          "explanation": "PT: O candeeiro de pé fica à direita do sofá. à droite du = à droite de + le."
+        },
+        {
+          "question": "Garez la voiture ___ arbres.",
+          "answer": [
+            "à droite des"
+          ],
+          "explanation": "PT: Estacione o carro à direita das árvores. à droite des = à droite de + les."
+        },
+        {
+          "question": "La photo est ___ titre.",
+          "answer": [
+            "à droite du"
+          ],
+          "explanation": "PT: A fotografia fica à direita do título. à droite du = à droite de + le."
+        },
+        {
+          "question": "La chambre est ___ la salle de bains.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: O quarto fica à direita da casa de banho."
+        },
+        {
+          "question": "Le symbole de l'euro est ___ chiffre.",
+          "answer": [
+            "à droite du"
+          ],
+          "explanation": "PT: O símbolo do euro fica à direita do número. à droite du = à droite de + le."
+        },
+        {
+          "question": "Le magasin est ___une pharmacie.",
+          "answer": [
+            "à droite d'"
+          ],
+          "explanation": "PT: A loja fica à direita de uma farmácia. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Les romans sont ___ dictionnaires.",
+          "answer": [
+            "à droite des"
+          ],
+          "explanation": "PT: Os romances estão à direita dos dicionários. à droite des = à droite de + les."
+        },
+        {
+          "question": "Fais une croix ___ ton nom.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: Faz uma cruz à direita do teu nome."
+        },
+        {
+          "question": "Le marché est ___ la place.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: O mercado fica à direita da praça."
+        },
+        {
+          "question": "Mon frère est ___ moi sur la photo.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: O meu irmão está à minha direita na fotografia."
+        },
+        {
+          "question": "L'arrêt de bus est ___ kiosque.",
+          "answer": [
+            "à droite du"
+          ],
+          "explanation": "PT: A paragem do autocarro fica à direita do quiosque. à droite du = à droite de + le."
+        },
+        {
+          "question": "Il y a une prise ___ bureau.",
+          "answer": [
+            "à droite du"
+          ],
+          "explanation": "PT: Há uma tomada à direita da secretária. à droite du = à droite de + le."
+        },
+        {
+          "question": "Le café se trouve ___une banque.",
+          "answer": [
+            "à droite d'"
+          ],
+          "explanation": "PT: O café fica à direita de um banco. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Les poubelles sont ___ portes.",
+          "answer": [
+            "à droite des"
+          ],
+          "explanation": "PT: Os caixotes do lixo estão à direita das portas. à droite des = à droite de + les."
+        },
+        {
+          "question": "Le potager est ___ la serre.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: A horta fica à direita da estufa."
+        },
+        {
+          "question": "Le stylo est ___ cahier.",
+          "answer": [
+            "à droite du"
+          ],
+          "explanation": "PT: A caneta está à direita do caderno. à droite du = à droite de + le."
+        },
+        {
+          "question": "Cliquez sur l'icône ___ la barre de recherche.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: Clique no ícone à direita da barra de pesquisa."
+        },
+        {
+          "question": "La statue est ___ la fontaine.",
+          "answer": [
+            "à droite de"
+          ],
+          "explanation": "PT: A estátua fica à direita da fonte."
+        }
+      ]
+    },
+    {
+      "title": "em relação a, perante · regarding, towards (an attitude)",
+      "description": "Hint: 3 parts joined by hyphens, then de; starts with v. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Quelle est votre attitude ___ ce changement ?",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: Qual é a sua atitude em relação a esta mudança?"
+        },
+        {
+          "question": "Elle est très correcte ___ ses collègues.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: É muito correta com os colegas."
+        },
+        {
+          "question": "Le fournisseur a des engagements ___ ses acheteurs.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: O fornecedor tem compromissos para com os compradores."
+        },
+        {
+          "question": "Il se sent coupable ___ sa sœur.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: Sente-se culpado em relação à irmã."
+        },
+        {
+          "question": "La position du gouvernement ___ syndicats est claire.",
+          "answer": [
+            "vis-à-vis des"
+          ],
+          "explanation": "PT: A posição do governo em relação aos sindicatos é clara. vis-à-vis des = vis-à-vis de + les."
+        },
+        {
+          "question": "Il est méfiant ___ inconnus.",
+          "answer": [
+            "vis-à-vis des"
+          ],
+          "explanation": "PT: Desconfia dos desconhecidos. vis-à-vis des = vis-à-vis de + les."
+        },
+        {
+          "question": "Elle a des responsabilités ___ ses enfants.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: Tem responsabilidades em relação aos filhos."
+        },
+        {
+          "question": "Je suis un peu gêné ___ lui.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: Estou um pouco constrangido em relação a ele."
+        },
+        {
+          "question": "Le pays a une dette ___ l'Europe.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: O país tem uma dívida para com a Europa."
+        },
+        {
+          "question": "Son comportement ___ public a choqué.",
+          "answer": [
+            "vis-à-vis du"
+          ],
+          "explanation": "PT: O comportamento dele em relação ao público chocou. vis-à-vis du = vis-à-vis de + le."
+        },
+        {
+          "question": "Il faut être prudent ___ ces informations.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: É preciso ter cuidado com estas informações."
+        },
+        {
+          "question": "L'école a un rôle à jouer ___ familles.",
+          "answer": [
+            "vis-à-vis des"
+          ],
+          "explanation": "PT: A escola tem um papel a desempenhar em relação às famílias. vis-à-vis des = vis-à-vis de + les."
+        },
+        {
+          "question": "Quelle est la règle ___ retards ?",
+          "answer": [
+            "vis-à-vis des"
+          ],
+          "explanation": "PT: Qual é a regra em relação aos atrasos? vis-à-vis des = vis-à-vis de + les."
+        },
+        {
+          "question": "Il a toujours été loyal ___ son équipe.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: Sempre foi leal à equipa."
+        },
+        {
+          "question": "Elle se montre exigeante ___elle-même.",
+          "answer": [
+            "vis-à-vis d'"
+          ],
+          "explanation": "PT: Mostra-se exigente consigo própria. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Notre engagement ___ l'environnement est sérieux.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: O nosso compromisso com o ambiente é sério."
+        },
+        {
+          "question": "Il éprouve de la méfiance ___ médecins.",
+          "answer": [
+            "vis-à-vis des"
+          ],
+          "explanation": "PT: Sente desconfiança em relação aos médicos. vis-à-vis des = vis-à-vis de + les."
+        },
+        {
+          "question": "La banque est souple ___ ses bons clients.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: O banco é flexível com os bons clientes."
+        },
+        {
+          "question": "Il est en position de force ___ concurrent.",
+          "answer": [
+            "vis-à-vis du"
+          ],
+          "explanation": "PT: Está em posição de força perante o concorrente. vis-à-vis du = vis-à-vis de + le."
+        },
+        {
+          "question": "Ma maison est ___ l'église.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: A minha casa fica defronte da igreja. Here it means opposite, face to face: its first meaning."
+        },
+        {
+          "question": "La loi est tolérante ___ ce genre de pratique.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: A lei é tolerante em relação a este tipo de prática."
+        },
+        {
+          "question": "Les jeunes sont critiques ___ partis politiques.",
+          "answer": [
+            "vis-à-vis des"
+          ],
+          "explanation": "PT: Os jovens são críticos em relação aos partidos políticos. vis-à-vis des = vis-à-vis de + les."
+        },
+        {
+          "question": "Il a pris ses distances ___ son ancien patron.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: Distanciou-se do antigo chefe."
+        },
+        {
+          "question": "Nos devoirs ___ la planète sont immenses.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: Os nossos deveres para com o planeta são imensos."
+        },
+        {
+          "question": "L'entreprise est transparente ___ actionnaires.",
+          "answer": [
+            "vis-à-vis des"
+          ],
+          "explanation": "PT: A empresa é transparente para com os acionistas. vis-à-vis des = vis-à-vis de + les."
+        },
+        {
+          "question": "Elle a changé d'avis ___ ce candidat.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: Mudou de opinião em relação a este candidato."
+        },
+        {
+          "question": "Il est resté discret ___ la presse.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: Manteve-se discreto perante a imprensa."
+        },
+        {
+          "question": "Je me sens redevable ___ mon professeur.",
+          "answer": [
+            "vis-à-vis de"
+          ],
+          "explanation": "PT: Sinto-me em dívida para com o meu professor."
+        },
+        {
+          "question": "Le ministre reste ferme ___ manifestants.",
+          "answer": [
+            "vis-à-vis des"
+          ],
+          "explanation": "PT: O ministro mantém-se firme perante os manifestantes. vis-à-vis des = vis-à-vis de + les."
+        },
+        {
+          "question": "Ils sont très accueillants ___ étrangers.",
+          "answer": [
+            "vis-à-vis des"
+          ],
+          "explanation": "PT: São muito acolhedores com os estrangeiros. vis-à-vis des = vis-à-vis de + les."
+        }
+      ]
+    },
+    {
+      "title": "por cima de · over (passing above)",
+      "description": "Hint: 2 parts joined by a hyphen, starts with p; no de after it. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Le cheval a sauté ___ la haie.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: O cavalo saltou por cima da sebe."
+        },
+        {
+          "question": "Il porte un imperméable ___ sa veste.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Usa um impermeável por cima do casaco."
+        },
+        {
+          "question": "Le ballon est passé ___ le mur.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: A bola passou por cima do muro."
+        },
+        {
+          "question": "Elle lit ___ mon épaule.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Ela lê por cima do meu ombro."
+        },
+        {
+          "question": "Le voleur a sauté ___ la grille.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: O ladrão saltou por cima da grade."
+        },
+        {
+          "question": "Il a lancé la balle ___ la maison.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Atirou a bola por cima da casa."
+        },
+        {
+          "question": "On a mis une couverture ___ le drap.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Pusemos um cobertor por cima do lençol."
+        },
+        {
+          "question": "L'avion est passé ___ nos têtes.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: O avião passou por cima das nossas cabeças."
+        },
+        {
+          "question": "J'en ai ___ la tête !",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Estou farto!"
+        },
+        {
+          "question": "Les enfants lancent des cailloux ___ la rivière.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: As crianças atiram pedrinhas por cima do rio."
+        },
+        {
+          "question": "Elle a noué une écharpe ___ son manteau.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Atou um cachecol por cima do casaco."
+        },
+        {
+          "question": "Le chien a sauté ___ le canapé.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: O cão saltou por cima do sofá."
+        },
+        {
+          "question": "Il a regardé ___ le muret.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Espreitou por cima do muro baixo."
+        },
+        {
+          "question": "Les branches passent ___ la clôture.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Os ramos passam por cima da vedação."
+        },
+        {
+          "question": "Verse la sauce ___ les pâtes.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Deita o molho por cima da massa."
+        },
+        {
+          "question": "Le pont passe ___ l'autoroute.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: A ponte passa por cima da autoestrada."
+        },
+        {
+          "question": "Elle a sauté ___ la flaque.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Saltou por cima da poça."
+        },
+        {
+          "question": "Il était en retard et, ___ le marché, il avait oublié le cadeau.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Estava atrasado e, ainda por cima, tinha-se esquecido do presente."
+        },
+        {
+          "question": "Le vent a emporté le chapeau ___ le parapet.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: O vento levou o chapéu por cima do parapeito."
+        },
+        {
+          "question": "Il a mis du fromage râpé ___ la soupe.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Pôs queijo ralado por cima da sopa."
+        },
+        {
+          "question": "On entend la musique ___ les murs du jardin.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Ouve-se a música por cima dos muros do jardim."
+        },
+        {
+          "question": "Le gardien a plongé, mais le ballon est passé ___ lui.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: O guarda-redes atirou-se, mas a bola passou por cima dele."
+        },
+        {
+          "question": "Jette un œil ___ le rideau.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Espreita por cima da cortina."
+        },
+        {
+          "question": "Il a passé la corde ___ la branche.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Passou a corda por cima do ramo."
+        },
+        {
+          "question": "La fumée monte ___ les toits.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: O fumo sobe por cima dos telhados."
+        },
+        {
+          "question": "Elle a mis un tablier ___ sa robe.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Pôs um avental por cima do vestido."
+        },
+        {
+          "question": "Les vagues passent ___ la digue.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: As ondas passam por cima do paredão."
+        },
+        {
+          "question": "Il a sauté ___ le ruisseau.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Saltou por cima do ribeiro."
+        },
+        {
+          "question": "Le chat est passé ___ la table.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: O gato passou por cima da mesa."
+        },
+        {
+          "question": "Il a passé une couche de vernis ___ la peinture.",
+          "answer": [
+            "par-dessus"
+          ],
+          "explanation": "PT: Passou uma camada de verniz por cima da tinta."
+        }
+      ]
+    },
+    {
+      "title": "a partir de · from, starting at",
+      "description": "Hint: 3 words, starts with à. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Les nouveaux horaires s'appliquent ___ lundi prochain.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: Os novos horários aplicam-se a partir da próxima segunda-feira."
+        },
+        {
+          "question": "___ 16 ans, on peut conduire un scooter.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: A partir dos 16 anos, pode-se conduzir uma scooter."
+        },
+        {
+          "question": "Ce film est tiré ___ roman du même nom.",
+          "answer": [
+            "à partir du"
+          ],
+          "explanation": "PT: Este filme foi feito a partir do romance com o mesmo nome. à partir du = à partir de + le."
+        },
+        {
+          "question": "___ maintenant, on se tutoie.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: A partir de agora, tratamo-nos por tu."
+        },
+        {
+          "question": "Les prix commencent ___ dix euros.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: Os preços começam a partir de dez euros."
+        },
+        {
+          "question": "___ mois prochain, je travaille à mi-temps.",
+          "answer": [
+            "à partir du"
+          ],
+          "explanation": "PT: A partir do próximo mês, trabalho a meio tempo. à partir du = à partir de + le."
+        },
+        {
+          "question": "La soupe est faite ___ légumes du jardin.",
+          "answer": [
+            "à partir des"
+          ],
+          "explanation": "PT: A sopa é feita a partir dos legumes da horta. à partir des = à partir de + les."
+        },
+        {
+          "question": "___aujourd'hui, le parking est payant.",
+          "answer": [
+            "à partir d'"
+          ],
+          "explanation": "PT: A partir de hoje, o estacionamento é pago. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "On voit la mer ___ cette fenêtre.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: Vê-se o mar a partir desta janela."
+        },
+        {
+          "question": "Le train circule ___ six heures du matin.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: O comboio circula a partir das seis da manhã."
+        },
+        {
+          "question": "Ils ont reconstruit la maison ___ ruines.",
+          "answer": [
+            "à partir des"
+          ],
+          "explanation": "PT: Reconstruíram a casa a partir das ruínas. à partir des = à partir de + les."
+        },
+        {
+          "question": "___ quand le musée est-il ouvert ?",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: A partir de quando está o museu aberto?"
+        },
+        {
+          "question": "Ce fromage est fabriqué ___ lait de brebis.",
+          "answer": [
+            "à partir du"
+          ],
+          "explanation": "PT: Este queijo é fabricado a partir de leite de ovelha. à partir du = à partir de + le."
+        },
+        {
+          "question": "___ cette date, les inscriptions sont closes.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: A partir desta data, as inscrições estão encerradas."
+        },
+        {
+          "question": "___ demain, il fera plus froid.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: A partir de amanhã, vai fazer mais frio."
+        },
+        {
+          "question": "Les cours reprennent ___ 3 septembre.",
+          "answer": [
+            "à partir du"
+          ],
+          "explanation": "PT: As aulas recomeçam a partir de 3 de setembro. à partir du = à partir de + le."
+        },
+        {
+          "question": "Cette électricité est produite ___ vent.",
+          "answer": [
+            "à partir du"
+          ],
+          "explanation": "PT: Esta eletricidade é produzida a partir do vento. à partir du = à partir de + le."
+        },
+        {
+          "question": "___un certain point, la route devient étroite.",
+          "answer": [
+            "à partir d'"
+          ],
+          "explanation": "PT: A partir de certo ponto, a estrada fica estreita. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "La réduction s'applique ___ trois articles.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: O desconto aplica-se a partir de três artigos."
+        },
+        {
+          "question": "Ce parfum est fait ___ fleurs sauvages.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: Este perfume é feito a partir de flores silvestres."
+        },
+        {
+          "question": "___ ce jour-là, tout a changé.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: A partir desse dia, tudo mudou."
+        },
+        {
+          "question": "Ils ont créé l'entreprise ___ rien.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: Criaram a empresa a partir do nada."
+        },
+        {
+          "question": "La visite est possible ___ dix heures.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: A visita é possível a partir das dez."
+        },
+        {
+          "question": "Les billets sont disponibles ___ la semaine prochaine.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: Os bilhetes estão disponíveis a partir da próxima semana."
+        },
+        {
+          "question": "On calcule le prix ___ poids.",
+          "answer": [
+            "à partir du"
+          ],
+          "explanation": "PT: Calcula-se o preço a partir do peso. à partir du = à partir de + le."
+        },
+        {
+          "question": "Ce papier est fabriqué ___ bois recyclé.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: Este papel é fabricado a partir de madeira reciclada."
+        },
+        {
+          "question": "___ informations reçues, la police a trouvé le suspect.",
+          "answer": [
+            "à partir des"
+          ],
+          "explanation": "PT: A partir das informações recebidas, a polícia encontrou o suspeito. à partir des = à partir de + les."
+        },
+        {
+          "question": "Les enfants sont admis ___ trois ans.",
+          "answer": [
+            "à partir de"
+          ],
+          "explanation": "PT: As crianças são admitidas a partir dos três anos."
+        },
+        {
+          "question": "___octobre, le marché ferme à midi.",
+          "answer": [
+            "à partir d'"
+          ],
+          "explanation": "PT: A partir de outubro, o mercado fecha ao meio-dia. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "La route du col est ouverte ___ printemps.",
+          "answer": [
+            "à partir du"
+          ],
+          "explanation": "PT: A estrada do desfiladeiro está aberta a partir da primavera. à partir du = à partir de + le."
+        }
+      ]
+    },
+    {
+      "title": "aquando de, durante (um acontecimento) · at the time of (an event)",
+      "description": "Hint: 2 words, starts with l. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Ils se sont rencontrés ___un congrès.",
+          "answer": [
+            "lors d'"
+          ],
+          "explanation": "PT: Conheceram-se num congresso. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Elle a pleuré ___ la remise des diplômes.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: Chorou na entrega dos diplomas."
+        },
+        {
+          "question": "___ son dernier voyage, il a perdu son passeport.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: Na última viagem, perdeu o passaporte."
+        },
+        {
+          "question": "Le président parlera ___ la conférence de presse.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: O presidente falará na conferência de imprensa."
+        },
+        {
+          "question": "___ mariage, ils ont dansé toute la nuit.",
+          "answer": [
+            "lors du"
+          ],
+          "explanation": "PT: No casamento, dançaram a noite toda. lors du = lors de + le."
+        },
+        {
+          "question": "Beaucoup de maisons ont été détruites ___ tremblement de terre.",
+          "answer": [
+            "lors du"
+          ],
+          "explanation": "PT: Muitas casas foram destruídas aquando do sismo. lors du = lors de + le."
+        },
+        {
+          "question": "___ élections, la participation était faible.",
+          "answer": [
+            "lors des"
+          ],
+          "explanation": "PT: Nas eleições, a participação foi fraca. lors des = lors de + les."
+        },
+        {
+          "question": "Je l'ai vu ___un concert à Lisbonne.",
+          "answer": [
+            "lors d'"
+          ],
+          "explanation": "PT: Vi-o num concerto em Lisboa. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Le sujet a été abordé ___ la réunion de lundi.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: O assunto foi abordado na reunião de segunda-feira."
+        },
+        {
+          "question": "___ match, deux joueurs ont été blessés.",
+          "answer": [
+            "lors du"
+          ],
+          "explanation": "PT: Durante o jogo, dois jogadores ficaram feridos. lors du = lors de + le."
+        },
+        {
+          "question": "Il a été blessé ___ la guerre.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: Foi ferido durante a guerra."
+        },
+        {
+          "question": "___ ma visite, le musée était presque vide.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: Aquando da minha visita, o museu estava quase vazio."
+        },
+        {
+          "question": "Les prix augmentent ___ fêtes.",
+          "answer": [
+            "lors des"
+          ],
+          "explanation": "PT: Os preços sobem durante as festas. lors des = lors de + les."
+        },
+        {
+          "question": "Nous en parlerons ___ notre prochain rendez-vous.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: Falamos disso no nosso próximo encontro."
+        },
+        {
+          "question": "___ son arrivée, il a été accueilli par le maire.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: À chegada, foi recebido pelo presidente da câmara."
+        },
+        {
+          "question": "Le tableau a été vendu ___une vente aux enchères.",
+          "answer": [
+            "lors d'"
+          ],
+          "explanation": "PT: O quadro foi vendido num leilão. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "___ procès, le témoin a menti.",
+          "answer": [
+            "lors du"
+          ],
+          "explanation": "PT: Durante o julgamento, a testemunha mentiu. lors du = lors de + le."
+        },
+        {
+          "question": "Les règles ont changé ___ la dernière saison.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: As regras mudaram na última época."
+        },
+        {
+          "question": "___ inondations, l'école a fermé.",
+          "answer": [
+            "lors des"
+          ],
+          "explanation": "PT: Durante as cheias, a escola fechou. lors des = lors de + les."
+        },
+        {
+          "question": "Ils se sont disputés ___ dîner.",
+          "answer": [
+            "lors du"
+          ],
+          "explanation": "PT: Discutiram durante o jantar. lors du = lors de + le."
+        },
+        {
+          "question": "Elle a gagné une médaille ___ Jeux olympiques.",
+          "answer": [
+            "lors des"
+          ],
+          "explanation": "PT: Ganhou uma medalha nos Jogos Olímpicos. lors des = lors de + les."
+        },
+        {
+          "question": "___ l'inauguration, le ministre a coupé le ruban.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: Na inauguração, o ministro cortou a fita."
+        },
+        {
+          "question": "La décision a été prise ___ dernier conseil.",
+          "answer": [
+            "lors du"
+          ],
+          "explanation": "PT: A decisão foi tomada no último conselho. lors du = lors de + le."
+        },
+        {
+          "question": "___ notre séjour, il a fait beau.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: Durante a nossa estadia, esteve bom tempo."
+        },
+        {
+          "question": "Les vols ont été annulés ___ la grève.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: Os voos foram cancelados aquando da greve."
+        },
+        {
+          "question": "___ la tempête de 2019, la route a été coupée.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: Na tempestade de 2019, a estrada ficou cortada."
+        },
+        {
+          "question": "Il est tombé malade ___ son passage en Inde.",
+          "answer": [
+            "lors de"
+          ],
+          "explanation": "PT: Adoeceu na passagem pela Índia."
+        },
+        {
+          "question": "Les élèves ont visité l'usine ___une sortie scolaire.",
+          "answer": [
+            "lors d'"
+          ],
+          "explanation": "PT: Os alunos visitaram a fábrica numa visita de estudo. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "___ dernières vacances, nous sommes allés en Grèce.",
+          "answer": [
+            "lors des"
+          ],
+          "explanation": "PT: Nas últimas férias, fomos à Grécia. lors des = lors de + les."
+        },
+        {
+          "question": "Le contrat a été signé ___ sommet.",
+          "answer": [
+            "lors du"
+          ],
+          "explanation": "PT: O contrato foi assinado na cimeira. lors du = lors de + le."
+        }
+      ]
+    },
+    {
+      "title": "no decorrer de, ao longo de · in the course of, during",
+      "description": "Hint: 3 words, starts with au. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "___ l'année, il a beaucoup progressé.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Ao longo do ano, progrediu muito."
+        },
+        {
+          "question": "Il a beaucoup plu ___ la nuit.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Choveu muito durante a noite."
+        },
+        {
+          "question": "___ voyage, nous avons visité dix villes.",
+          "answer": [
+            "au cours du"
+          ],
+          "explanation": "PT: Durante a viagem, visitámos dez cidades. au cours du = au cours de + le."
+        },
+        {
+          "question": "___ siècles, la ville a beaucoup changé.",
+          "answer": [
+            "au cours des"
+          ],
+          "explanation": "PT: Ao longo dos séculos, a cidade mudou muito. au cours des = au cours de + les."
+        },
+        {
+          "question": "Il a été interrompu ___ son discours.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Foi interrompido durante o discurso."
+        },
+        {
+          "question": "___ repas, personne n'a parlé.",
+          "answer": [
+            "au cours du"
+          ],
+          "explanation": "PT: Durante a refeição, ninguém falou. au cours du = au cours de + le."
+        },
+        {
+          "question": "Le prix a doublé ___ dernières années.",
+          "answer": [
+            "au cours des"
+          ],
+          "explanation": "PT: O preço duplicou nos últimos anos. au cours des = au cours de + les."
+        },
+        {
+          "question": "___une conversation, elle m'a parlé de son projet.",
+          "answer": [
+            "au cours d'"
+          ],
+          "explanation": "PT: Numa conversa, falou-me do projeto dela. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Les élèves feront trois sorties ___ trimestre.",
+          "answer": [
+            "au cours du"
+          ],
+          "explanation": "PT: Os alunos farão três visitas de estudo durante o período. au cours du = au cours de + le."
+        },
+        {
+          "question": "___ la réunion, le directeur a annoncé son départ.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Durante a reunião, o diretor anunciou a sua saída."
+        },
+        {
+          "question": "Il a changé plusieurs fois d'avis ___ mois.",
+          "answer": [
+            "au cours du"
+          ],
+          "explanation": "PT: Mudou várias vezes de opinião ao longo do mês. au cours du = au cours de + le."
+        },
+        {
+          "question": "___ ma carrière, j'ai rencontré des gens formidables.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Ao longo da minha carreira, conheci pessoas fantásticas."
+        },
+        {
+          "question": "Les températures vont baisser ___ jours qui viennent.",
+          "answer": [
+            "au cours des"
+          ],
+          "explanation": "PT: As temperaturas vão descer nos próximos dias. au cours des = au cours de + les."
+        },
+        {
+          "question": "___ l'opération, le patient a dormi.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Durante a operação, o doente dormiu."
+        },
+        {
+          "question": "Le château a été modifié ___ temps.",
+          "answer": [
+            "au cours du"
+          ],
+          "explanation": "PT: O castelo foi modificado ao longo do tempo. au cours du = au cours de + le."
+        },
+        {
+          "question": "J'ai beaucoup appris ___ ce stage.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Aprendi muito durante este estágio."
+        },
+        {
+          "question": "___ l'histoire, la région a connu plusieurs guerres.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Ao longo da história, a região conheceu várias guerras."
+        },
+        {
+          "question": "___ dernier siècle, la population a doublé.",
+          "answer": [
+            "au cours du"
+          ],
+          "explanation": "PT: Ao longo do último século, a população duplicou. au cours du = au cours de + le."
+        },
+        {
+          "question": "Il s'est blessé ___ l'entraînement.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Lesionou-se durante o treino."
+        },
+        {
+          "question": "___ négociations, chacun a fait des concessions.",
+          "answer": [
+            "au cours des"
+          ],
+          "explanation": "PT: Durante as negociações, cada um fez concessões. au cours des = au cours de + les."
+        },
+        {
+          "question": "La neige est tombée ___ la matinée.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: A neve caiu durante a manhã."
+        },
+        {
+          "question": "___ notre promenade, nous avons vu des cerfs.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Durante o nosso passeio, vimos veados."
+        },
+        {
+          "question": "Le livre a été traduit ___ années 1980.",
+          "answer": [
+            "au cours des"
+          ],
+          "explanation": "PT: O livro foi traduzido nos anos 1980. au cours des = au cours de + les."
+        },
+        {
+          "question": "___une visite officielle, le roi est tombé malade.",
+          "answer": [
+            "au cours d'"
+          ],
+          "explanation": "PT: Durante uma visita oficial, o rei adoeceu. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Les prix seront fixés ___ la semaine prochaine.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Os preços serão fixados ao longo da próxima semana."
+        },
+        {
+          "question": "___ match, l'arbitre a sifflé trois penalties.",
+          "answer": [
+            "au cours du"
+          ],
+          "explanation": "PT: Durante o jogo, o árbitro marcou três penáltis. au cours du = au cours de + le."
+        },
+        {
+          "question": "Il a perdu ses clés ___ déménagement.",
+          "answer": [
+            "au cours du"
+          ],
+          "explanation": "PT: Perdeu as chaves durante a mudança. au cours du = au cours de + le."
+        },
+        {
+          "question": "___ sa vie, il a écrit vingt romans.",
+          "answer": [
+            "au cours de"
+          ],
+          "explanation": "PT: Ao longo da vida, escreveu vinte romances."
+        },
+        {
+          "question": "La situation s'est améliorée ___ derniers mois.",
+          "answer": [
+            "au cours des"
+          ],
+          "explanation": "PT: A situação melhorou nos últimos meses. au cours des = au cours de + les."
+        },
+        {
+          "question": "___une seule soirée, il a tout dépensé.",
+          "answer": [
+            "au cours d'"
+          ],
+          "explanation": "PT: Num único serão, gastou tudo. De becomes d' before a vowel or a mute h."
+        }
+      ]
+    }
+  ]
+}

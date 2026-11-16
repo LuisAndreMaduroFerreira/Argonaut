@@ -1,0 +1,81 @@
+/* Argonaut: a quiet, editorial workspace. Dark first, serif titles, gold kept for what is
+   selected or important. Every text colour below meets WCAG AA (4.5:1) on the surfaces it
+   sits on, and control outlines meet 3:1. */
+
+:root {
+  --font-serif: "Newsreader Variable", "Newsreader", Georgia, serif;
+  --font-sans: "IBM Plex Sans", system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+
+  --fs-meta: 13px; /* the smallest text anywhere */
+  --fs-ui: 14px;
+  --fs-ui-large: 15px;
+  --fs-body: 17px;
+  --lh-body: 1.6;
+
+  --sidebar-width: 272px;
+  --panel-width: clamp(320px, 26vw, 380px);
+  --reading-width: 720px;
+  --gutter: clamp(20px, 5vw, 56px);
+  --radius: 8px;
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #1a1d20;
+  --bg-panel: #15181b;
+  --bg-raised: #23272b;
+  --bg-selected: #282d32;
+  --text: #edf1f4;
+  --heading: #f4f8fb;
+  --text-body: #d6e0e7;
+  --text-soft: #aebbc6;
+  --text-muted: #8e9ca8;
+  --gold: #c79b45;
+  --gold-text: #d6ad5c;
+  --gold-soft: rgba(199, 155, 69, 0.45);
+  --gold-wash: rgba(199, 155, 69, 0.12);
+  --blue: #8fbede;
+  --link: #a9d4ef;
+  --border: rgba(198, 220, 236, 0.1);
+  --border-strong: rgba(198, 220, 236, 0.18);
+  --border-input: #727d88;
+  --focus: #e3b863;
+  --flag: #e07b6a;
+  --scrim: rgba(6, 8, 10, 0.6);
+  --shadow-overlay: 0 18px 48px rgba(0, 0, 0, 0.45);
+  /* Find: body text keeps 8:1 on a match and 5.4:1 on the current one. */
+  --find-match: rgba(199, 155, 69, 0.24);
+  --find-current: rgba(227, 184, 99, 0.36);
+  --find-edge: #e3b863;
+}
+
+[data-theme="light"] {
+  color-scheme: light;
+  --bg: #fdfcf9;
+  --bg-panel: #f5f3ee;
+  --bg-raised: #eeebe4;
+  --bg-selected: #e9e4da;
+  --text: #101214;
+  --heading: #101214;
+  --text-body: #1f2327;
+  --text-soft: #4a5057;
+  --text-muted: #5b6167;
+  --gold: #94701f;
+  --gold-text: #7a5a14;
+  --gold-soft: rgba(148, 112, 31, 0.4);
+  --gold-wash: rgba(148, 112, 31, 0.1);
+  --blue: #5f96bf;
+  --link: #1f5f8b;
+  --border: rgba(16, 18, 20, 0.09);
+  --border-strong: rgba(16, 18, 20, 0.16);
+  --border-input: #767c82;
+  --focus: #7d5e16;
+  --flag: #c0392b;
+  --scrim: rgba(16, 18, 20, 0.35);
+  --shadow-overlay: 0 18px 48px rgba(16, 18, 20, 0.18);
+  /* Find: body text keeps 12:1 on a match and 11:1 on the current one. */
+  --find-match: rgba(148, 112, 31, 0.16);
+  --find-current: rgba(212, 160, 23, 0.4);
+  --find-edge: #7d5e16;
+}

@@ -1,0 +1,78 @@
+/* Shortcuts */
+
+.shortcut-section {
+  margin-bottom: 32px;
+}
+
+.shortcut-heading {
+  margin: 0 0 12px;
+  font: 500 var(--fs-meta) / 1.2 var(--font-sans);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gold-text);
+}
+
+.shortcut-list {
+  margin: 0;
+  border-top: 1px solid var(--border);
+}
+
+.shortcut-row {
+  display: grid;
+  grid-template-columns: minmax(0, 240px) minmax(0, 1fr);
+  align-items: baseline;
+  gap: 16px;
+  padding: 11px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.shortcut-row dt {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 5px;
+}
+
+.shortcut-row dd {
+  margin: 0;
+  font-size: var(--fs-ui-large);
+  line-height: 1.5;
+  color: var(--text-soft);
+}
+
+kbd {
+  display: inline-block;
+  min-width: 26px;
+  padding: 2px 8px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-input);
+  border-bottom-width: 2px;
+  border-radius: 5px;
+  font: 500 var(--fs-meta) / 1.4 var(--font-mono);
+  color: var(--text);
+  text-align: center;
+}
+
+.sidebar-search kbd {
+  min-width: 0;
+  padding: 0;
+  background: none;
+  border: none;
+}
+
+.shortcut-plus {
+  font: 400 var(--fs-meta) / 1 var(--font-mono);
+  color: var(--text-muted);
+}
+
+.shortcut-gesture {
+  font-size: var(--fs-ui-large);
+  line-height: 1.5;
+  color: var(--text);
+}
+
+.shortcut-syntax {
+  font: 400 var(--fs-meta) / 1.5 var(--font-mono);
+  color: var(--gold-text);
+  white-space: pre;
+}

@@ -1,0 +1,163 @@
+/* Pop-ups sit at the document's lower edge, clear of the side panel. */
+
+.toast-stack {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  z-index: 20;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  pointer-events: none;
+}
+
+.app-layout.panel-open .toast-stack {
+  right: calc(var(--panel-width) + 24px);
+}
+
+.toast-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.toast {
+  pointer-events: auto;
+  cursor: pointer;
+  padding: 12px 16px 13px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-strong);
+  border-left: 3px solid var(--blue);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-overlay);
+  animation: toast-in 0.25s ease-out;
+}
+
+.toast-completed,
+.toast-error {
+  border-left-color: var(--gold);
+}
+
+.toast-notice {
+  border-left-color: var(--flag);
+}
+
+.toast-notice .toast-kicker {
+  color: var(--flag);
+}
+
+.toast-notice .toast-meta {
+  white-space: pre-line;
+}
+
+.toast-kicker {
+  font: 500 var(--fs-meta) / 1.2 var(--font-sans);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--gold-text);
+}
+
+.toast-title {
+  margin-top: 6px;
+  font: 400 18px/1.3 var(--font-serif);
+  color: var(--heading);
+}
+
+.toast-meta {
+  margin-top: 6px;
+  font-size: var(--fs-meta);
+  line-height: 1.5;
+  color: var(--text-soft);
+}
+
+.toast .progress-track {
+  margin-top: 8px;
+}
+
+@keyframes toast-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}
+
+/* A save that didn't reach the database: the lowest pop-up, rising from below the window's
+   edge each time a save fails, and sinking back when it goes. */
+
+.save-alert {
+  pointer-events: auto;
+  position: relative;
+  padding: 12px 44px 14px 16px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border-strong);
+  border-left: 3px solid var(--flag);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-overlay);
+  animation: save-alert-rise 0.34s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.save-alert-saved {
+  border-left-color: var(--gold);
+}
+
+.save-alert-leaving {
+  animation: save-alert-sink 0.24s ease-in forwards;
+}
+
+.save-alert .toast-kicker {
+  color: var(--flag);
+}
+
+.save-alert-saved .toast-kicker {
+  color: var(--gold-text);
+}
+
+.save-alert .toast-meta {
+  margin-bottom: 0;
+}
+
+.save-alert-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.save-alert-retry {
+  min-height: 32px;
+  padding: 6px 14px;
+  font-size: var(--fs-meta);
+}
+
+.save-alert-retry[aria-disabled="true"] {
+  opacity: 0.5;
+  cursor: default;
+  background: transparent;
+}
+
+.save-alert-close {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  width: 32px;
+  height: 32px;
+}
+
+/* From fully below the window: the stack sits 24px above its edge. */
+@keyframes save-alert-rise {
+  from {
+    transform: translateY(calc(100% + 32px));
+  }
+}
+
+@keyframes save-alert-sink {
+  to {
+    transform: translateY(calc(100% + 32px));
+  }
+}
+
+@keyframes save-alert-fade {
+  from {
+    opacity: 0;
+  }
+}

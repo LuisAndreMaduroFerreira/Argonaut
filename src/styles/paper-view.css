@@ -1,0 +1,121 @@
+/* A paper in the document area: its details, then the PDF filling the rest of the height. */
+.paper-view {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.paper-header {
+  flex: none;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 4px 16px;
+  padding: 18px var(--gutter) 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.paper-heading {
+  min-width: 0;
+}
+
+.paper-title {
+  margin: 8px 0 6px;
+  color: var(--heading);
+  font: 400 28px/1.2 var(--font-serif);
+  overflow-wrap: anywhere;
+}
+
+.paper-meta {
+  margin: 0;
+  font-size: var(--fs-ui);
+  line-height: 1.5;
+  color: var(--text-soft);
+}
+
+.paper-doi {
+  color: var(--link);
+  text-underline-offset: 3px;
+}
+
+.paper-tools {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+a.tool-btn {
+  text-decoration: none;
+}
+
+.paper-details {
+  grid-column: 1 / -1;
+  display: grid;
+  gap: 12px;
+  max-width: 760px;
+  margin-top: 12px;
+  padding: 16px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.paper-details[hidden] {
+  display: none;
+}
+
+.paper-field {
+  display: grid;
+  gap: 4px;
+}
+
+.paper-field-row {
+  display: grid;
+  grid-template-columns: 140px minmax(0, 1fr);
+  gap: 12px;
+}
+
+.paper-form-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.paper-delete {
+  margin-left: auto;
+}
+
+.paper-error,
+.paper-hint {
+  grid-column: 1 / -1;
+  margin: 0;
+  font-size: var(--fs-meta);
+}
+
+.paper-hint {
+  color: var(--gold-text);
+}
+
+.paper-hint:empty {
+  display: none;
+}
+
+/* The browser's own PDF viewer: zoom, pages and search come with it. */
+.paper-frame {
+  flex: 1;
+  min-height: 0;
+  width: 100%;
+  border: none;
+  background: var(--bg-panel);
+}
+
+@container workspace (max-width: 620px) {
+  .paper-header {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .paper-field-row {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

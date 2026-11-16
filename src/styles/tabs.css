@@ -1,0 +1,194 @@
+/* Tab strip: Missions, Tests and Shortcuts pinned, then open notes; tools on the right. */
+
+.tab-strip {
+  flex: none;
+  display: flex;
+  align-items: stretch;
+  gap: 8px;
+  min-height: 56px;
+  padding: 0 12px 0 16px;
+  border-bottom: 1px solid var(--border);
+}
+
+.tab-leading {
+  display: flex;
+  align-items: center;
+}
+
+.tab-scroll {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: stretch;
+  gap: 2px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.tab-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.strip-tab {
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  max-width: 240px;
+  margin-bottom: -1px;
+  padding: 0 10px;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: var(--text-soft);
+  font: 400 var(--fs-ui) / 1.2 var(--font-sans);
+}
+
+.strip-tab-pinned {
+  padding: 0 12px;
+  font-weight: 500;
+}
+
+.strip-tab:hover {
+  color: var(--text);
+}
+
+.strip-tab-active {
+  border-bottom-color: var(--gold);
+  color: var(--heading);
+}
+
+.strip-tab-label {
+  min-width: 0;
+  padding: 8px 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  background: transparent;
+  border: none;
+  color: inherit;
+  font: inherit;
+}
+
+.strip-badge {
+  font: 400 var(--fs-meta) / 1 var(--font-mono);
+  color: var(--gold-text);
+}
+
+/* A work's final view: a book mark, and gone for good once closed. */
+/* A paper being read: a document mark beside its title. */
+.strip-tab-paper .strip-tab-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.strip-tab-paper .strip-tab-label span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.strip-tab-paper .icon {
+  flex: none;
+  color: var(--blue);
+}
+
+.strip-tab-view .strip-tab-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.strip-tab-view .strip-tab-label span {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.strip-tab-view .icon {
+  flex: none;
+  color: var(--gold-text);
+}
+
+.strip-divider {
+  flex: none;
+  align-self: center;
+  width: 1px;
+  height: 18px;
+  margin: 0 8px;
+  background: var(--border-strong);
+}
+
+.strip-close {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  background: transparent;
+  border: none;
+  border-radius: 6px;
+  color: var(--text-muted);
+  opacity: 0;
+}
+
+.strip-tab:hover .strip-close,
+.strip-tab-active .strip-close,
+.strip-close:focus-visible {
+  opacity: 1;
+}
+
+.strip-close:hover {
+  background: var(--bg-raised);
+  color: var(--text);
+}
+
+.strip-dirty {
+  flex: none;
+  width: 7px;
+  height: 7px;
+  margin: 0 8px;
+  border-radius: 50%;
+  background: var(--gold);
+}
+
+/* An unsaved tab shows its dot, and trades it for the close button on hover. */
+.strip-tab-dirty .strip-close {
+  display: none;
+}
+
+.strip-tab-dirty:hover .strip-dirty {
+  display: none;
+}
+
+.strip-tab-dirty:hover .strip-close,
+.strip-tab-dirty:focus-within .strip-close {
+  display: grid;
+}
+
+.strip-new {
+  flex: none;
+  align-self: center;
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  margin-left: 4px;
+  padding: 0;
+  background: transparent;
+  border: none;
+  border-radius: var(--radius);
+  color: var(--text-soft);
+}
+
+.strip-new:hover {
+  background: var(--bg-raised);
+  color: var(--text);
+}
+
+.tab-actions {
+  flex: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}

@@ -1,0 +1,188 @@
+/* Find and replace: docked under the tabs, lined up with the reading column. */
+.find-panel {
+  flex: none;
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-panel);
+}
+
+.find-inner {
+  display: grid;
+  gap: 8px;
+  max-width: calc(var(--reading-width) + 2 * var(--gutter));
+  margin: 0 auto;
+  padding: 10px var(--gutter) 10px;
+}
+
+.find-head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 36px;
+}
+
+.find-status {
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+  font-size: var(--fs-meta);
+  line-height: 1.4;
+  color: var(--text-soft);
+  text-align: right;
+}
+
+.find-status-error {
+  color: var(--flag);
+}
+
+.find-close {
+  width: 32px;
+  height: 32px;
+  margin-right: -6px;
+}
+
+.find-row {
+  display: grid;
+  grid-template-columns: 92px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 8px 10px;
+}
+
+.find-label {
+  font: 500 var(--fs-meta) / 1.2 var(--font-sans);
+  color: var(--text-soft);
+}
+
+.find-input {
+  width: 100%;
+  min-height: 36px;
+  padding: 6px 10px;
+  background: var(--bg);
+  border: 1px solid var(--border-input);
+  border-radius: 6px;
+  outline: none;
+  color: var(--text);
+  font: 400 var(--fs-ui) / 1.4 var(--font-mono);
+}
+
+.find-input:focus {
+  border-color: var(--focus);
+  box-shadow: 0 0 0 1px var(--focus);
+}
+
+.find-input[aria-invalid="true"] {
+  border-color: var(--flag);
+}
+
+.find-input:disabled {
+  opacity: 0.6;
+}
+
+.find-buttons {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.find-buttons .pill-btn {
+  white-space: nowrap;
+}
+
+.find-step {
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--border-strong);
+}
+
+.find-step:hover {
+  background: var(--bg-raised);
+  color: var(--text);
+}
+
+.find-hint {
+  margin: 0;
+  padding-left: 102px;
+  font-size: var(--fs-meta);
+  color: var(--text-muted);
+}
+
+.find-options {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 18px;
+  padding-left: 102px;
+  font-size: var(--fs-meta);
+  color: var(--text-soft);
+}
+
+.find-check,
+.find-mode {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 28px;
+  cursor: pointer;
+}
+
+.find-check input {
+  width: 15px;
+  height: 15px;
+  margin: 0;
+  accent-color: var(--gold);
+}
+
+.find-select {
+  min-height: 28px;
+  padding: 2px 6px;
+  background: var(--bg);
+  border: 1px solid var(--border-input);
+  border-radius: 6px;
+  color: var(--text);
+  font-size: var(--fs-meta);
+}
+
+@container workspace (max-width: 720px) {
+  .find-row {
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .find-label {
+    grid-column: 1 / -1;
+  }
+
+  .find-options,
+  .find-hint {
+    padding-left: 0;
+  }
+}
+
+@container workspace (max-width: 480px) {
+  .find-row {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .find-buttons {
+    flex-wrap: wrap;
+  }
+}
+
+.markdown-preview {
+  color: var(--text-body);
+  font: 400 var(--fs-body) / var(--lh-body) var(--font-serif);
+  text-align: justify;
+}
+
+.markdown-preview > :first-child {
+  margin-top: 0;
+}
+
+.markdown-preview p {
+  margin: 0 0 1em;
+}
+
+.markdown-preview h1,
+.markdown-preview h2 {
+  color: var(--heading);
+  font-family: var(--font-serif);
+  font-weight: 400;
+}

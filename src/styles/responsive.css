@@ -1,0 +1,105 @@
+/* Smaller screens: the panels have already moved into drawers; now tighten the chrome
+   around the document, never the reading text itself. */
+
+/* In a narrow workspace, tool buttons keep their icon and move the label to screen readers. */
+@container workspace (max-width: 620px) {
+  .tool-btn-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  .tool-btn {
+    padding: 6px 9px;
+  }
+}
+
+@media (max-width: 959px) {
+  .tab-strip {
+    padding: 0 8px;
+    gap: 4px;
+  }
+
+  .toast-stack {
+    left: 16px;
+    right: 16px;
+    width: auto;
+  }
+}
+
+@media (max-width: 640px) {
+  .doc {
+    padding-top: 32px;
+  }
+
+  .title-input {
+    font-size: 32px;
+  }
+
+  .missions-level {
+    font-size: 30px;
+  }
+
+  .test-prompt {
+    font-size: 24px;
+  }
+
+  .detail-row,
+  .shortcut-row {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 6px;
+  }
+
+  .details-toggle {
+    margin-left: 0;
+  }
+
+  .task-form-row,
+  .subtask-form-row {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .view-switch-option {
+    padding: 4px 9px;
+  }
+
+  .missions-new {
+    margin-left: 0;
+  }
+
+  .dialog-header {
+    padding: 16px 10px 4px 20px;
+  }
+
+  .dialog-body {
+    padding: 8px 20px 20px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .toast,
+  .drawer-left,
+  .drawer-right {
+    animation: none;
+  }
+
+  .progress-fill,
+  .details-toggle .icon {
+    transition: none;
+  }
+
+  .mic-btn-listening {
+    animation: none;
+  }
+
+  .save-alert {
+    animation: save-alert-fade 0.15s ease-out;
+  }
+
+  .save-alert-leaving {
+    animation: save-alert-fade 0.15s ease-in reverse forwards;
+  }
+}

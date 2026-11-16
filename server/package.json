@@ -1,0 +1,26 @@
+{
+  "name": "argonaut-server",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc -p tsconfig.build.json && node -e \"require('fs').cpSync('migrations', 'dist/server/migrations', { recursive: true })\"",
+    "start": "node dist/server/src/index.js",
+    "typecheck": "tsc",
+    "test": "tsx --test \"test/*.test.mjs\""
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^24.19.2",
+    "@types/pg": "^8.11.10",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

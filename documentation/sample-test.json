@@ -1,0 +1,50 @@
+{
+  "title": "French prepositions of place",
+  "description": "Where things are: sur, sous, dans, devant, derrière, entre, chez, à.",
+  "questions": [
+    {
+      "question": "Le chat est ___ la table. (on)",
+      "options": ["sur", "sous", "dans", "devant"],
+      "answer": "sur",
+      "explanation": "Sur means on, on top of."
+    },
+    {
+      "question": "Les clés sont ___ la boîte. (in)",
+      "options": ["dans", "sur", "entre", "chez"],
+      "answer": "dans",
+      "explanation": "Dans means in, inside."
+    },
+    {
+      "question": "Le chien dort ___ le lit. (under)",
+      "options": ["sous", "sur", "derrière", "avec"],
+      "answer": "sous",
+      "explanation": "Sous means under."
+    },
+    {
+      "question": "Which of these say where something is? Choose all that apply.",
+      "options": ["devant", "avec", "derrière", "pour"],
+      "answer": ["devant", "derrière"],
+      "explanation": "Devant is in front of and derrière is behind. Avec (with) and pour (for) don't give a place."
+    },
+    {
+      "question": "Je vais ___ le médecin. (to the doctor's)",
+      "options": ["chez", "à", "dans", "sur"],
+      "answer": "chez",
+      "explanation": "Chez means at or to someone's home or practice."
+    },
+    {
+      "question": "Fill in the gap: Il habite ___ Paris. (in)",
+      "answer": "à",
+      "explanation": "Use à before a city: à Paris, à Lisbonne."
+    },
+    {
+      "question": "Translate: The book is between the lamp and the phone.",
+      "answer": ["Le livre est entre la lampe et le téléphone"],
+      "explanation": "Entre means between."
+    },
+    {
+      "question": "What does « derrière » mean in English?",
+      "answer": "behind"
+    }
+  ]
+}

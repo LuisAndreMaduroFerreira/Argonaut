@@ -1,0 +1,41 @@
+{
+  "name": "knowledge-vault",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "typecheck": "tsc -b && tsc -p tsconfig.test.json",
+    "test": "tsx --test src/lib/*.test.ts shared/*.test.ts",
+    "test:api": "npm --prefix server test",
+    "test:spell": "npm --prefix spell test",
+    "check": "npm run lint && npm run typecheck && npm test && npm --prefix server run typecheck && npm --prefix spell run typecheck",
+    "check:all": "npm run check && npm run test:api && npm run test:spell"
+  },
+  "dependencies": {
+    "@fontsource-variable/newsreader": "^5.3.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "@fontsource/ibm-plex-sans": "^5.3.0",
+    "dompurify": "^3.2.4",
+    "marked": "^15.0.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "@types/node": "^24.19.2",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.39.5",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "globals": "^17.14.0",
+    "tsx": "^4.23.13",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.72.2",
+    "vite": "^6.2.0"
+  }
+}

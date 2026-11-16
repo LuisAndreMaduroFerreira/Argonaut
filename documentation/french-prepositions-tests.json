@@ -1,0 +1,1336 @@
+{
+  "name": "French prepositions",
+  "tests": [
+    {
+      "title": "French prepositions 1",
+      "description": "93 French prepositions, each tested once or twice in context: the 41 simple ones in current use (à, de, en, dans… voici, voilà, nonobstant) and 52 common compound ones (à côté de, grâce à, au lieu de, au sein de…). Words in brackets give the meaning to find; \"3 words\" tells you how long the answer is. Explanations give the Portuguese (PT).",
+      "shuffle_questions": true,
+      "questions": [
+        {
+          "question": "Je suis ___ Paris pour le travail. (in — a city)",
+          "answer": ["à"],
+          "explanation": "Use à before a city: à Paris, à Lisbonne (PT: em Paris)."
+        },
+        {
+          "question": "Ce soir, nous allons ___ cinéma. (to the)",
+          "options": ["au", "à le", "en", "dans le"],
+          "answer": "au",
+          "explanation": "À + le always contracts to au: au cinéma, au marché. À + les becomes aux: aux États-Unis (PT: ao cinema)."
+        },
+        {
+          "question": "C'est le livre ___ Marie. (of — Marie's)",
+          "answer": ["de"],
+          "explanation": "De shows who something belongs to: le livre de Marie (PT: o livro da Maria)."
+        },
+        {
+          "question": "Il revient ___ États-Unis demain. (from the)",
+          "options": ["des", "de les", "aux", "en"],
+          "answer": "des",
+          "explanation": "De + les contracts to des, and de + le to du: il revient des États-Unis, du Canada (PT: dos Estados Unidos)."
+        },
+        {
+          "question": "Je suis ___ train de lire, rappelle-moi plus tard. (in the middle of)",
+          "answer": ["en"],
+          "explanation": "Être en train de + infinitive: to be in the middle of doing something (PT: estar a ler)."
+        },
+        {
+          "question": "Nous partons ___ vacances la semaine prochaine. (on)",
+          "options": ["en", "aux", "dans les", "à"],
+          "answer": "en",
+          "explanation": "Partir en vacances, être en vacances: en goes with many states and situations (PT: de férias)."
+        },
+        {
+          "question": "J'ai rangé tes lettres ___ la boîte bleue. (inside)",
+          "answer": ["dans"],
+          "explanation": "Dans = in, inside something with limits: dans la boîte, dans la cuisine (PT: dentro da caixa)."
+        },
+        {
+          "question": "Le train part ___ dix minutes. (ten minutes from now)",
+          "options": ["dans", "en", "depuis", "pendant"],
+          "answer": "dans",
+          "explanation": "Dans + a length of time = that long from now: dans dix minutes (PT: daqui a dez minutos). En dix minutes would mean taking ten minutes to do something."
+        },
+        {
+          "question": "Il y a beaucoup de voitures ___ le pont. (on)",
+          "answer": ["sur"],
+          "explanation": "Sur = on, on top of: sur le pont, sur la table (PT: sobre a ponte)."
+        },
+        {
+          "question": "Un élève ___ trois parle anglais. (one in three)",
+          "options": ["sur", "de", "par", "entre"],
+          "answer": "sur",
+          "explanation": "Sur expresses proportions and marks: un sur trois, 15 sur 20 (PT: um em cada três)."
+        },
+        {
+          "question": "Les bateaux passent ___ le pont. (under)",
+          "answer": ["sous"],
+          "explanation": "Sous = under, beneath: sous le pont, sous la table (PT: sob a ponte, debaixo da ponte)."
+        },
+        {
+          "question": "Ne reste pas ___ la pluie sans parapluie ! (out in — literally under)",
+          "options": ["sous", "dans", "sur", "par"],
+          "answer": "sous",
+          "explanation": "Sous la pluie: out in the rain, literally under it (PT: à chuva)."
+        },
+        {
+          "question": "Je pars en week-end ___ mes amis. (with)",
+          "answer": ["avec"],
+          "explanation": "Avec = with, together with someone (PT: com os meus amigos)."
+        },
+        {
+          "question": "Il a ouvert le colis ___ un couteau. (with — using)",
+          "options": ["avec", "par", "de", "en"],
+          "answer": "avec",
+          "explanation": "Avec also introduces the tool you use: avec un couteau, avec une clé (PT: com uma faca)."
+        },
+        {
+          "question": "Il est parti ___ argent. (without)",
+          "answer": ["sans"],
+          "explanation": "Sans = without. Before a noun it usually takes no article: sans argent, sans sucre (PT: sem dinheiro)."
+        },
+        {
+          "question": "Elle est partie ___ dire au revoir. (without)",
+          "options": ["sans", "avant", "pour", "après"],
+          "answer": "sans",
+          "explanation": "Sans + infinitive = without doing: sans dire au revoir (PT: sem dizer adeus)."
+        },
+        {
+          "question": "Ce cadeau est ___ elle. (for)",
+          "answer": ["pour"],
+          "explanation": "Pour = for, meant for someone: pour elle (PT: para ela)."
+        },
+        {
+          "question": "Il travaille dur ___ réussir son examen. (in order to)",
+          "options": ["pour", "par", "de", "à"],
+          "answer": "pour",
+          "explanation": "Pour + infinitive gives a purpose: pour réussir, in order to succeed (PT: para passar)."
+        },
+        {
+          "question": "Le voleur est entré ___ la fenêtre. (through)",
+          "answer": ["par"],
+          "explanation": "Par = through, by way of an opening: par la fenêtre, par la porte (PT: pela janela)."
+        },
+        {
+          "question": "Ce roman a été écrit ___ Victor Hugo. (by)",
+          "options": ["par", "de", "pour", "avec"],
+          "answer": "par",
+          "explanation": "In the passive, par introduces who does the action: écrit par Victor Hugo (PT: escrito por)."
+        },
+        {
+          "question": "Viens dîner ___ moi samedi. (at my place)",
+          "answer": ["chez"],
+          "explanation": "Chez = at or to someone's home: chez moi, chez Paul (PT: em minha casa, no sítio de)."
+        },
+        {
+          "question": "Elle a rendez-vous ___ le dentiste. (at the dentist's)",
+          "options": ["chez", "au", "dans", "à"],
+          "answer": "chez",
+          "explanation": "With a person or a trade, use chez: chez le dentiste, chez le coiffeur. With a place, use à: à l'hôpital (PT: no dentista)."
+        },
+        {
+          "question": "Notre maison est ___ deux grands arbres. (between)",
+          "answer": ["entre"],
+          "explanation": "Entre = between two things or limits: entre deux arbres (PT: entre)."
+        },
+        {
+          "question": "La boutique est fermée ___ midi et deux heures. (between)",
+          "options": ["entre", "de", "parmi", "pendant"],
+          "answer": "entre",
+          "explanation": "Entre also sets limits in time: entre midi et deux heures (PT: entre o meio-dia e as duas)."
+        },
+        {
+          "question": "Elle se sentait perdue ___ tous ces inconnus. (among)",
+          "answer": ["parmi"],
+          "explanation": "Parmi = among, within a group of three or more (PT: entre, no meio de)."
+        },
+        {
+          "question": "Choisissez un livre ___ ceux-ci. (from among)",
+          "options": ["parmi", "entre", "chez", "dans"],
+          "answer": "parmi",
+          "explanation": "Parmi picks one out of a group: un livre parmi ceux-ci. Entre is for two (PT: entre estes)."
+        },
+        {
+          "question": "On se retrouve ___ midi ? (around — roughly)",
+          "answer": ["vers"],
+          "explanation": "Vers + a time = around, roughly: vers midi (PT: por volta do meio-dia)."
+        },
+        {
+          "question": "Le bateau se dirige ___ le port. (towards)",
+          "options": ["vers", "envers", "à travers", "pour"],
+          "answer": "vers",
+          "explanation": "Vers = towards, a direction (PT: em direção ao porto). Envers is for feelings: gentil envers elle."
+        },
+        {
+          "question": "Il est toujours très gentil ___ elle. (towards — an attitude)",
+          "options": ["envers", "vers", "contre", "parmi"],
+          "answer": "envers",
+          "explanation": "Envers = towards, for feelings and attitudes: gentil envers elle (PT: para com ela). In speech, avec works too: gentil avec elle."
+        },
+        {
+          "question": "In « reconnaissant envers ses parents », what does « envers » mean?",
+          "options": ["towards (an attitude)", "towards (a direction)", "against", "among"],
+          "answer": "towards (an attitude)",
+          "explanation": "Reconnaissant envers ses parents: grateful to his parents (PT: grato para com os pais). Envers is never a direction; that's vers."
+        },
+        {
+          "question": "Je suis ___ cette idée. (against)",
+          "answer": ["contre"],
+          "explanation": "Contre = against, opposed to (PT: contra)."
+        },
+        {
+          "question": "Pose l'échelle ___ le mur. (against — leaning on)",
+          "options": ["contre", "envers", "vers", "parmi"],
+          "answer": "contre",
+          "explanation": "Contre also means touching, leaning on: contre le mur (PT: encostada à parede)."
+        },
+        {
+          "question": "J'habite à Lyon ___ trois ans. (for — and still do)",
+          "answer": ["depuis"],
+          "explanation": "Depuis + present tense: something that began in the past and still goes on (PT: há três anos, desde). It doesn't mean depois; that's après."
+        },
+        {
+          "question": "Il pleut ___ ce matin. (since)",
+          "options": ["depuis", "dès", "pendant", "pour"],
+          "answer": "depuis",
+          "explanation": "Depuis + a starting point = since: depuis ce matin, depuis 2020 (PT: desde esta manhã)."
+        },
+        {
+          "question": "Mon père lit le journal ___ le repas. (during)",
+          "options": ["pendant", "depuis", "dès", "pour"],
+          "answer": "pendant",
+          "explanation": "Pendant = during: pendant le repas (PT: durante a refeição)."
+        },
+        {
+          "question": "Il a vécu à Rome ___ dix ans, puis il est rentré. (for — a finished period)",
+          "options": ["pendant", "depuis", "dans", "dès"],
+          "answer": "pendant",
+          "explanation": "Pendant + duration for a finished period: il a vécu à Rome pendant dix ans (PT: durante dez anos). Depuis would mean he still lives there."
+        },
+        {
+          "question": "Il a neigé ___ toute la nuit. (throughout)",
+          "options": ["durant", "depuis", "dès", "vers"],
+          "answer": "durant",
+          "explanation": "Durant = pendant, a little more formal, stressing the whole length: durant toute la nuit, with toute because nuit is feminine (PT: durante toda a noite)."
+        },
+        {
+          "question": "Il m'a téléphoné ___ son arrivée. (right from — as soon as)",
+          "answer": ["dès"],
+          "explanation": "Dès = from that very moment: dès son arrivée, dès demain (PT: logo à chegada, desde). Before a verb it becomes dès que: dès qu'il arrive."
+        },
+        {
+          "question": "Le marché ouvre ___ 7 heures du matin. (as early as)",
+          "options": ["dès", "depuis", "pendant", "envers"],
+          "answer": "dès",
+          "explanation": "Dès + a time stresses how early: dès 7 heures (PT: logo às 7 horas)."
+        },
+        {
+          "question": "Je me lève toujours ___ sept heures. (before)",
+          "answer": ["avant"],
+          "explanation": "Avant = before, in time (PT: antes das sete)."
+        },
+        {
+          "question": "Lave-toi les mains ___ manger. (before)",
+          "options": ["avant de", "avant", "devant", "après"],
+          "answer": "avant de",
+          "explanation": "Before an infinitive, avant needs de: avant de manger (PT: antes de comer)."
+        },
+        {
+          "question": "On ira se promener ___ le déjeuner. (after)",
+          "answer": ["après"],
+          "explanation": "Après = after (PT: depois do almoço, após)."
+        },
+        {
+          "question": "___ avoir mangé, il a fait la sieste. (after)",
+          "options": ["Après", "Avant", "Dès", "Depuis"],
+          "answer": "Après",
+          "explanation": "Après + past infinitive: après avoir mangé, après être sorti (PT: depois de ter comido)."
+        },
+        {
+          "question": "Je t'attends ___ la gare. (in front of)",
+          "answer": ["devant"],
+          "explanation": "Devant = in front of, for a place (PT: em frente à estação). Avant is for time."
+        },
+        {
+          "question": "Il y a une longue file ___ le théâtre. (in front of)",
+          "options": ["devant", "avant", "derrière", "en face de"],
+          "answer": "devant",
+          "explanation": "Devant le théâtre: in front of the theatre (PT: à frente do teatro). En face would need du: en face du théâtre, opposite it."
+        },
+        {
+          "question": "Le jardin est ___ la maison. (behind)",
+          "answer": ["derrière"],
+          "explanation": "Derrière = behind (PT: atrás da casa)."
+        },
+        {
+          "question": "Il s'est caché ___ la porte. (behind)",
+          "options": ["derrière", "devant", "après", "sous"],
+          "answer": "derrière",
+          "explanation": "Derrière la porte: behind the door. Après is for time and order, not hiding places (PT: atrás da porta)."
+        },
+        {
+          "question": "Le magasin est ouvert ___ 20 heures. (until)",
+          "answer": ["jusqu'à"],
+          "explanation": "Jusqu'à = until, up to: jusqu'à 20 heures (PT: até às 20 horas). It's jusque + à, with an apostrophe."
+        },
+        {
+          "question": "Nous avons marché ___ la plage. (as far as)",
+          "options": ["jusqu'à", "vers", "dès", "depuis"],
+          "answer": "jusqu'à",
+          "explanation": "Jusqu'à also says how far: jusqu'à la plage (PT: até à praia). Vers would only say which way."
+        },
+        {
+          "question": "Nous sommes sortis ___ la pluie. (despite — 1 word)",
+          "answer": ["malgré"],
+          "explanation": "Malgré = despite, in spite of (PT: apesar da chuva)."
+        },
+        {
+          "question": "___ moi, il a raison. (in my view — according to)",
+          "options": ["Selon", "Envers", "Parmi", "Contre"],
+          "answer": "Selon",
+          "explanation": "Selon = according to: selon moi, selon la météo (PT: segundo, de acordo com)."
+        },
+        {
+          "question": "Le musée est ouvert tous les jours ___ le lundi. (except)",
+          "options": ["sauf", "outre", "malgré", "selon"],
+          "answer": "sauf",
+          "explanation": "Sauf = except, the everyday word (PT: exceto, salvo à segunda-feira)."
+        },
+        {
+          "question": "___ son salaire, il reçoit une prime chaque année. (in addition to)",
+          "options": ["Outre", "Hors", "Sauf", "Malgré"],
+          "answer": "Outre",
+          "explanation": "Outre = besides, in addition to (PT: além do salário). En outre means moreover."
+        },
+        {
+          "question": "Tous les élèves ont réussi, ___ deux. (except — formal)",
+          "options": ["hormis", "outre", "envers", "parmi"],
+          "answer": "hormis",
+          "explanation": "Hormis = except, a formal word for sauf (PT: exceto, à exceção de)."
+        },
+        {
+          "question": "Il se lève à six heures tous les jours, ___ le dimanche. (except)",
+          "options": ["excepté", "exceptés", "exceptée", "excepter"],
+          "answer": "excepté",
+          "explanation": "Before the noun, excepté is a preposition and never agrees: excepté le dimanche, excepté les enfants (PT: exceto)."
+        },
+        {
+          "question": "Ce distributeur est ___ service. (out of — 1 word)",
+          "answer": ["hors"],
+          "explanation": "Hors = out of, outside: hors service, hors saison (PT: fora de serviço). Before an article it takes de: hors de la ville."
+        },
+        {
+          "question": "___ ce que je vous propose : on part à huit heures. (here is — what follows)",
+          "options": ["Voici", "Voilà", "Selon", "Vers"],
+          "answer": "Voici",
+          "explanation": "Strictly, voici announces what follows and voilà sums up what came before (PT: eis o que proponho). In speech, voilà is used for both."
+        },
+        {
+          "question": "On part à huit heures : ___ ce que je vous propose. (that's — summing up)",
+          "options": ["voilà", "voici", "selon", "vers"],
+          "answer": "voilà",
+          "explanation": "Voilà sums up or points back to what was just said (PT: é isto que proponho)."
+        },
+        {
+          "question": "Nous sommes allés à Rome ___ Milan. (by way of)",
+          "options": ["via", "vers", "envers", "dès"],
+          "answer": "via",
+          "explanation": "Via = by way of, through a place or a channel: via Milan, via Internet (PT: via Milão, passando por Milão)."
+        },
+        {
+          "question": "Avez-vous des questions ___ le contrat ? (concerning)",
+          "options": ["concernant", "envers", "moyennant", "outre"],
+          "answer": "concernant",
+          "explanation": "Concernant = concerning, about (PT: relativamente ao contrato)."
+        },
+        {
+          "question": "Vous pouvez changer votre billet ___ un supplément de 20 euros. (for a fee of — in return for)",
+          "options": ["moyennant", "concernant", "malgré", "envers"],
+          "answer": "moyennant",
+          "explanation": "Moyennant = in return for, at the cost of: moyennant un supplément (PT: mediante um suplemento)."
+        },
+        {
+          "question": "Les horaires changent ___ la saison. (depending on)",
+          "options": ["suivant", "concernant", "moyennant", "envers"],
+          "answer": "suivant",
+          "explanation": "Suivant = depending on, according to: suivant la saison, suivant les cas (PT: conforme a estação)."
+        },
+        {
+          "question": "___ minuit, il n'y a plus de métro. (after)",
+          "options": ["Passé", "Avant", "Vers", "Envers"],
+          "answer": "Passé",
+          "explanation": "Passé + a time or a date = after it: passé minuit (PT: depois da meia-noite). Before the noun it stays invariable."
+        },
+        {
+          "question": "___ la situation, il vaut mieux attendre. (given — considering)",
+          "options": ["Vu", "Vers", "Sauf", "Dès"],
+          "answer": "Vu",
+          "explanation": "Vu = given, considering: vu la situation, vu les circonstances (PT: dada a situação). Before the noun it stays invariable."
+        },
+        {
+          "question": "___ les difficultés, le projet a été terminé à temps. (notwithstanding — formal)",
+          "options": ["Nonobstant", "Moyennant", "Concernant", "Suivant"],
+          "answer": "Nonobstant",
+          "explanation": "Nonobstant = notwithstanding, despite; it belongs to formal and legal French (PT: não obstante). Everyday French says malgré."
+        },
+        {
+          "question": "La boulangerie est ___ la poste. (next to)",
+          "answer": ["à côté de"],
+          "explanation": "À côté de = next to, right beside (PT: ao lado dos correios). Près de only says near."
+        },
+        {
+          "question": "Nous habitons ___ l'université. (near)",
+          "options": ["près de", "loin de", "au bout de", "au fond de"],
+          "answer": "près de",
+          "explanation": "Près de = near, close to (PT: perto da universidade)."
+        },
+        {
+          "question": "L'aéroport est ___ la ville. (far from)",
+          "answer": ["loin de"],
+          "explanation": "Loin de = far from (PT: longe da cidade)."
+        },
+        {
+          "question": "La pharmacie est ___ la mairie, de l'autre côté de la rue. (opposite)",
+          "options": ["en face de", "à côté de", "derrière", "au-dessus de"],
+          "answer": "en face de",
+          "explanation": "En face de = opposite, facing (PT: em frente à câmara municipal). With le it becomes en face du: en face du parc."
+        },
+        {
+          "question": "L'avion vole ___ la ville. (above)",
+          "options": ["au-dessus de", "au-dessous de", "à travers", "autour de"],
+          "answer": "au-dessus de",
+          "explanation": "Au-dessus de = above, over, without touching (PT: por cima da cidade)."
+        },
+        {
+          "question": "Il fait dix degrés ___ zéro. (below)",
+          "options": ["au-dessous de", "au-dessus de", "autour de", "au bout de"],
+          "answer": "au-dessous de",
+          "explanation": "Au-dessous de = below, under (PT: abaixo de zero). En dessous de means the same."
+        },
+        {
+          "question": "Les enfants dansent ___ l'arbre. (around)",
+          "answer": ["autour de"],
+          "explanation": "Autour de = around (PT: à volta da árvore)."
+        },
+        {
+          "question": "La lumière passe ___ les rideaux. (through)",
+          "options": ["à travers", "par-dessus", "autour de", "le long de"],
+          "answer": "à travers",
+          "explanation": "À travers = through, from one side to the other (PT: através das cortinas). Au travers de means the same."
+        },
+        {
+          "question": "Nous nous sommes promenés ___ la rivière. (along)",
+          "answer": ["le long de"],
+          "explanation": "Le long de = along (PT: ao longo do rio)."
+        },
+        {
+          "question": "Il y a une fontaine ___ la place. (in the middle of)",
+          "options": ["au milieu de", "au bout de", "au bord de", "au fond de"],
+          "answer": "au milieu de",
+          "explanation": "Au milieu de = in the middle of (PT: no meio da praça)."
+        },
+        {
+          "question": "Nous passons nos vacances ___ la mer. (at the seaside — on the edge of)",
+          "answer": ["au bord de"],
+          "explanation": "Au bord de = at the edge of, beside: au bord de la mer, au bord de la route (PT: à beira-mar)."
+        },
+        {
+          "question": "La station de métro est ___ la rue. (at the end of)",
+          "options": ["au bout de", "au bord de", "autour de", "au-dessus de"],
+          "answer": "au bout de",
+          "explanation": "Au bout de = at the end of: au bout de la rue (PT: no fim da rua). With time it means after: au bout d'une heure."
+        },
+        {
+          "question": "Les toilettes sont ___ la salle, à droite. (at the back of)",
+          "answer": ["au fond de"],
+          "explanation": "Au fond de = at the back or the bottom of: au fond de la salle, au fond du sac (PT: ao fundo da sala)."
+        },
+        {
+          "question": "Il fait plus chaud ___ la maison. (inside)",
+          "options": ["à l'intérieur de", "à l'extérieur de", "en dehors de", "au-delà de"],
+          "answer": "à l'intérieur de",
+          "explanation": "À l'intérieur de = inside (PT: dentro de casa, no interior de). Dans often says the same more simply."
+        },
+        {
+          "question": "Les fumeurs attendent ___ la discothèque. (outside)",
+          "options": ["à l'extérieur de", "à l'intérieur de", "au fond de", "au milieu de"],
+          "answer": "à l'extérieur de",
+          "explanation": "À l'extérieur de = outside (PT: fora da discoteca)."
+        },
+        {
+          "question": "___ ses heures de travail, il fait beaucoup de sport. (outside of — in time)",
+          "options": ["En dehors de", "À l'extérieur de", "Au-delà de", "Au fond de"],
+          "answer": "En dehors de",
+          "explanation": "En dehors de = outside of, apart from, also for times and ideas: en dehors des heures de travail (PT: fora do horário de trabalho). À l'extérieur de is only for places."
+        },
+        {
+          "question": "Le résultat est allé ___ nos espérances. (beyond)",
+          "options": ["au-delà de", "au-dessus de", "en dehors de", "à travers"],
+          "answer": "au-delà de",
+          "explanation": "Au-delà de = beyond, further than: au-delà de nos espérances, au-delà des montagnes (PT: para além das expectativas)."
+        },
+        {
+          "question": "Il habite ___ la colline. (at the top of — 3 words)",
+          "answer": ["en haut de", "au sommet de"],
+          "explanation": "En haut de = at the top of (PT: no cimo da colina). Au sommet de says the same of a peak."
+        },
+        {
+          "question": "Signez ___ la page, s'il vous plaît. (at the bottom of)",
+          "options": ["en bas de", "en haut de", "au fond de", "au-dessus de"],
+          "answer": "en bas de",
+          "explanation": "En bas de = at the bottom of: en bas de la page, en bas de l'escalier (PT: no fundo da página)."
+        },
+        {
+          "question": "La salle de bains est ___ la cuisine. (to the left of)",
+          "answer": ["à gauche de"],
+          "explanation": "À gauche de = to the left of (PT: à esquerda da cozinha)."
+        },
+        {
+          "question": "Le bouton rouge est ___ l'écran. (to the right of)",
+          "options": ["à droite de", "à gauche de", "au-dessus de", "en face de"],
+          "answer": "à droite de",
+          "explanation": "À droite de = to the right of (PT: à direita do ecrã)."
+        },
+        {
+          "question": "Quelle est ta position ___ ce projet ? (regarding)",
+          "options": ["vis-à-vis de", "au-delà de", "à travers", "le long de"],
+          "answer": "vis-à-vis de",
+          "explanation": "Vis-à-vis de = regarding, towards, in relation to: vis-à-vis de ce projet (PT: em relação a este projeto). Literally it means face to face."
+        },
+        {
+          "question": "Le chat a sauté ___ la barrière. (over)",
+          "options": ["par-dessus", "par-dessous", "à travers", "autour de"],
+          "answer": "par-dessus",
+          "explanation": "Par-dessus = over, passing above something: sauter par-dessus la barrière (PT: por cima da vedação)."
+        },
+        {
+          "question": "Le magasin sera fermé ___ lundi. (starting from — 3 words)",
+          "answer": ["à partir de"],
+          "explanation": "À partir de = from, starting at: à partir de lundi, à partir de 18 ans (PT: a partir de segunda-feira)."
+        },
+        {
+          "question": "Ils se sont rencontrés ___ la fête de Paul. (at — on the occasion of)",
+          "options": ["lors de", "depuis", "dès", "au bout de"],
+          "answer": "lors de",
+          "explanation": "Lors de = at the time of an event, during it: lors de la fête (PT: aquando da festa)."
+        },
+        {
+          "question": "___ l'année, les prix ont beaucoup augmenté. (in the course of — 3 words)",
+          "answer": ["au cours de"],
+          "explanation": "Au cours de = in the course of, during: au cours de l'année (PT: no decorrer do ano)."
+        },
+        {
+          "question": "Le match a été annulé ___ l'orage. (because of — something bad)",
+          "options": ["à cause de", "grâce à", "faute de", "en dépit de"],
+          "answer": "à cause de",
+          "explanation": "À cause de = because of, usually with a bad result (PT: por causa da trovoada). With a good one, say grâce à."
+        },
+        {
+          "question": "J'ai réussi ___ ton aide. (thanks to)",
+          "answer": ["grâce à"],
+          "explanation": "Grâce à = thanks to, with a good result (PT: graças à tua ajuda). Grâce à + le becomes grâce au."
+        },
+        {
+          "question": "Le vol est retardé ___ la météo. (due to — formal)",
+          "options": ["en raison de", "grâce à", "au lieu de", "à force de"],
+          "answer": "en raison de",
+          "explanation": "En raison de = due to, in formal and official French: en raison de la météo (PT: devido ao tempo)."
+        },
+        {
+          "question": "___ temps, je n'ai pas pu finir. (for lack of)",
+          "answer": ["faute de", "par manque de"],
+          "explanation": "Faute de = for lack of, usually with no article: faute de temps, faute d'argent (PT: por falta de tempo)."
+        },
+        {
+          "question": "___ travailler, il a fini par réussir. (by dint of — through constant effort)",
+          "options": ["À force de", "Faute de", "Au lieu de", "Afin de"],
+          "answer": "À force de",
+          "explanation": "À force de = by dint of, through doing something again and again: à force de travailler (PT: à força de trabalhar)."
+        },
+        {
+          "question": "Il économise ___ partir en voyage. (in order to — 2 words)",
+          "answer": ["afin de"],
+          "explanation": "Afin de = in order to, a little more formal than pour: afin de partir (PT: a fim de viajar)."
+        },
+        {
+          "question": "Il ne dit rien ___ se tromper. (for fear of)",
+          "options": ["de peur de", "afin de", "à force de", "au lieu de"],
+          "answer": "de peur de",
+          "explanation": "De peur de = for fear of: de peur de se tromper (PT: com medo de se enganar). De crainte de means the same."
+        },
+        {
+          "question": "Tu peux sortir, ___ rentrer avant minuit. (provided that — 3 words)",
+          "answer": ["à condition de"],
+          "explanation": "À condition de + infinitive = provided that, on condition of (PT: com a condição de voltares antes da meia-noite)."
+        },
+        {
+          "question": "___ problème, appelez-moi. (in case of)",
+          "options": ["En cas de", "Au cas de", "Faute de", "Lors de"],
+          "answer": "En cas de",
+          "explanation": "En cas de = in case of, in the event of: en cas de problème (PT: em caso de problema). Au cas où + conditional is the conjunction: au cas où il pleuvrait."
+        },
+        {
+          "question": "Il regarde la télé ___ travailler. (instead of)",
+          "answer": ["au lieu de"],
+          "explanation": "Au lieu de = instead of, before a noun or an infinitive: au lieu de travailler (PT: em vez de trabalhar)."
+        },
+        {
+          "question": "C'est sa sœur qui est venue ___ son frère. (in place of)",
+          "options": ["à la place de", "à côté de", "au bout de", "au bord de"],
+          "answer": "à la place de",
+          "explanation": "À la place de = in place of, instead of, especially for people: à la place de son frère (PT: no lugar do irmão)."
+        },
+        {
+          "question": "Il a réparé la roue ___ ce petit outil. (with the help of — using)",
+          "options": ["à l'aide de", "au lieu de", "faute de", "quant à"],
+          "answer": "à l'aide de",
+          "explanation": "À l'aide de = with the help of, using a tool: à l'aide de ce petit outil (PT: com a ajuda desta pequena ferramenta)."
+        },
+        {
+          "question": "Ils ont traversé la rivière ___ ce pont de cordes. (by means of — 3 words)",
+          "answer": ["au moyen de"],
+          "explanation": "Au moyen de = by means of (PT: por meio desta ponte de cordas)."
+        },
+        {
+          "question": "Ce téléphone est cher ___ ce qu'il offre. (compared with)",
+          "options": ["par rapport à", "grâce à", "quant à", "jusqu'à"],
+          "answer": "par rapport à",
+          "explanation": "Par rapport à = compared with, in relation to (PT: em relação ao que oferece)."
+        },
+        {
+          "question": "___ moi, je préfère rester ici. (as for)",
+          "answer": ["quant à"],
+          "explanation": "Quant à = as for: quant à moi (PT: quanto a mim). It contracts: quant au, quant aux."
+        },
+        {
+          "question": "J'ai une question ___ ton voyage. (about)",
+          "options": ["à propos de", "au lieu de", "à cause de", "au bout de"],
+          "answer": "à propos de",
+          "explanation": "À propos de = about, on the subject of (PT: a propósito da tua viagem)."
+        },
+        {
+          "question": "Je vous écris ___ votre annonce. (regarding)",
+          "options": ["au sujet de", "au bout de", "au lieu de", "au cours de"],
+          "answer": "au sujet de",
+          "explanation": "Au sujet de = about, regarding, a little more formal than à propos de (PT: acerca do seu anúncio)."
+        },
+        {
+          "question": "Il a toujours été très correct ___ ses employés. (towards — formal)",
+          "options": ["à l'égard de", "à l'aide de", "à l'exception de", "à l'intérieur de"],
+          "answer": "à l'égard de",
+          "explanation": "À l'égard de = towards, with regard to (PT: para com os funcionários). Envers and vis-à-vis de are close."
+        },
+        {
+          "question": "___ la fatigue, il a continué à marcher. (in spite of — 3 words)",
+          "options": ["En dépit de", "À cause de", "Faute de", "Grâce à"],
+          "answer": "En dépit de",
+          "explanation": "En dépit de = in spite of, a formal twin of malgré (PT: apesar do cansaço)."
+        },
+        {
+          "question": "Toute la famille était là, ___ mon oncle. (with the exception of)",
+          "answer": ["à l'exception de"],
+          "explanation": "À l'exception de = with the exception of (PT: à exceção do meu tio). Sauf, excepté and hormis say it in one word."
+        },
+        {
+          "question": "Tout le monde est invité, ___ les enfants. (including)",
+          "options": ["y compris", "sauf", "hormis", "excepté"],
+          "answer": "y compris",
+          "explanation": "Y compris = including (PT: incluindo as crianças). Sauf, hormis and excepté mean the opposite: except."
+        },
+        {
+          "question": "___ le journal, la grève va continuer. (according to — 2 words)",
+          "answer": ["d'après"],
+          "explanation": "D'après = according to: d'après le journal (PT: segundo o jornal). Selon says the same in one word."
+        },
+        {
+          "question": "___ son frère, elle adore les maths. (unlike)",
+          "options": ["Contrairement à", "Grâce à", "Quant à", "Jusqu'à"],
+          "answer": "Contrairement à",
+          "explanation": "Contrairement à = unlike, contrary to (PT: ao contrário do irmão)."
+        },
+        {
+          "question": "On choisit son itinéraire ___ la circulation. (depending on — 3 words)",
+          "answer": ["en fonction de"],
+          "explanation": "En fonction de = depending on, according to (PT: em função do trânsito)."
+        },
+        {
+          "question": "Bonjour, je vous appelle ___ Madame Dupont. (on behalf of)",
+          "options": ["de la part de", "au sujet de", "à cause de", "grâce à"],
+          "answer": "de la part de",
+          "explanation": "De la part de = on behalf of, from someone (PT: da parte da senhora Dupont)."
+        },
+        {
+          "question": "Il y a une bonne ambiance ___ l'équipe. (within — 3 words)",
+          "answer": ["au sein de"],
+          "explanation": "Au sein de = within a group or an organisation (PT: no seio da equipa)."
+        }
+      ]
+    },
+    {
+      "title": "French prepositions 2",
+      "description": "The same 93 prepositions as test 1, each tested once or twice, in all-new sentences and questions. Words in brackets give the meaning to find; \"3 words\" tells you how long the answer is. Explanations give the Portuguese (PT).",
+      "shuffle_questions": true,
+      "questions": [
+        {
+          "question": "Mon oncle travaille ___ Portugal. (in)",
+          "options": ["au", "en", "à", "dans"],
+          "answer": "au",
+          "explanation": "Masculine countries take au: au Portugal, au Brésil, au Canada. Feminine ones take en: en France (PT: em Portugal)."
+        },
+        {
+          "question": "C'est une machine ___ laver. (for — what it's used for)",
+          "answer": ["à"],
+          "explanation": "À links a thing to its purpose: une machine à laver, une tasse à café (PT: uma máquina de lavar)."
+        },
+        {
+          "question": "Je viens ___ Japon. (from)",
+          "options": ["du", "de", "au", "en"],
+          "answer": "du",
+          "explanation": "De + le contracts to du: du Japon, du Brésil. Feminine countries take de: de France (PT: do Japão)."
+        },
+        {
+          "question": "Une tasse ___ thé, s'il vous plaît. (of — full of tea)",
+          "answer": ["de"],
+          "explanation": "Une tasse de thé is a cup full of tea; une tasse à thé is a teacup, empty or full (PT: uma chávena de chá)."
+        },
+        {
+          "question": "Elle vit ___ France depuis 2019. (in)",
+          "options": ["en", "au", "à", "dans"],
+          "answer": "en",
+          "explanation": "Feminine countries take en: en France, en Italie, en Espagne (PT: em França)."
+        },
+        {
+          "question": "Il va au travail ___ voiture. (by)",
+          "answer": ["en"],
+          "explanation": "Vehicles you sit inside take en: en voiture, en train, en avion. Ones you ride on take à: à vélo, à moto (PT: de carro)."
+        },
+        {
+          "question": "Il y a beaucoup de monde ___ la rue. (in)",
+          "answer": ["dans"],
+          "explanation": "Dans la rue: in the street (PT: na rua)."
+        },
+        {
+          "question": "Je reviens ___ un quart d'heure. (a quarter of an hour from now)",
+          "options": ["dans", "en", "pendant", "depuis"],
+          "answer": "dans",
+          "explanation": "Dans + time = that long from now: dans un quart d'heure (PT: daqui a um quarto de hora)."
+        },
+        {
+          "question": "Pose ton verre ___ la table. (on)",
+          "answer": ["sur"],
+          "explanation": "Sur = on, on top of (PT: em cima da mesa)."
+        },
+        {
+          "question": "C'est un livre ___ la Révolution française. (about)",
+          "options": ["sur", "de", "pour", "chez"],
+          "answer": "sur",
+          "explanation": "Sur can mean about, on a subject: un livre sur Napoléon (PT: sobre a Revolução Francesa)."
+        },
+        {
+          "question": "Le stylo a roulé ___ le canapé. (under)",
+          "options": ["sous", "sur", "dans", "derrière"],
+          "answer": "sous",
+          "explanation": "Sous = under (PT: debaixo do sofá)."
+        },
+        {
+          "question": "Il a publié ce roman ___ un faux nom. (under)",
+          "answer": ["sous"],
+          "explanation": "Sous un faux nom, sous un pseudonyme: under a false name (PT: sob um nome falso)."
+        },
+        {
+          "question": "Je voudrais un café ___ du lait. (with)",
+          "options": ["avec", "sans", "de", "en"],
+          "answer": "avec",
+          "explanation": "Avec = with. Sans would drop the article: un café sans lait (PT: com leite)."
+        },
+        {
+          "question": "Tu viens ___ nous ce soir ? (with)",
+          "answer": ["avec"],
+          "explanation": "Avec = with, together with (PT: connosco)."
+        },
+        {
+          "question": "Il mange ses frites ___ sel. (without)",
+          "options": ["sans", "avec", "sans le", "de"],
+          "answer": "sans",
+          "explanation": "Sans + noun with no article: sans sel, sans lait (PT: sem sal)."
+        },
+        {
+          "question": "On ne peut pas vivre ___ eau. (without)",
+          "answer": ["sans"],
+          "explanation": "Sans = without (PT: sem água)."
+        },
+        {
+          "question": "Le train ___ Bordeaux part à 9 heures. (bound for)",
+          "options": ["pour", "à", "vers", "de"],
+          "answer": "pour",
+          "explanation": "Pour + a destination: le train pour Bordeaux, partir pour Paris (PT: para Bordéus). Le train de Bordeaux comes from there."
+        },
+        {
+          "question": "Je pars en Italie ___ deux semaines. (for — the planned length)",
+          "options": ["pour", "depuis", "dès", "par"],
+          "answer": "pour",
+          "explanation": "Pour + duration gives the planned length: je pars pour deux semaines (PT: por duas semanas). Pendant describes the time as it happens."
+        },
+        {
+          "question": "Je vais à la piscine deux fois ___ semaine. (a — per)",
+          "options": ["par", "pour", "sur", "en"],
+          "answer": "par",
+          "explanation": "Par = per, a: deux fois par semaine, 100 km par heure (PT: duas vezes por semana)."
+        },
+        {
+          "question": "Il a appris la nouvelle ___ hasard. (by chance)",
+          "answer": ["par"],
+          "explanation": "Par hasard: by chance (PT: por acaso)."
+        },
+        {
+          "question": "J'ai acheté ce pain ___ le boulanger du coin. (at the baker's)",
+          "options": ["chez", "au", "dans", "à"],
+          "answer": "chez",
+          "explanation": "With a person or a trade, use chez: chez le boulanger. With the shop, à: à la boulangerie (PT: no padeiro)."
+        },
+        {
+          "question": "On se retrouve ___ Paul après le travail ? (at Paul's)",
+          "answer": ["chez"],
+          "explanation": "Chez + a person = at their home: chez Paul (PT: em casa do Paulo)."
+        },
+        {
+          "question": "Choisis ___ le rouge et le bleu. (between)",
+          "options": ["entre", "parmi", "dans", "sur"],
+          "answer": "entre",
+          "explanation": "Entre is for two, or for clear limits; parmi is among three or more (PT: entre o vermelho e o azul)."
+        },
+        {
+          "question": "Ce secret reste ___ nous. (between)",
+          "answer": ["entre"],
+          "explanation": "Entre nous: between us (PT: entre nós)."
+        },
+        {
+          "question": "___ les invités, il y avait un chanteur célèbre. (among)",
+          "options": ["Parmi", "Entre", "Chez", "Avec"],
+          "answer": "Parmi",
+          "explanation": "Parmi = among, in a group of three or more (PT: entre os convidados)."
+        },
+        {
+          "question": "Nous sommes heureux de vous compter ___ nos clients. (among)",
+          "answer": ["parmi"],
+          "explanation": "Compter parmi: to count among (PT: contar entre os nossos clientes)."
+        },
+        {
+          "question": "Il est arrivé ___ la fin du film. (towards)",
+          "options": ["vers", "envers", "pour", "dans"],
+          "answer": "vers",
+          "explanation": "Vers la fin: towards the end, with la because fin is feminine (PT: perto do fim)."
+        },
+        {
+          "question": "Le chien court ___ la porte. (towards)",
+          "answer": ["vers"],
+          "explanation": "Vers = towards, the direction of a movement (PT: em direção à porta)."
+        },
+        {
+          "question": "Il s'est montré ingrat ___ ses amis. (towards)",
+          "options": ["envers", "vers", "à travers", "parmi"],
+          "answer": "envers",
+          "explanation": "Envers = towards, for attitudes: ingrat envers ses amis (PT: ingrato para com os amigos)."
+        },
+        {
+          "question": "Which sentence uses « envers » correctly?",
+          "options": [
+            "Il est généreux envers les pauvres.",
+            "Il marche envers la gare.",
+            "Il est arrivé envers midi.",
+            "Elle est assise envers la fenêtre."
+          ],
+          "answer": "Il est généreux envers les pauvres.",
+          "explanation": "Envers is for attitudes towards people; for movement or a time, use vers: vers la gare, vers midi."
+        },
+        {
+          "question": "J'ai échangé mon vélo ___ une guitare. (for — in exchange)",
+          "options": ["contre", "pour", "avec", "par"],
+          "answer": "contre",
+          "explanation": "Échanger une chose contre une autre: to swap one thing for another (PT: trocar a bicicleta por uma guitarra). Échanger pour is an anglicism."
+        },
+        {
+          "question": "Il a voté ___ le projet. (against)",
+          "answer": ["contre"],
+          "explanation": "Contre = against (PT: contra o projeto)."
+        },
+        {
+          "question": "Je t'attends ___ une heure ! (for — and still waiting)",
+          "options": ["depuis", "pendant", "pour", "dans"],
+          "answer": "depuis",
+          "explanation": "Depuis + present: it began in the past and still goes on (PT: há uma hora)."
+        },
+        {
+          "question": "On voit la mer ___ ma fenêtre. (from)",
+          "options": ["depuis", "dès", "pendant", "envers"],
+          "answer": "depuis",
+          "explanation": "Depuis can also mean from a viewpoint: depuis ma fenêtre (PT: da minha janela). De ma fenêtre works too."
+        },
+        {
+          "question": "Ne parle pas ___ le film, s'il te plaît. (during)",
+          "options": ["pendant", "depuis", "dès", "avant"],
+          "answer": "pendant",
+          "explanation": "Pendant = during (PT: durante o filme)."
+        },
+        {
+          "question": "Il a plu ___ trois jours, puis le soleil est revenu. (for — a finished period)",
+          "options": ["pendant", "depuis", "dans", "dès"],
+          "answer": "pendant",
+          "explanation": "Pendant + duration for a finished period: il a plu pendant trois jours (PT: durante três dias)."
+        },
+        {
+          "question": "La route reste fermée ___ tout l'hiver. (throughout)",
+          "options": ["durant", "dès", "vers", "envers"],
+          "answer": "durant",
+          "explanation": "Durant = throughout, during, a little more formal than pendant: durant tout l'hiver (PT: durante todo o inverno)."
+        },
+        {
+          "question": "Je commence mon nouveau travail ___ demain. (starting tomorrow)",
+          "options": ["dès", "depuis", "pendant", "envers"],
+          "answer": "dès",
+          "explanation": "Dès demain: from tomorrow on (PT: logo a partir de amanhã)."
+        },
+        {
+          "question": "Il savait lire ___ l'âge de quatre ans. (as early as)",
+          "options": ["dès", "depuis", "pendant", "vers"],
+          "answer": "dès",
+          "explanation": "Dès stresses how early it happened: dès l'âge de quatre ans (PT: logo aos quatro anos)."
+        },
+        {
+          "question": "Il est arrivé ___ moi à la réunion. (before — earlier than)",
+          "options": ["avant", "devant", "dès", "depuis"],
+          "answer": "avant",
+          "explanation": "Avant is about time; devant is about place, in front of (PT: antes de mim)."
+        },
+        {
+          "question": "Tournez à droite juste ___ le pont. (before)",
+          "answer": ["avant"],
+          "explanation": "Avant also orders places along a way: juste avant le pont, before you reach it (PT: logo antes da ponte)."
+        },
+        {
+          "question": "La pharmacie est juste ___ la boulangerie. (after — further along)",
+          "options": ["après", "derrière", "avant", "dès"],
+          "answer": "après",
+          "explanation": "Après also orders places along a way: juste après la boulangerie, a little further on (PT: logo a seguir à padaria)."
+        },
+        {
+          "question": "Il est rentré ___ minuit. (after)",
+          "answer": ["après", "passé"],
+          "explanation": "Après minuit: after midnight (PT: depois da meia-noite). Passé minuit says the same."
+        },
+        {
+          "question": "Ne te mets pas ___ moi, je ne vois rien ! (in front of)",
+          "options": ["devant", "avant", "contre", "vers"],
+          "answer": "devant",
+          "explanation": "Devant = in front of (PT: à minha frente)."
+        },
+        {
+          "question": "Elle a garé sa voiture ___ la maison. (in front of)",
+          "answer": ["devant"],
+          "explanation": "Devant la maison: in front of the house (PT: em frente à casa)."
+        },
+        {
+          "question": "Qui est assis ___ toi en classe ? (behind)",
+          "options": ["derrière", "après", "avant", "envers"],
+          "answer": "derrière",
+          "explanation": "Derrière = behind, for a place; après is for time and order (PT: atrás de ti)."
+        },
+        {
+          "question": "Le soleil disparaît ___ les montagnes. (behind)",
+          "answer": ["derrière"],
+          "explanation": "Derrière les montagnes: behind the mountains (PT: atrás das montanhas)."
+        },
+        {
+          "question": "Il est resté ___ la fin du concert. (until)",
+          "options": ["jusqu'à", "depuis", "dès", "pendant"],
+          "answer": "jusqu'à",
+          "explanation": "Jusqu'à = until (PT: até ao fim do concerto)."
+        },
+        {
+          "question": "Je te raccompagne ___ chez toi. (all the way to)",
+          "options": ["jusque", "jusqu'à", "vers", "dès"],
+          "answer": "jusque",
+          "explanation": "Before another preposition or an adverb, jusque goes without à: jusque chez toi, jusqu'ici, jusqu'en 2030 (PT: até casa). Jusqu'à chez toi is heard, but careful French avoids it."
+        },
+        {
+          "question": "What does « malgré » mean?",
+          "options": ["despite", "thanks to", "because of", "instead of"],
+          "answer": "despite",
+          "explanation": "Malgré = despite, in spite of: malgré la pluie (PT: apesar de)."
+        },
+        {
+          "question": "___ les experts, l'économie va s'améliorer. (according to — 1 word)",
+          "answer": ["selon"],
+          "explanation": "Selon = according to (PT: segundo os especialistas)."
+        },
+        {
+          "question": "Tout le monde est venu, ___ Pierre. (except — 1 word)",
+          "answer": ["sauf", "excepté", "hormis"],
+          "explanation": "Sauf is the everyday word for except; excepté and hormis mean the same, more formally (PT: exceto o Pedro)."
+        },
+        {
+          "question": "Which of these mean except? Choose all that apply.",
+          "options": ["sauf", "excepté", "hormis", "outre", "malgré"],
+          "answer": ["sauf", "excepté", "hormis"],
+          "explanation": "Sauf, excepté and hormis all mean except. Outre means besides, in addition to, and malgré means despite."
+        },
+        {
+          "question": "In « outre l'anglais, elle parle le russe », what does « outre » mean?",
+          "options": ["besides", "except", "instead of", "against"],
+          "answer": "besides",
+          "explanation": "Outre = besides, in addition to: she speaks Russian as well as English (PT: além do inglês)."
+        },
+        {
+          "question": "Gardez ce médicament ___ de portée des enfants. (out of)",
+          "options": ["hors", "en", "sauf", "outre"],
+          "answer": "hors",
+          "explanation": "Hors de = out of, outside: hors de portée des enfants (PT: fora do alcance das crianças)."
+        },
+        {
+          "question": "___ trois ans qu'il habite ici. (it's been — that long since)",
+          "answer": ["voilà", "voici"],
+          "explanation": "Voilà + a duration + que = it's been that long: voilà trois ans qu'il habite ici (PT: já faz três anos que). Voici works too, more rarely."
+        },
+        {
+          "question": "Écoutez bien, ___ les règles du jeu. (here are — what follows)",
+          "options": ["voici", "voilà", "selon", "parmi"],
+          "answer": "voici",
+          "explanation": "Voici introduces what comes next; voilà points back to what was said (PT: eis as regras do jogo)."
+        },
+        {
+          "question": "J'ai acheté ce livre ___ un site d'occasion. (through — by way of)",
+          "options": ["via", "envers", "dès", "outre"],
+          "answer": "via",
+          "explanation": "Via = through, by way of a place or a channel: via un site, via Lyon (PT: através de um site)."
+        },
+        {
+          "question": "J'ai reçu une lettre ___ mon dossier. (concerning)",
+          "options": ["concernant", "moyennant", "suivant", "pendant"],
+          "answer": "concernant",
+          "explanation": "Concernant = concerning, about (PT: relativa ao meu processo)."
+        },
+        {
+          "question": "In « moyennant finance », what does « moyennant » mean?",
+          "options": ["in return for", "in spite of", "without", "about"],
+          "answer": "in return for",
+          "explanation": "Moyennant finance: for payment, in return for money (PT: mediante pagamento)."
+        },
+        {
+          "question": "___ les cas, le traitement dure une ou deux semaines. (depending on)",
+          "options": ["Suivant", "Pendant", "Envers", "Outre"],
+          "answer": "Suivant",
+          "explanation": "Suivant = depending on, according to: suivant les cas (PT: conforme os casos)."
+        },
+        {
+          "question": "In « passé dix heures, la porte est fermée », what does « passé » mean?",
+          "options": ["after", "before", "until", "around"],
+          "answer": "after",
+          "explanation": "Passé + a time = after it: passé dix heures (PT: depois das dez)."
+        },
+        {
+          "question": "In « vu son âge, il ne peut pas conduire », what does « vu » mean?",
+          "options": ["given", "despite", "before", "apart from"],
+          "answer": "given",
+          "explanation": "Vu = given, considering: vu son âge (PT: dada a sua idade)."
+        },
+        {
+          "question": "« Nonobstant » belongs to formal and legal French. What does it mean?",
+          "options": ["notwithstanding", "in return for", "concerning", "according to"],
+          "answer": "notwithstanding",
+          "explanation": "Nonobstant = notwithstanding, despite (PT: não obstante)."
+        },
+        {
+          "question": "Viens t'asseoir ___ moi. (next to)",
+          "options": ["à côté de", "au milieu de", "autour de", "au bout de"],
+          "answer": "à côté de",
+          "explanation": "À côté de = next to (PT: ao pé de mim, ao lado de)."
+        },
+        {
+          "question": "Il y a un cinéma ___ chez moi. (near — 2 words)",
+          "answer": ["près de"],
+          "explanation": "Près de chez moi: near my place (PT: perto de minha casa)."
+        },
+        {
+          "question": "Il travaille ___ sa famille depuis des années. (far from)",
+          "options": ["loin de", "près de", "autour de", "à travers"],
+          "answer": "loin de",
+          "explanation": "Loin de = far from (PT: longe da família)."
+        },
+        {
+          "question": "Au restaurant, il s'est assis ___ moi. (opposite — facing)",
+          "answer": ["en face de", "face à"],
+          "explanation": "En face de = opposite, facing (PT: em frente a mim). Face à says the same."
+        },
+        {
+          "question": "Le tableau est accroché ___ la cheminée. (above)",
+          "options": ["au-dessus de", "au-dessous de", "à travers", "par-dessus"],
+          "answer": "au-dessus de",
+          "explanation": "Au-dessus de = above, higher than (PT: por cima da lareira)."
+        },
+        {
+          "question": "La température est descendue ___ la normale. (below)",
+          "options": ["au-dessous de", "au-dessus de", "au bout de", "au bord de"],
+          "answer": "au-dessous de",
+          "explanation": "Au-dessous de = below (PT: abaixo do normal). En dessous de means the same."
+        },
+        {
+          "question": "Ils sont assis ___ la table. (around)",
+          "options": ["autour de", "au milieu de", "à travers", "au fond de"],
+          "answer": "autour de",
+          "explanation": "Autour de = around (PT: à volta da mesa)."
+        },
+        {
+          "question": "Nous avons marché ___ la forêt. (through)",
+          "answer": ["à travers", "au travers de"],
+          "explanation": "À travers = through, across (PT: através da floresta)."
+        },
+        {
+          "question": "Des arbres sont plantés ___ la route. (along)",
+          "options": ["le long de", "à travers", "autour de", "au bout de"],
+          "answer": "le long de",
+          "explanation": "Le long de = along (PT: ao longo da estrada)."
+        },
+        {
+          "question": "Le téléphone a sonné ___ la nuit. (in the middle of)",
+          "answer": ["au milieu de"],
+          "explanation": "Au milieu de = in the middle of, also in time (PT: a meio da noite)."
+        },
+        {
+          "question": "Ne reste pas ___ la falaise, c'est dangereux ! (on the edge of)",
+          "options": ["au bord de", "au bout de", "au fond de", "au milieu de"],
+          "answer": "au bord de",
+          "explanation": "Au bord de = on the edge of (PT: à beira da falésia)."
+        },
+        {
+          "question": "Il a abandonné ___ dix minutes. (after — at the end of)",
+          "answer": ["au bout de"],
+          "explanation": "With time, au bout de = after, at the end of: au bout de dix minutes (PT: ao fim de dez minutos)."
+        },
+        {
+          "question": "J'ai trouvé mes clés ___ mon sac. (at the bottom of)",
+          "options": ["au fond de", "au bout de", "au bord de", "au milieu de"],
+          "answer": "au fond de",
+          "explanation": "Au fond de = at the bottom or the back of (PT: no fundo da mala)."
+        },
+        {
+          "question": "Il est interdit de fumer ___ la gare. (inside)",
+          "options": ["à l'intérieur de", "au-dessus de", "au bord de", "le long de"],
+          "answer": "à l'intérieur de",
+          "explanation": "À l'intérieur de = inside (PT: no interior da estação)."
+        },
+        {
+          "question": "Ils habitent ___ la ville, à la campagne. (outside)",
+          "options": ["à l'extérieur de", "à l'intérieur de", "au milieu de", "au-dessus de"],
+          "answer": "à l'extérieur de",
+          "explanation": "À l'extérieur de = outside (PT: fora da cidade)."
+        },
+        {
+          "question": "Je ne vois personne ___ toi qui puisse m'aider. (apart from — 3 words)",
+          "answer": ["en dehors de"],
+          "explanation": "En dehors de = apart from, besides (PT: além de ti)."
+        },
+        {
+          "question": "Il y a un petit village ___ la colline. (beyond)",
+          "options": ["au-delà de", "au-dessous de", "au bord de", "en haut de"],
+          "answer": "au-delà de",
+          "explanation": "Au-delà de = beyond, on the far side of (PT: para além da colina)."
+        },
+        {
+          "question": "Écris ton nom ___ la page. (at the top of)",
+          "options": ["en haut de", "en bas de", "au fond de", "au bout de"],
+          "answer": "en haut de",
+          "explanation": "En haut de = at the top of (PT: no cimo da página)."
+        },
+        {
+          "question": "On se retrouve ___ l'immeuble. (at the bottom of — 3 words)",
+          "answer": ["en bas de", "au pied de"],
+          "explanation": "En bas de = at the bottom of, downstairs from: en bas de l'immeuble (PT: à porta do prédio, em baixo). Au pied de says the same."
+        },
+        {
+          "question": "Mets la fourchette ___ l'assiette. (to the left of)",
+          "options": ["à gauche de", "à droite de", "au milieu de", "au bout de"],
+          "answer": "à gauche de",
+          "explanation": "À gauche de = to the left of; in France the fork goes to the left of the plate (PT: à esquerda do prato)."
+        },
+        {
+          "question": "La banque est ___ l'hôtel. (to the right of)",
+          "answer": ["à droite de"],
+          "explanation": "À droite de = to the right of (PT: à direita do hotel)."
+        },
+        {
+          "question": "In « honnête vis-à-vis de ses clients », what does « vis-à-vis de » mean?",
+          "options": ["towards", "opposite (in space)", "beyond", "among"],
+          "answer": "towards",
+          "explanation": "Vis-à-vis de = towards, in relation to: honest with his customers (PT: honesto para com os clientes). It can also mean opposite, but that use is old-fashioned."
+        },
+        {
+          "question": "Elle a enfilé un pull ___ sa chemise. (over)",
+          "options": ["par-dessus", "au-dessous de", "à travers", "le long de"],
+          "answer": "par-dessus",
+          "explanation": "Par-dessus = over, on top of: un pull par-dessus la chemise (PT: por cima da camisa)."
+        },
+        {
+          "question": "___ 18 ans, on peut voter. (from — starting at)",
+          "options": ["À partir de", "Depuis", "Pendant", "Au bout de"],
+          "answer": "À partir de",
+          "explanation": "À partir de = from, starting at (PT: a partir dos 18 anos)."
+        },
+        {
+          "question": "Il a pris la parole ___ la cérémonie. (at the time of — 2 words)",
+          "answer": ["lors de"],
+          "explanation": "Lors de = at the time of an event, during it (PT: aquando da cerimónia)."
+        },
+        {
+          "question": "Plusieurs accidents ont eu lieu ___ la semaine. (in the course of)",
+          "options": ["au cours de", "au bout de", "à partir de", "au sein de"],
+          "answer": "au cours de",
+          "explanation": "Au cours de = in the course of, during (PT: no decorrer da semana)."
+        },
+        {
+          "question": "Je suis en retard ___ la grève. (because of)",
+          "answer": ["à cause de", "en raison de"],
+          "explanation": "À cause de = because of, with a bad result (PT: por causa da greve). En raison de is the formal version."
+        },
+        {
+          "question": "___ ce médicament, elle va beaucoup mieux. (thanks to)",
+          "options": ["Grâce à", "À cause de", "Faute de", "Au lieu de"],
+          "answer": "Grâce à",
+          "explanation": "Grâce à = thanks to, with a good result (PT: graças a este medicamento)."
+        },
+        {
+          "question": "In an official notice, what does « en raison de » mean?",
+          "options": ["due to", "in spite of", "instead of", "thanks to"],
+          "answer": "due to",
+          "explanation": "En raison de = due to, because of; it's the formal form of à cause de: fermé en raison des travaux (PT: devido a)."
+        },
+        {
+          "question": "Le projet a été abandonné ___ moyens. (for lack of)",
+          "options": ["faute de", "à cause de", "grâce à", "à force de"],
+          "answer": "faute de",
+          "explanation": "Faute de = for lack of, with no article: faute de moyens (PT: por falta de meios)."
+        },
+        {
+          "question": "Elle a progressé ___ pratiquer tous les jours. (through constant effort — 3 words)",
+          "answer": ["à force de"],
+          "explanation": "À force de = by dint of, through doing something again and again (PT: à força de praticar)."
+        },
+        {
+          "question": "Relisez le texte ___ bien comprendre la question. (in order to)",
+          "options": ["afin de", "à force de", "faute de", "de peur de"],
+          "answer": "afin de",
+          "explanation": "Afin de = in order to (PT: a fim de compreender bem)."
+        },
+        {
+          "question": "Il marche doucement ___ réveiller le bébé. (for fear of — 3 words)",
+          "answer": ["de peur de", "de crainte de"],
+          "explanation": "De peur de = for fear of, so as not to: de peur de réveiller le bébé (PT: com medo de acordar o bebé)."
+        },
+        {
+          "question": "Vous aurez une réduction ___ payer en espèces. (provided that)",
+          "options": ["à condition de", "au lieu de", "faute de", "à force de"],
+          "answer": "à condition de",
+          "explanation": "À condition de + infinitive = provided that, on condition of (PT: desde que pague em dinheiro)."
+        },
+        {
+          "question": "___ pluie, le concert aura lieu à l'intérieur. (in case of — 3 words)",
+          "answer": ["en cas de"],
+          "explanation": "En cas de = in case of, in the event of (PT: em caso de chuva)."
+        },
+        {
+          "question": "Prends le train ___ la voiture. (instead of)",
+          "options": ["au lieu de", "au milieu de", "au bout de", "à cause de"],
+          "answer": "au lieu de",
+          "explanation": "Au lieu de = instead of (PT: em vez do carro)."
+        },
+        {
+          "question": "J'ai mis de l'huile ___ la crème. (in place of — 4 words)",
+          "answer": ["à la place de"],
+          "explanation": "À la place de = in place of, instead of (PT: no lugar das natas)."
+        },
+        {
+          "question": "On peut calculer la distance ___ cette formule. (with the help of)",
+          "options": ["à l'aide de", "à l'égard de", "à l'exception de", "à l'intérieur de"],
+          "answer": "à l'aide de",
+          "explanation": "À l'aide de = with the help of, using (PT: com a ajuda desta fórmula)."
+        },
+        {
+          "question": "Le message a été transmis ___ signaux lumineux. (by means of)",
+          "options": ["au moyen de", "au lieu de", "au sein de", "au cours de"],
+          "answer": "au moyen de",
+          "explanation": "Au moyen de = by means of (PT: por meio de sinais luminosos)."
+        },
+        {
+          "question": "Il est grand ___ son âge. (relative to — 3 words)",
+          "answer": ["par rapport à"],
+          "explanation": "Par rapport à = in relation to, compared with: grand par rapport à son âge (PT: em relação à idade). Pour son âge says it in one word."
+        },
+        {
+          "question": "Paul est d'accord. ___ Marie, elle hésite encore. (as for)",
+          "options": ["Quant à", "Grâce à", "Par rapport à", "Jusqu'à"],
+          "answer": "Quant à",
+          "explanation": "Quant à = as for (PT: quanto à Maria)."
+        },
+        {
+          "question": "Ils se disputent toujours ___ l'argent. (about — 3 words)",
+          "answer": ["à propos de", "au sujet de"],
+          "explanation": "À propos de = about (PT: por causa do dinheiro, a propósito de). Au sujet de says the same."
+        },
+        {
+          "question": "What does « au sujet de » mean?",
+          "options": ["about", "instead of", "at the end of", "within"],
+          "answer": "about",
+          "explanation": "Au sujet de = about, regarding (PT: acerca de)."
+        },
+        {
+          "question": "Quelle est votre attitude ___ ce problème ? (towards — regarding)",
+          "options": ["à l'égard de", "à l'exception de", "au milieu de", "au bout de"],
+          "answer": "à l'égard de",
+          "explanation": "À l'égard de = towards, with regard to (PT: em relação a este problema)."
+        },
+        {
+          "question": "Ils ont gagné ___ leurs blessures. (in spite of — 3 words)",
+          "answer": ["en dépit de"],
+          "explanation": "En dépit de = in spite of, a formal twin of malgré (PT: apesar dos ferimentos)."
+        },
+        {
+          "question": "Le restaurant est ouvert toute l'année, ___ la période de Noël. (with the exception of)",
+          "options": ["à l'exception de", "à l'égard de", "à l'aide de", "au sein de"],
+          "answer": "à l'exception de",
+          "explanation": "À l'exception de = with the exception of (PT: à exceção do período de Natal)."
+        },
+        {
+          "question": "Le prix comprend tout, ___ le petit-déjeuner. (including — 2 words)",
+          "answer": ["y compris"],
+          "explanation": "Y compris = including (PT: incluindo o pequeno-almoço)."
+        },
+        {
+          "question": "Ce portrait a été peint ___ une photo. (based on — from)",
+          "options": ["d'après", "selon", "depuis", "dès"],
+          "answer": "d'après",
+          "explanation": "D'après also means based on, after a model: peint d'après une photo, un film d'après un roman (PT: a partir de uma fotografia)."
+        },
+        {
+          "question": "___ ce qu'on pense, ce n'est pas difficile. (contrary to — 2 words)",
+          "answer": ["contrairement à"],
+          "explanation": "Contrairement à = contrary to, unlike (PT: ao contrário do que se pensa)."
+        },
+        {
+          "question": "On choisit le vin ___ la viande servie. (depending on)",
+          "options": ["en fonction de", "en dépit de", "en dehors de", "en face de"],
+          "answer": "en fonction de",
+          "explanation": "En fonction de = depending on (PT: em função da carne servida)."
+        },
+        {
+          "question": "Ce bouquet est arrivé ___ ton voisin. (from — on behalf of, 4 words)",
+          "answer": ["de la part de"],
+          "explanation": "De la part de = from, on behalf of someone (PT: da parte do teu vizinho)."
+        },
+        {
+          "question": "Des tensions sont apparues ___ la direction. (within)",
+          "options": ["au sein de", "au bout de", "au bord de", "au lieu de"],
+          "answer": "au sein de",
+          "explanation": "Au sein de = within a group or an organisation (PT: no seio da direção)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4325 @@
+{
+  "name": "Preposition tutorials 1 — your 20",
+  "tests": [
+    {
+      "title": "a, em · to, at, in",
+      "description": "Hint: 1 letter, with a grave accent. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Je vais ___ Lisbonne demain.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Vou a Lisboa amanhã."
+        },
+        {
+          "question": "Elle a toujours vécu ___ Porto.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Ela sempre viveu no Porto."
+        },
+        {
+          "question": "Nous allons ___ cinéma ce soir.",
+          "answer": [
+            "au"
+          ],
+          "explanation": "PT: Vamos ao cinema esta noite. au = à + le."
+        },
+        {
+          "question": "Il travaille ___ l'hôpital de la ville.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Ele trabalha no hospital da cidade."
+        },
+        {
+          "question": "Les enfants jouent ___ parc.",
+          "answer": [
+            "au"
+          ],
+          "explanation": "PT: As crianças brincam no parque. au = à + le."
+        },
+        {
+          "question": "J'ai mal ___ la tête.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Dói-me a cabeça."
+        },
+        {
+          "question": "Il pense souvent ___ ses grands-parents.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Pensa muitas vezes nos avós."
+        },
+        {
+          "question": "Ce sac est ___ moi.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Esta mala é minha."
+        },
+        {
+          "question": "Elle parle ___ voisins tous les matins.",
+          "answer": [
+            "aux"
+          ],
+          "explanation": "PT: Ela fala com os vizinhos todas as manhãs. aux = à + les."
+        },
+        {
+          "question": "Nous sommes arrivés ___ l'aéroport à six heures.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Chegámos ao aeroporto às seis."
+        },
+        {
+          "question": "Il a offert des fleurs ___ sa mère.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Ofereceu flores à mãe."
+        },
+        {
+          "question": "J'ai rendez-vous ___ dix heures.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Tenho um encontro marcado às dez."
+        },
+        {
+          "question": "On se voit ___ printemps.",
+          "answer": [
+            "au"
+          ],
+          "explanation": "PT: Vemo-nos na primavera. au = à + le."
+        },
+        {
+          "question": "Elle a écrit une lettre ___ ministre.",
+          "answer": [
+            "au"
+          ],
+          "explanation": "PT: Escreveu uma carta ao ministro. au = à + le."
+        },
+        {
+          "question": "C'est une glace ___ chocolat.",
+          "answer": [
+            "au"
+          ],
+          "explanation": "PT: É um gelado de chocolate. au = à + le."
+        },
+        {
+          "question": "Une tarte ___ pommes, s'il vous plaît.",
+          "answer": [
+            "aux"
+          ],
+          "explanation": "PT: Uma tarte de maçã, por favor. aux = à + les."
+        },
+        {
+          "question": "Mon cousin habite ___ États-Unis.",
+          "answer": [
+            "aux"
+          ],
+          "explanation": "PT: O meu primo vive nos Estados Unidos. aux = à + les."
+        },
+        {
+          "question": "Nous allons ___ Portugal en août.",
+          "answer": [
+            "au"
+          ],
+          "explanation": "PT: Vamos a Portugal em agosto. au = à + le."
+        },
+        {
+          "question": "Il est né ___ Brésil.",
+          "answer": [
+            "au"
+          ],
+          "explanation": "PT: Nasceu no Brasil. au = à + le."
+        },
+        {
+          "question": "Elle est partie étudier ___ Pays-Bas.",
+          "answer": [
+            "aux"
+          ],
+          "explanation": "PT: Foi estudar para os Países Baixos. aux = à + les."
+        },
+        {
+          "question": "Je l'ai acheté ___ marché.",
+          "answer": [
+            "au"
+          ],
+          "explanation": "PT: Comprei-o no mercado. au = à + le."
+        },
+        {
+          "question": "La réunion commence ___ midi.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: A reunião começa ao meio-dia."
+        },
+        {
+          "question": "Il apprend ___ nager.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Está a aprender a nadar."
+        },
+        {
+          "question": "J'ai beaucoup de travail ___ faire.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Tenho muito trabalho para fazer."
+        },
+        {
+          "question": "Ils font le tour du lac ___ vélo.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Dão a volta ao lago de bicicleta."
+        },
+        {
+          "question": "Nous y allons ___ pied.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Vamos a pé."
+        },
+        {
+          "question": "Le café est ___ deux euros.",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: O café está a dois euros."
+        },
+        {
+          "question": "Il a demandé l'addition ___ serveur.",
+          "answer": [
+            "au"
+          ],
+          "explanation": "PT: Pediu a conta ao empregado. au = à + le."
+        },
+        {
+          "question": "Elle sourit ___ enfants.",
+          "answer": [
+            "aux"
+          ],
+          "explanation": "PT: Ela sorri para as crianças. aux = à + les."
+        },
+        {
+          "question": "Bienvenue ___ Paris !",
+          "answer": [
+            "à"
+          ],
+          "explanation": "PT: Bem-vindos a Paris!"
+        }
+      ]
+    },
+    {
+      "title": "de · of, from",
+      "description": "Hint: 2 letters. Find it on your cheat sheet, then type it in all 30 sentences, in the form each one needs (it contracts with le and les; it elides before a vowel). After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "C'est la voiture ___ mon frère.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: É o carro do meu irmão."
+        },
+        {
+          "question": "Je viens ___ Lisbonne.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: Venho de Lisboa."
+        },
+        {
+          "question": "Elle revient ___ marché avec des légumes.",
+          "answer": [
+            "du"
+          ],
+          "explanation": "PT: Ela volta do mercado com legumes. du = de + le."
+        },
+        {
+          "question": "Il sort ___ bureau à 18 heures.",
+          "answer": [
+            "du"
+          ],
+          "explanation": "PT: Sai do escritório às 18 horas. du = de + le."
+        },
+        {
+          "question": "Le prix ___ billets a augmenté.",
+          "answer": [
+            "des"
+          ],
+          "explanation": "PT: O preço dos bilhetes aumentou. des = de + les."
+        },
+        {
+          "question": "Un verre ___eau, s'il vous plaît.",
+          "answer": [
+            "d'"
+          ],
+          "explanation": "PT: Um copo de água, por favor. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Elle a peur ___ chiens.",
+          "answer": [
+            "des"
+          ],
+          "explanation": "PT: Ela tem medo dos cães. des = de + les."
+        },
+        {
+          "question": "C'est un professeur ___histoire.",
+          "answer": [
+            "d'"
+          ],
+          "explanation": "PT: É um professor de história. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "La porte ___ jardin est ouverte.",
+          "answer": [
+            "du"
+          ],
+          "explanation": "PT: A porta do jardim está aberta. du = de + le."
+        },
+        {
+          "question": "J'ai besoin ___ ton aide.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: Preciso da tua ajuda."
+        },
+        {
+          "question": "Il parle souvent ___ ses voyages.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: Fala muitas vezes das suas viagens."
+        },
+        {
+          "question": "Nous arrivons ___Espagne ce soir.",
+          "answer": [
+            "d'"
+          ],
+          "explanation": "PT: Chegamos de Espanha esta noite. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Le train ___ Madrid a du retard.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: O comboio de Madrid está atrasado."
+        },
+        {
+          "question": "La fin ___ film était triste.",
+          "answer": [
+            "du"
+          ],
+          "explanation": "PT: O fim do filme era triste. du = de + le."
+        },
+        {
+          "question": "Les clés ___ la voiture sont sur la table.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: As chaves do carro estão em cima da mesa."
+        },
+        {
+          "question": "Une tasse ___ café, s'il te plaît.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: Uma chávena de café, por favor."
+        },
+        {
+          "question": "Il est fier ___ ses enfants.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: Tem orgulho dos filhos."
+        },
+        {
+          "question": "C'est le cahier ___ l'élève.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: É o caderno do aluno."
+        },
+        {
+          "question": "Elle se souvient ___ vacances au bord de la mer.",
+          "answer": [
+            "des"
+          ],
+          "explanation": "PT: Ela lembra-se das férias à beira-mar. des = de + les."
+        },
+        {
+          "question": "Le bruit ___ voisins m'empêche de dormir.",
+          "answer": [
+            "des"
+          ],
+          "explanation": "PT: O barulho dos vizinhos não me deixa dormir. des = de + les."
+        },
+        {
+          "question": "Je suis content ___ te voir.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: Fico contente por te ver."
+        },
+        {
+          "question": "Il a envie ___ partir.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: Tem vontade de partir."
+        },
+        {
+          "question": "La couleur ___ ciel change le soir.",
+          "answer": [
+            "du"
+          ],
+          "explanation": "PT: A cor do céu muda ao entardecer. du = de + le."
+        },
+        {
+          "question": "Une bouteille ___huile d'olive.",
+          "answer": [
+            "d'"
+          ],
+          "explanation": "PT: Uma garrafa de azeite. De becomes d' before a vowel or a mute h."
+        },
+        {
+          "question": "Le directeur ___ l'école est absent.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: O diretor da escola está ausente."
+        },
+        {
+          "question": "Mon oncle rentre ___ États-Unis.",
+          "answer": [
+            "des"
+          ],
+          "explanation": "PT: O meu tio regressa dos Estados Unidos. des = de + les."
+        },
+        {
+          "question": "Ce pays manque ___ médecins.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: Este país tem falta de médicos."
+        },
+        {
+          "question": "C'est une robe ___ soie.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: É um vestido de seda."
+        },
+        {
+          "question": "Elle descend ___ bus devant l'église.",
+          "answer": [
+            "du"
+          ],
+          "explanation": "PT: Ela sai do autocarro em frente à igreja. du = de + le."
+        },
+        {
+          "question": "Beaucoup ___ gens aiment voyager.",
+          "answer": [
+            "de"
+          ],
+          "explanation": "PT: Muitas pessoas gostam de viajar."
+        }
+      ]
+    },
+    {
+      "title": "em · in (a country, a month), by (car, train)",
+      "description": "Hint: 2 letters. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Il habite ___ France.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Vive em França."
+        },
+        {
+          "question": "Nous partons ___ vacances demain.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Partimos de férias amanhã."
+        },
+        {
+          "question": "Elle est née ___ 1995.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Ela nasceu em 1995."
+        },
+        {
+          "question": "Je vais au travail ___ train.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Vou para o trabalho de comboio."
+        },
+        {
+          "question": "On se marie ___ juin.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Vamos casar em junho."
+        },
+        {
+          "question": "Il voyage toujours ___ avion.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Viaja sempre de avião."
+        },
+        {
+          "question": "Ce pull est ___ laine.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Esta camisola é de lã."
+        },
+        {
+          "question": "J'ai fait l'exercice ___ dix minutes.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Fiz o exercício em dez minutos."
+        },
+        {
+          "question": "Elle parle ___ anglais avec ses collègues.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Fala em inglês com os colegas."
+        },
+        {
+          "question": "Nous sommes ___ hiver.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Estamos no inverno."
+        },
+        {
+          "question": "Dépêche-toi, on est ___ retard !",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Despacha-te, estamos atrasados!"
+        },
+        {
+          "question": "Mon père est ___ colère.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: O meu pai está zangado."
+        },
+        {
+          "question": "Elle travaille ___ Italie.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Ela trabalha em Itália."
+        },
+        {
+          "question": "La cabane est ___ bois.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: A cabana é de madeira."
+        },
+        {
+          "question": "Nous sommes allés ___ Espagne l'été dernier.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Fomos a Espanha no verão passado."
+        },
+        {
+          "question": "Il écrit ses poèmes ___ français.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Escreve os poemas em francês."
+        },
+        {
+          "question": "Toute la rue est ___ travaux cet été.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: A rua toda está em obras este verão."
+        },
+        {
+          "question": "Je suis ___ train de cuisiner.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Estou a cozinhar."
+        },
+        {
+          "question": "Elle est ___ bonne santé.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Ela está de boa saúde."
+        },
+        {
+          "question": "On s'est rencontrés ___ automne.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Conhecemo-nos no outono."
+        },
+        {
+          "question": "Il répond ___ souriant.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Responde a sorrir."
+        },
+        {
+          "question": "Ce soir, on dîne ___ ville.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Esta noite jantamos fora, na cidade."
+        },
+        {
+          "question": "Les élèves sont ___ classe.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Os alunos estão na aula."
+        },
+        {
+          "question": "Mets ton téléphone ___ mode silencieux.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Põe o telemóvel em modo silencioso."
+        },
+        {
+          "question": "Ils vivent ___ Allemagne.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Vivem na Alemanha."
+        },
+        {
+          "question": "Le film est ___ noir et blanc.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: O filme é a preto e branco."
+        },
+        {
+          "question": "Je l'ai payé ___ espèces.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Paguei em dinheiro."
+        },
+        {
+          "question": "Elle est partie ___ courant.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Saiu a correr."
+        },
+        {
+          "question": "Il a traduit le texte ___ portugais.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Traduziu o texto para português."
+        },
+        {
+          "question": "Nous sommes ___ 2026.",
+          "answer": [
+            "en"
+          ],
+          "explanation": "PT: Estamos em 2026."
+        }
+      ]
+    },
+    {
+      "title": "dentro de, em; daqui a · in, inside; in (time from now)",
+      "description": "Hint: 4 letters. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Les clés sont ___ mon sac.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: As chaves estão na minha mala."
+        },
+        {
+          "question": "Le train part ___ cinq minutes.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: O comboio parte daqui a cinco minutos."
+        },
+        {
+          "question": "Il y a du lait ___ le frigo.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Há leite no frigorífico."
+        },
+        {
+          "question": "Elle lit ___ sa chambre.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Ela lê no quarto."
+        },
+        {
+          "question": "On se voit ___ une semaine.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Vemo-nos daqui a uma semana."
+        },
+        {
+          "question": "Il y a trop de sel ___ la soupe.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Há sal a mais na sopa."
+        },
+        {
+          "question": "Nous nous sommes perdus ___ la forêt.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Perdemo-nos na floresta."
+        },
+        {
+          "question": "J'ai lu cette histoire ___ un journal.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Li esta história num jornal."
+        },
+        {
+          "question": "Mets les fleurs ___ un vase.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Põe as flores numa jarra."
+        },
+        {
+          "question": "Il vit ___ un petit appartement.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Vive num pequeno apartamento."
+        },
+        {
+          "question": "Le film commence ___ un quart d'heure.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: O filme começa daqui a um quarto de hora."
+        },
+        {
+          "question": "Les enfants jouent ___ la cour.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: As crianças brincam no recreio."
+        },
+        {
+          "question": "Il a mis l'argent ___ sa poche.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Pôs o dinheiro no bolso."
+        },
+        {
+          "question": "Il y a beaucoup de monde ___ le métro.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Há muita gente no metro."
+        },
+        {
+          "question": "Elle travaille ___ une banque.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Trabalha num banco."
+        },
+        {
+          "question": "Je reviens ___ deux jours.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Volto daqui a dois dias."
+        },
+        {
+          "question": "Le chat dort ___ son panier.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: O gato dorme no cesto."
+        },
+        {
+          "question": "Il y a une erreur ___ ce calcul.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Há um erro nesta conta."
+        },
+        {
+          "question": "Nous dînons ___ le jardin.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Jantamos no jardim."
+        },
+        {
+          "question": "Range tes vêtements ___ l'armoire.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Arruma a roupa no armário."
+        },
+        {
+          "question": "Il est entré ___ la pièce sans frapper.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Entrou na sala sem bater."
+        },
+        {
+          "question": "___ ce livre, l'auteur parle de son enfance.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Neste livro, o autor fala da sua infância."
+        },
+        {
+          "question": "Ils habitent ___ le sud de la France.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Vivem no sul de França."
+        },
+        {
+          "question": "Il y a des truites ___ la rivière.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Há trutas no rio."
+        },
+        {
+          "question": "Elle s'est endormie ___ ses bras.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Adormeceu nos braços dele."
+        },
+        {
+          "question": "Je serai prêt ___ une heure.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Estarei pronto daqui a uma hora."
+        },
+        {
+          "question": "On a trouvé un vieux piano ___ le grenier.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Encontrámos um piano velho no sótão."
+        },
+        {
+          "question": "Il nage ___ la piscine tous les matins.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Nada na piscina todas as manhãs."
+        },
+        {
+          "question": "Ne cours pas ___ les escaliers !",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Não corras nas escadas!"
+        },
+        {
+          "question": "Il a plongé ___ l'eau froide.",
+          "answer": [
+            "dans"
+          ],
+          "explanation": "PT: Mergulhou na água fria."
+        }
+      ]
+    },
+    {
+      "title": "sobre, em cima de · on",
+      "description": "Hint: 3 letters. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Le livre est ___ la table.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: O livro está em cima da mesa."
+        },
+        {
+          "question": "Il y a un oiseau ___ le toit.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Há um pássaro no telhado."
+        },
+        {
+          "question": "Le chat dort ___ le canapé.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: O gato dorme no sofá."
+        },
+        {
+          "question": "J'ai lu un article ___ l'économie.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Li um artigo sobre a economia."
+        },
+        {
+          "question": "Mets ton nom ___ la liste.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Põe o teu nome na lista."
+        },
+        {
+          "question": "Quelqu'un a écrit ___ le mur.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Alguém escreveu na parede."
+        },
+        {
+          "question": "Nous marchons ___ la plage au coucher du soleil.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Caminhamos na praia ao pôr do sol."
+        },
+        {
+          "question": "Un élève ___ deux a réussi.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Um aluno em cada dois passou."
+        },
+        {
+          "question": "J'ai eu 15 ___ 20 à l'examen.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Tive 15 em 20 no exame."
+        },
+        {
+          "question": "La photo est ___ mon téléphone.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: A fotografia está no meu telemóvel."
+        },
+        {
+          "question": "Il y a une tache ___ ta chemise.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Tens uma nódoa na camisa."
+        },
+        {
+          "question": "Elle travaille ___ un nouveau projet.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Ela trabalha num projeto novo."
+        },
+        {
+          "question": "La fenêtre donne ___ la mer.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: A janela dá para o mar."
+        },
+        {
+          "question": "Elle a posé la main ___ mon épaule.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Pôs a mão no meu ombro."
+        },
+        {
+          "question": "Le musée est ___ votre gauche.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: O museu fica à sua esquerda."
+        },
+        {
+          "question": "J'ai vu cette vidéo ___ Internet.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Vi este vídeo na Internet."
+        },
+        {
+          "question": "Ils se sont assis ___ l'herbe.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Sentaram-se na relva."
+        },
+        {
+          "question": "Le restaurant est ___ la place principale.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: O restaurante fica na praça principal."
+        },
+        {
+          "question": "On compte ___ toi.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Contamos contigo."
+        },
+        {
+          "question": "Il y a de la neige ___ les montagnes.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Há neve nas montanhas."
+        },
+        {
+          "question": "Ne mets pas tes pieds ___ la chaise !",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Não ponhas os pés na cadeira!"
+        },
+        {
+          "question": "Elle a un tatouage ___ le bras.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Tem uma tatuagem no braço."
+        },
+        {
+          "question": "C'est un documentaire ___ la guerre.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: É um documentário sobre a guerra."
+        },
+        {
+          "question": "Il pleut ___ toute la région.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Chove em toda a região."
+        },
+        {
+          "question": "Les clés sont restées ___ la porte.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: As chaves ficaram na porta."
+        },
+        {
+          "question": "Je suis tombé ___ un vieil ami au marché.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Encontrei por acaso um velho amigo no mercado."
+        },
+        {
+          "question": "Le bateau navigue ___ le fleuve.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: O barco navega no rio."
+        },
+        {
+          "question": "Cliquez ___ ce bouton.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Clique neste botão."
+        },
+        {
+          "question": "Elle a beaucoup d'influence ___ ses amis.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: Ela tem muita influência sobre os amigos."
+        },
+        {
+          "question": "Le soleil se lève ___ la ville.",
+          "answer": [
+            "sur"
+          ],
+          "explanation": "PT: O sol nasce sobre a cidade."
+        }
+      ]
+    },
+    {
+      "title": "sob, debaixo de · under",
+      "description": "Hint: 4 letters. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Le chat dort ___ la table.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: O gato dorme debaixo da mesa."
+        },
+        {
+          "question": "Les bateaux passent ___ le pont.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Os barcos passam por baixo da ponte."
+        },
+        {
+          "question": "J'ai trouvé tes chaussures ___ le lit.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Encontrei os teus sapatos debaixo da cama."
+        },
+        {
+          "question": "Nous avons marché ___ la pluie.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Caminhámos à chuva."
+        },
+        {
+          "question": "Il fait moins cinq : on est ___ zéro.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Estão cinco graus negativos: estamos abaixo de zero."
+        },
+        {
+          "question": "Le métro passe ___ la ville.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: O metro passa por baixo da cidade."
+        },
+        {
+          "question": "Elle a écrit ce roman ___ un faux nom.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Escreveu este romance sob um nome falso."
+        },
+        {
+          "question": "Les enfants se cachent ___ la couverture.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: As crianças escondem-se debaixo do cobertor."
+        },
+        {
+          "question": "Mets un dessous de verre ___ ta tasse.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Põe uma base debaixo da chávena."
+        },
+        {
+          "question": "La lettre a été glissée ___ la porte.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: A carta foi metida por baixo da porta."
+        },
+        {
+          "question": "Il est ___ la douche.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Está no duche."
+        },
+        {
+          "question": "Ils ont pique-niqué ___ un grand chêne.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Fizeram um piquenique debaixo de um grande carvalho."
+        },
+        {
+          "question": "La ville était ___ la neige.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: A cidade estava coberta de neve."
+        },
+        {
+          "question": "Il porte un pull ___ sa veste.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Usa uma camisola por baixo do casaco."
+        },
+        {
+          "question": "Le dossier est ___ cette pile de papiers.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: O processo está debaixo desta pilha de papéis."
+        },
+        {
+          "question": "Le pays était ___ une dictature.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: O país estava sob uma ditadura."
+        },
+        {
+          "question": "Le chien s'est couché ___ ma chaise.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: O cão deitou-se debaixo da minha cadeira."
+        },
+        {
+          "question": "Ces documents sont ___ clé.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Estes documentos estão fechados à chave."
+        },
+        {
+          "question": "Livraison ___ trois jours ouvrés.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Entrega no prazo de três dias úteis."
+        },
+        {
+          "question": "On a dansé ___ les étoiles.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Dançámos sob as estrelas."
+        },
+        {
+          "question": "La maison est ___ surveillance.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: A casa está sob vigilância."
+        },
+        {
+          "question": "J'ai répondu ___ le coup de la colère.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Respondi no calor da raiva."
+        },
+        {
+          "question": "Il y a un parking ___ l'immeuble.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Há um parque de estacionamento por baixo do prédio."
+        },
+        {
+          "question": "Elle a toujours un livre ___ le bras.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Ela traz sempre um livro debaixo do braço."
+        },
+        {
+          "question": "Le chantier avance ___ la direction d'une architecte.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: A obra avança sob a direção de uma arquiteta."
+        },
+        {
+          "question": "Nous avons vu des poissons ___ l'eau.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Vimos peixes debaixo de água."
+        },
+        {
+          "question": "Il dort ___ une tente cet été.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Dorme numa tenda este verão."
+        },
+        {
+          "question": "Ne laisse pas ton vélo ___ la pluie.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Não deixes a bicicleta à chuva."
+        },
+        {
+          "question": "Le patient est ___ antibiotiques.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: O doente está a tomar antibióticos."
+        },
+        {
+          "question": "Vu ___ cet angle, le problème est simple.",
+          "answer": [
+            "sous"
+          ],
+          "explanation": "PT: Visto por este ângulo, o problema é simples."
+        }
+      ]
+    },
+    {
+      "title": "com · with",
+      "description": "Hint: 4 letters. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Je vais au concert ___ mes amis.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Vou ao concerto com os meus amigos."
+        },
+        {
+          "question": "Il boit son café ___ du lait.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Bebe o café com leite."
+        },
+        {
+          "question": "Elle a coupé le pain ___ un couteau.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Cortou o pão com uma faca."
+        },
+        {
+          "question": "Tu viens ___ nous au cinéma ?",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Vens connosco ao cinema?"
+        },
+        {
+          "question": "Il parle ___ un accent du sud.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Fala com sotaque do sul."
+        },
+        {
+          "question": "Nous avons dîné ___ nos voisins.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Jantámos com os vizinhos."
+        },
+        {
+          "question": "Elle vit ___ sa sœur à Lyon.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Vive com a irmã em Lyon."
+        },
+        {
+          "question": "J'écris ___ un stylo bleu.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Escrevo com uma caneta azul."
+        },
+        {
+          "question": "Il a répondu ___ beaucoup de patience.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Respondeu com muita paciência."
+        },
+        {
+          "question": "Un steak ___ des frites, s'il vous plaît.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Um bife com batatas fritas, por favor."
+        },
+        {
+          "question": "Elle joue ___ son chien dans le jardin.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Brinca com o cão no jardim."
+        },
+        {
+          "question": "Je suis d'accord ___ toi.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Concordo contigo."
+        },
+        {
+          "question": "Il est parti ___ sa valise rouge.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Partiu com a mala vermelha."
+        },
+        {
+          "question": "Mélange la farine ___ les œufs.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Mistura a farinha com os ovos."
+        },
+        {
+          "question": "Elle s'est mariée ___ un musicien.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Casou com um músico."
+        },
+        {
+          "question": "On peut payer ___ une carte bancaire ?",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Pode-se pagar com cartão multibanco?"
+        },
+        {
+          "question": "Il travaille ___ une équipe internationale.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Trabalha com uma equipa internacional."
+        },
+        {
+          "question": "___ le temps, tout devient plus facile.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Com o tempo, tudo se torna mais fácil."
+        },
+        {
+          "question": "Une chambre ___ vue sur la mer.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Um quarto com vista para o mar."
+        },
+        {
+          "question": "Il se dispute souvent ___ son frère.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Discute muitas vezes com o irmão."
+        },
+        {
+          "question": "Elle a ouvert la boîte ___ précaution.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Abriu a caixa com cuidado."
+        },
+        {
+          "question": "Nous partageons l'appartement ___ deux étudiants.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Partilhamos o apartamento com dois estudantes."
+        },
+        {
+          "question": "Il est très gentil ___ les enfants.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: É muito simpático com as crianças."
+        },
+        {
+          "question": "J'ai rendez-vous ___ le directeur.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Tenho uma reunião com o diretor."
+        },
+        {
+          "question": "Elle se promène ___ un parapluie jaune.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Passeia com um guarda-chuva amarelo."
+        },
+        {
+          "question": "Lave-toi les mains ___ du savon.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Lava as mãos com sabão."
+        },
+        {
+          "question": "Le gâteau est décoré ___ des fraises.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: O bolo está decorado com morangos."
+        },
+        {
+          "question": "Il a gagné ___ deux points d'avance.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Ganhou com dois pontos de vantagem."
+        },
+        {
+          "question": "Ils se sont battus ___ courage.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Lutaram com coragem."
+        },
+        {
+          "question": "Je préfère le thé ___ du citron.",
+          "answer": [
+            "avec"
+          ],
+          "explanation": "PT: Prefiro o chá com limão."
+        }
+      ]
+    },
+    {
+      "title": "sem · without",
+      "description": "Hint: 4 letters. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Je bois mon café ___ sucre.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Bebo o café sem açúcar."
+        },
+        {
+          "question": "Il est sorti ___ manteau.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Saiu sem casaco."
+        },
+        {
+          "question": "Elle est partie ___ dire au revoir.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Saiu sem dizer adeus."
+        },
+        {
+          "question": "On ne peut pas vivre ___ eau.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Não se pode viver sem água."
+        },
+        {
+          "question": "Un sandwich ___ tomate, s'il vous plaît.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Uma sandes sem tomate, por favor."
+        },
+        {
+          "question": "Il a réussi ___ aide.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Conseguiu sem ajuda."
+        },
+        {
+          "question": "Ils ont traversé la rue ___ regarder.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Atravessaram a rua sem olhar."
+        },
+        {
+          "question": "Je ne pars jamais ___ mon téléphone.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Nunca saio sem o telemóvel."
+        },
+        {
+          "question": "C'est une bière ___ alcool.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: É uma cerveja sem álcool."
+        },
+        {
+          "question": "Il a parlé ___ réfléchir.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Falou sem pensar."
+        },
+        {
+          "question": "Elle travaille ___ pause depuis ce matin.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Trabalha sem pausa desde manhã."
+        },
+        {
+          "question": "Le spectacle a commencé ___ nous.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: O espetáculo começou sem nós."
+        },
+        {
+          "question": "Il est entré ___ frapper.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Entrou sem bater."
+        },
+        {
+          "question": "Ce pain est ___ gluten.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Este pão é sem glúten."
+        },
+        {
+          "question": "Nous sommes restés deux jours ___ électricité.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Ficámos dois dias sem eletricidade."
+        },
+        {
+          "question": "Elle a tout expliqué ___ s'énerver.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Explicou tudo sem se irritar."
+        },
+        {
+          "question": "Un voyage ___ problème, c'est rare.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Uma viagem sem problemas é rara."
+        },
+        {
+          "question": "Il conduit ___ permis.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Conduz sem carta."
+        },
+        {
+          "question": "___ toi, je ne serais pas arrivé ici.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Sem ti, não teria chegado aqui."
+        },
+        {
+          "question": "Le bébé dort ___ bruit.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: O bebé dorme sem fazer barulho."
+        },
+        {
+          "question": "Ils vivent ___ voiture en ville.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Vivem sem carro na cidade."
+        },
+        {
+          "question": "Elle a accepté ___ hésiter.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Aceitou sem hesitar."
+        },
+        {
+          "question": "Il a mangé ___ appétit.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Comeu sem apetite."
+        },
+        {
+          "question": "Ce film est ___ intérêt.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Este filme não tem interesse nenhum."
+        },
+        {
+          "question": "Je ne peux pas lire ___ mes lunettes.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Não consigo ler sem os óculos."
+        },
+        {
+          "question": "Ils ont attendu ___ rien dire.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Esperaram sem dizer nada."
+        },
+        {
+          "question": "La chambre est petite mais ___ défaut.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: O quarto é pequeno, mas sem defeitos."
+        },
+        {
+          "question": "Il est resté trois mois ___ travail.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Ficou três meses sem trabalho."
+        },
+        {
+          "question": "Fais-le ___ te presser.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Fá-lo sem pressa."
+        },
+        {
+          "question": "Un monde ___ musique serait triste.",
+          "answer": [
+            "sans"
+          ],
+          "explanation": "PT: Um mundo sem música seria triste."
+        }
+      ]
+    },
+    {
+      "title": "para; por (duração prevista) · for, in order to",
+      "description": "Hint: 4 letters. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Ce cadeau est ___ toi.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Este presente é para ti."
+        },
+        {
+          "question": "Il travaille ___ payer ses études.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Trabalha para pagar os estudos."
+        },
+        {
+          "question": "Le train ___ Lyon part à midi.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: O comboio para Lyon parte ao meio-dia."
+        },
+        {
+          "question": "Je pars en Grèce ___ deux semaines.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Vou para a Grécia por duas semanas."
+        },
+        {
+          "question": "Merci ___ ton aide.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Obrigado pela tua ajuda."
+        },
+        {
+          "question": "C'est un livre ___ enfants.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: É um livro para crianças."
+        },
+        {
+          "question": "Elle se lève tôt ___ courir.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Levanta-se cedo para correr."
+        },
+        {
+          "question": "Il a payé dix euros ___ ce billet.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Pagou dez euros por este bilhete."
+        },
+        {
+          "question": "___ moi, c'est le meilleur film de l'année.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Para mim, é o melhor filme do ano."
+        },
+        {
+          "question": "Nous avons réservé une table ___ quatre personnes.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Reservámos uma mesa para quatro pessoas."
+        },
+        {
+          "question": "Elle a acheté des fleurs ___ sa grand-mère.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Comprou flores para a avó."
+        },
+        {
+          "question": "Il est trop tard ___ sortir.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: É demasiado tarde para sair."
+        },
+        {
+          "question": "J'ai voté ___ ce candidat.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Votei neste candidato."
+        },
+        {
+          "question": "C'est bon ___ la santé.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Faz bem à saúde."
+        },
+        {
+          "question": "Ils partent ___ Rome demain matin.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Partem para Roma amanhã de manhã."
+        },
+        {
+          "question": "Le rapport est ___ lundi.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: O relatório é para segunda-feira."
+        },
+        {
+          "question": "Elle a été punie ___ son retard.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Foi castigada pelo atraso."
+        },
+        {
+          "question": "Il est grand ___ son âge.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: É alto para a idade."
+        },
+        {
+          "question": "Je fais ça ___ te faire plaisir.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Faço isto para te agradar."
+        },
+        {
+          "question": "Un sirop ___ la toux, s'il vous plaît.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Um xarope para a tosse, por favor."
+        },
+        {
+          "question": "Nous avons loué la maison ___ l'été.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Alugámos a casa para o verão."
+        },
+        {
+          "question": "Il est parti ___ toujours.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Partiu para sempre."
+        },
+        {
+          "question": "Elle se bat ___ ses droits.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Ela luta pelos seus direitos."
+        },
+        {
+          "question": "J'ai pris un parapluie ___ ne pas être mouillé.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Levei um guarda-chuva para não me molhar."
+        },
+        {
+          "question": "C'est la première fois ___ lui.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: É a primeira vez para ele."
+        },
+        {
+          "question": "Il a été choisi ___ représenter l'équipe.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Foi escolhido para representar a equipa."
+        },
+        {
+          "question": "Nous économisons ___ les vacances.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Poupamos para as férias."
+        },
+        {
+          "question": "Ce n'est pas facile ___ les débutants.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Não é fácil para os principiantes."
+        },
+        {
+          "question": "Il a changé de travail ___ être plus près de chez lui.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Mudou de emprego para ficar mais perto de casa."
+        },
+        {
+          "question": "Une table ___ deux, s'il vous plaît.",
+          "answer": [
+            "pour"
+          ],
+          "explanation": "PT: Uma mesa para dois, por favor."
+        }
+      ]
+    },
+    {
+      "title": "por · by, through, per",
+      "description": "Hint: 3 letters. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Le voleur est passé ___ la fenêtre.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: O ladrão passou pela janela."
+        },
+        {
+          "question": "Ce tableau a été peint ___ Monet.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Este quadro foi pintado por Monet."
+        },
+        {
+          "question": "Je vais à la piscine deux fois ___ semaine.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Vou à piscina duas vezes por semana."
+        },
+        {
+          "question": "Il a appris la nouvelle ___ hasard.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Soube da notícia por acaso."
+        },
+        {
+          "question": "Nous sommes passés ___ Lyon pour aller à Genève.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Passámos por Lyon para ir a Genebra."
+        },
+        {
+          "question": "Envoie-moi le document ___ e-mail.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Manda-me o documento por e-mail."
+        },
+        {
+          "question": "Il roule à 90 kilomètres ___ heure.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Anda a 90 quilómetros por hora."
+        },
+        {
+          "question": "Elle a commencé son discours ___ une blague.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Começou o discurso com uma piada."
+        },
+        {
+          "question": "Ils sont entrés ___ la porte de derrière.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Entraram pela porta das traseiras."
+        },
+        {
+          "question": "Le gâteau a été mangé ___ les enfants.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: O bolo foi comido pelas crianças."
+        },
+        {
+          "question": "Elle regarde le paysage ___ la vitre du train.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Ela olha a paisagem pela janela do comboio."
+        },
+        {
+          "question": "Le colis est arrivé ___ la poste.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: A encomenda chegou pelo correio."
+        },
+        {
+          "question": "Il l'a fait ___ amour.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Fê-lo por amor."
+        },
+        {
+          "question": "Prenez un comprimé trois fois ___ jour.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Tome um comprimido três vezes por dia."
+        },
+        {
+          "question": "Il a répondu ___ un sourire.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Respondeu com um sorriso."
+        },
+        {
+          "question": "Le prix est de vingt euros ___ personne.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: O preço é de vinte euros por pessoa."
+        },
+        {
+          "question": "Ils ont été surpris ___ la pluie.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Foram surpreendidos pela chuva."
+        },
+        {
+          "question": "Nous avons fini ___ accepter.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Acabámos por aceitar."
+        },
+        {
+          "question": "___ ici, s'il vous plaît.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Por aqui, por favor."
+        },
+        {
+          "question": "Il est tombé ___ terre.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Caiu ao chão."
+        },
+        {
+          "question": "Les élèves marchent deux ___ deux.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Os alunos andam dois a dois."
+        },
+        {
+          "question": "Je l'ai reconnu ___ sa voix.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Reconheci-o pela voz."
+        },
+        {
+          "question": "Le château a été construit ___ un roi.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: O castelo foi construído por um rei."
+        },
+        {
+          "question": "Elle passe ___ une période difficile.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Ela está a passar por uma fase difícil."
+        },
+        {
+          "question": "Il a payé ___ carte.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Pagou com cartão."
+        },
+        {
+          "question": "Tenez la rampe ___ sécurité.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Segure o corrimão por segurança."
+        },
+        {
+          "question": "Le film a été réalisé ___ une jeune Portugaise.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: O filme foi realizado por uma jovem portuguesa."
+        },
+        {
+          "question": "Ils se sont connus ___ des amis communs.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Conheceram-se através de amigos em comum."
+        },
+        {
+          "question": "___ temps de pluie, la route est dangereuse.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Com tempo de chuva, a estrada é perigosa."
+        },
+        {
+          "question": "Il a été réveillé ___ le bruit des voitures.",
+          "answer": [
+            "par"
+          ],
+          "explanation": "PT: Foi acordado pelo barulho dos carros."
+        }
+      ]
+    },
+    {
+      "title": "em casa de; no (médico, cabeleireiro) · at or to someone's place",
+      "description": "Hint: 4 letters, starts with c. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Viens dîner ___ moi samedi.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Vem jantar a minha casa no sábado."
+        },
+        {
+          "question": "Je vais ___ le dentiste à midi.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Vou ao dentista ao meio-dia."
+        },
+        {
+          "question": "Elle habite encore ___ ses parents.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Ainda vive em casa dos pais."
+        },
+        {
+          "question": "On se retrouve ___ Paul ?",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Encontramo-nos em casa do Paul?"
+        },
+        {
+          "question": "J'ai acheté ce pain ___ le boulanger du quartier.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Comprei este pão no padeiro do bairro."
+        },
+        {
+          "question": "Il est rentré ___ lui très tard.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Voltou para casa muito tarde."
+        },
+        {
+          "question": "Elle a pris rendez-vous ___ le coiffeur.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Marcou hora no cabeleireiro."
+        },
+        {
+          "question": "Nous passons Noël ___ ma grand-mère.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Passamos o Natal em casa da minha avó."
+        },
+        {
+          "question": "___ nous, on dîne à vingt heures.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Lá em casa, janta-se às oito."
+        },
+        {
+          "question": "Fais comme ___ toi !",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Faz como se estivesses em tua casa!"
+        },
+        {
+          "question": "Il travaille ___ un grand constructeur automobile.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Trabalha num grande fabricante de automóveis."
+        },
+        {
+          "question": "Ce comportement est fréquent ___ les adolescents.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Este comportamento é frequente nos adolescentes."
+        },
+        {
+          "question": "On trouve cette idée ___ Victor Hugo.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Encontra-se esta ideia em Victor Hugo."
+        },
+        {
+          "question": "Ils sont ___ des amis pour le week-end.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Estão em casa de amigos no fim de semana."
+        },
+        {
+          "question": "Le chat est resté ___ la voisine.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: O gato ficou em casa da vizinha."
+        },
+        {
+          "question": "Elle a fait ses courses ___ l'épicier.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Fez as compras na mercearia."
+        },
+        {
+          "question": "Je dois passer ___ le médecin.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Tenho de ir ao médico."
+        },
+        {
+          "question": "Ils ont mangé ___ un ami d'enfance.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Comeram em casa de um amigo de infância."
+        },
+        {
+          "question": "Rentre vite ___ toi, il va pleuvoir.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Vai depressa para casa, vai chover."
+        },
+        {
+          "question": "C'est une habitude très répandue ___ les Français.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: É um hábito muito comum entre os franceses."
+        },
+        {
+          "question": "On fait la fête ___ Sophie samedi.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Há festa em casa da Sophie no sábado."
+        },
+        {
+          "question": "Il a rendez-vous ___ l'avocat demain.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Tem reunião no advogado amanhã."
+        },
+        {
+          "question": "Elle est allée ___ le vétérinaire avec son chat.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Foi ao veterinário com o gato."
+        },
+        {
+          "question": "___ lui, tout est toujours en ordre.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Em casa dele, está sempre tudo arrumado."
+        },
+        {
+          "question": "Le bébé passe la journée ___ sa nounou.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: O bebé passa o dia em casa da ama."
+        },
+        {
+          "question": "Ce mot revient souvent ___ cet auteur.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Esta palavra aparece muitas vezes neste autor."
+        },
+        {
+          "question": "J'ai oublié mes clés ___ ma sœur.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Esqueci-me das chaves em casa da minha irmã."
+        },
+        {
+          "question": "Ils viennent ___ nous en août.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Vêm a nossa casa em agosto."
+        },
+        {
+          "question": "Je suis passé ___ le pharmacien.",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Passei pela farmácia."
+        },
+        {
+          "question": "Ça sent bon ___ vous !",
+          "answer": [
+            "chez"
+          ],
+          "explanation": "PT: Cheira bem em vossa casa!"
+        }
+      ]
+    },
+    {
+      "title": "entre (dois) · between",
+      "description": "Hint: 5 letters. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "La pharmacie est ___ la banque et la poste.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: A farmácia fica entre o banco e os correios."
+        },
+        {
+          "question": "Le magasin est fermé ___ midi et deux heures.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: A loja está fechada entre o meio-dia e as duas."
+        },
+        {
+          "question": "Ce secret reste ___ nous.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Este segredo fica entre nós."
+        },
+        {
+          "question": "Il hésite ___ deux options.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Hesita entre duas opções."
+        },
+        {
+          "question": "Choisis ___ le thé et le café.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Escolhe entre o chá e o café."
+        },
+        {
+          "question": "Il y a dix kilomètres ___ les deux villages.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Há dez quilómetros entre as duas aldeias."
+        },
+        {
+          "question": "___ amis, on peut tout se dire.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Entre amigos, pode-se dizer tudo."
+        },
+        {
+          "question": "La réunion aura lieu ___ lundi et mercredi.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: A reunião será entre segunda e quarta."
+        },
+        {
+          "question": "Elle s'est assise ___ ses deux frères.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Sentou-se entre os dois irmãos."
+        },
+        {
+          "question": "Le prix varie ___ dix et vingt euros.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: O preço varia entre dez e vinte euros."
+        },
+        {
+          "question": "Il y a une grande différence ___ ces deux méthodes.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Há uma grande diferença entre estes dois métodos."
+        },
+        {
+          "question": "Ils se sont partagé le gâteau ___ eux.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Partilharam o bolo entre eles."
+        },
+        {
+          "question": "La rivière coule ___ les collines.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: O rio corre entre as colinas."
+        },
+        {
+          "question": "Nous arriverons ___ huit et neuf heures.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Chegaremos entre as oito e as nove."
+        },
+        {
+          "question": "Le livre est tombé ___ le lit et le mur.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: O livro caiu entre a cama e a parede."
+        },
+        {
+          "question": "Il est né ___ les deux guerres.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Nasceu entre as duas guerras."
+        },
+        {
+          "question": "Ça doit rester ___ toi et moi.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Isto tem de ficar entre nós os dois."
+        },
+        {
+          "question": "Il y a un lien ___ ces deux affaires.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Há uma ligação entre estes dois casos."
+        },
+        {
+          "question": "La maison est cachée ___ deux grands rochers.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: A casa está escondida entre duas grandes rochas."
+        },
+        {
+          "question": "Le match ___ Lyon et Lille commence à vingt heures.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: O jogo entre o Lyon e o Lille começa às oito."
+        },
+        {
+          "question": "Elle partage son temps ___ Paris et Lisbonne.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Divide o tempo entre Paris e Lisboa."
+        },
+        {
+          "question": "Il faut savoir lire ___ les lignes.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: É preciso saber ler nas entrelinhas."
+        },
+        {
+          "question": "Les enfants ont ___ six et dix ans.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: As crianças têm entre seis e dez anos."
+        },
+        {
+          "question": "Il y a toujours eu de la tension ___ eux.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Sempre houve tensão entre eles."
+        },
+        {
+          "question": "Le chat s'est glissé ___ les barreaux.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: O gato escapuliu-se entre as grades."
+        },
+        {
+          "question": "___ nous, je ne l'aime pas beaucoup.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Cá entre nós, não gosto muito dele."
+        },
+        {
+          "question": "La température oscille ___ 15 et 20 degrés.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: A temperatura oscila entre 15 e 20 graus."
+        },
+        {
+          "question": "Ils ont signé un accord ___ les deux pays.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Assinaram um acordo entre os dois países."
+        },
+        {
+          "question": "J'ai dormi un peu ___ deux escales.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: Dormi um pouco entre duas escalas."
+        },
+        {
+          "question": "Le choix ___ les deux candidats est difficile.",
+          "answer": [
+            "entre"
+          ],
+          "explanation": "PT: A escolha entre os dois candidatos é difícil."
+        }
+      ]
+    },
+    {
+      "title": "entre, no meio de (três ou mais) · among",
+      "description": "Hint: 5 letters, starts with p. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Il était ___ les invités.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Estava entre os convidados."
+        },
+        {
+          "question": "Choisis un livre ___ ceux-ci.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Escolhe um livro entre estes."
+        },
+        {
+          "question": "___ mes amis, c'est le plus drôle.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Entre os meus amigos, é o mais engraçado."
+        },
+        {
+          "question": "Elle s'est perdue ___ la foule.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Perdeu-se no meio da multidão."
+        },
+        {
+          "question": "Nous sommes heureux de vous compter ___ nos clients.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Temos o prazer de o contar entre os nossos clientes."
+        },
+        {
+          "question": "C'est un problème fréquent ___ les étudiants.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: É um problema frequente entre os estudantes."
+        },
+        {
+          "question": "___ toutes ces robes, laquelle préfères-tu ?",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Entre todos estes vestidos, qual preferes?"
+        },
+        {
+          "question": "Il y avait un médecin ___ les passagers.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Havia um médico entre os passageiros."
+        },
+        {
+          "question": "La lettre était cachée ___ ses papiers.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: A carta estava escondida entre os papéis dele."
+        },
+        {
+          "question": "Elle compte ___ les meilleures athlètes du pays.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Está entre as melhores atletas do país."
+        },
+        {
+          "question": "___ les candidats, trois ont été retenus.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Entre os candidatos, três foram selecionados."
+        },
+        {
+          "question": "Dans ce film, il vit ___ les loups.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Neste filme, ele vive entre os lobos."
+        },
+        {
+          "question": "Ce sujet fait débat ___ les spécialistes.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Este tema gera debate entre os especialistas."
+        },
+        {
+          "question": "J'ai trouvé une vieille photo ___ les livres.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Encontrei uma fotografia antiga no meio dos livros."
+        },
+        {
+          "question": "Il s'est assis ___ les spectateurs.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Sentou-se no meio dos espectadores."
+        },
+        {
+          "question": "Ce plat est populaire ___ les touristes.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Este prato é popular entre os turistas."
+        },
+        {
+          "question": "___ nous, personne ne parle chinois.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Entre nós, ninguém fala chinês."
+        },
+        {
+          "question": "Elle a été choisie ___ cent candidates.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Foi escolhida entre cem candidatas."
+        },
+        {
+          "question": "Un oiseau chantait ___ les branches.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Um pássaro cantava entre os ramos."
+        },
+        {
+          "question": "Il est ___ les premiers à arriver.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Está entre os primeiros a chegar."
+        },
+        {
+          "question": "Les fleurs poussent ___ les pierres.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: As flores crescem entre as pedras."
+        },
+        {
+          "question": "Ce livre est ___ mes préférés.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Este livro está entre os meus preferidos."
+        },
+        {
+          "question": "___ les fruits d'été, je préfère la pêche.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Dos frutos de verão, prefiro o pêssego."
+        },
+        {
+          "question": "Il cherche ses clés ___ ses affaires.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Procura as chaves no meio das suas coisas."
+        },
+        {
+          "question": "Elle se sent bien ___ ses collègues.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Sente-se bem entre os colegas."
+        },
+        {
+          "question": "Ce mot est ___ les plus difficiles à prononcer.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Esta palavra está entre as mais difíceis de pronunciar."
+        },
+        {
+          "question": "On l'a reconnu ___ les supporters.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Reconhecemo-lo no meio dos adeptos."
+        },
+        {
+          "question": "___ les solutions proposées, aucune n'est parfaite.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Das soluções propostas, nenhuma é perfeita."
+        },
+        {
+          "question": "Il y a peut-être un traître ___ nous.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: Talvez haja um traidor entre nós."
+        },
+        {
+          "question": "La maison se trouve ___ les vignes.",
+          "answer": [
+            "parmi"
+          ],
+          "explanation": "PT: A casa fica no meio das vinhas."
+        }
+      ]
+    },
+    {
+      "title": "em direção a; por volta de (horas) · towards; around (a time)",
+      "description": "Hint: 4 letters, starts with v. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "On se retrouve ___ midi.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Encontramo-nos por volta do meio-dia."
+        },
+        {
+          "question": "Le bateau se dirige ___ le port.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: O barco dirige-se para o porto."
+        },
+        {
+          "question": "Il est arrivé ___ la fin du film.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Chegou perto do fim do filme."
+        },
+        {
+          "question": "Elle a couru ___ la sortie.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Correu em direção à saída."
+        },
+        {
+          "question": "Je rentrerai ___ vingt heures.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Volto por volta das oito da noite."
+        },
+        {
+          "question": "Il s'est tourné ___ moi.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Virou-se para mim."
+        },
+        {
+          "question": "Les oiseaux volent ___ le sud.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: As aves voam para sul."
+        },
+        {
+          "question": "___ 1900, la ville a beaucoup changé.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Por volta de 1900, a cidade mudou muito."
+        },
+        {
+          "question": "Regarde ___ la droite.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Olha para a direita."
+        },
+        {
+          "question": "Le chien court ___ son maître.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: O cão corre em direção ao dono."
+        },
+        {
+          "question": "Nous partirons ___ huit heures.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Partiremos por volta das oito."
+        },
+        {
+          "question": "Le chemin descend ___ la rivière.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: O caminho desce em direção ao rio."
+        },
+        {
+          "question": "Elle a fait un pas ___ lui.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Deu um passo em direção a ele."
+        },
+        {
+          "question": "La crise arrivera ___ l'automne.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: A crise chegará por volta do outono."
+        },
+        {
+          "question": "C'est un premier pas ___ la paix.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: É um primeiro passo para a paz."
+        },
+        {
+          "question": "Il a levé les yeux ___ le ciel.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Levantou os olhos para o céu."
+        },
+        {
+          "question": "La boulangerie ferme ___ dix-neuf heures.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: A padaria fecha por volta das sete da tarde."
+        },
+        {
+          "question": "La route monte ___ le village.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: A estrada sobe em direção à aldeia."
+        },
+        {
+          "question": "Ils se sont dirigés ___ la gare.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Dirigiram-se para a estação."
+        },
+        {
+          "question": "Le soleil descend lentement ___ l'horizon.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: O sol desce lentamente para o horizonte."
+        },
+        {
+          "question": "Il a tendu la main ___ moi.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Estendeu a mão para mim."
+        },
+        {
+          "question": "Les prix évoluent ___ la hausse.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Os preços evoluem no sentido da subida."
+        },
+        {
+          "question": "Elle s'est réveillée ___ trois heures du matin.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Acordou por volta das três da manhã."
+        },
+        {
+          "question": "Le train roule ___ Paris.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: O comboio segue em direção a Paris."
+        },
+        {
+          "question": "___ la fin de sa vie, il vivait seul.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Perto do fim da vida, vivia sozinho."
+        },
+        {
+          "question": "Le vent pousse les nuages ___ la mer.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: O vento empurra as nuvens para o mar."
+        },
+        {
+          "question": "Elle a lancé la balle ___ le panier.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Atirou a bola para o cesto."
+        },
+        {
+          "question": "On arrive ___ quelle heure ?",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Chegamos por volta de que horas?"
+        },
+        {
+          "question": "Il marchait lentement ___ la maison.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: Caminhava devagar em direção a casa."
+        },
+        {
+          "question": "Les enfants avancent ___ l'école.",
+          "answer": [
+            "vers"
+          ],
+          "explanation": "PT: As crianças avançam em direção à escola."
+        }
+      ]
+    },
+    {
+      "title": "para com · towards (feelings, attitude)",
+      "description": "Hint: 6 letters, starts with e. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Il est très gentil ___ elle.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: É muito simpático para com ela."
+        },
+        {
+          "question": "Elle est reconnaissante ___ ses parents.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Está grata aos pais."
+        },
+        {
+          "question": "Il s'est montré ingrat ___ ses amis.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Mostrou-se ingrato para com os amigos."
+        },
+        {
+          "question": "Nous avons des obligations ___ nos clients.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Temos obrigações para com os nossos clientes."
+        },
+        {
+          "question": "Il est généreux ___ les pauvres.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: É generoso para com os pobres."
+        },
+        {
+          "question": "Elle a été injuste ___ lui.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Foi injusta para com ele."
+        },
+        {
+          "question": "Son attitude ___ ses collègues a changé.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: A atitude dele para com os colegas mudou."
+        },
+        {
+          "question": "Il a beaucoup de respect ___ ses professeurs.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Tem muito respeito pelos professores."
+        },
+        {
+          "question": "Soyez polis ___ les clients.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Sejam educados com os clientes."
+        },
+        {
+          "question": "Elle est toujours patiente ___ les enfants.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: É sempre paciente com as crianças."
+        },
+        {
+          "question": "J'ai une dette ___ toi.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Tenho uma dívida para contigo."
+        },
+        {
+          "question": "Il est sévère ___ lui-même.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: É exigente consigo próprio."
+        },
+        {
+          "question": "Leur méfiance ___ les étrangers est forte.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: A desconfiança deles em relação aos estrangeiros é forte."
+        },
+        {
+          "question": "Elle a toujours été loyale ___ son entreprise.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Sempre foi leal à empresa."
+        },
+        {
+          "question": "Il ressent de la colère ___ son frère.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Sente raiva do irmão."
+        },
+        {
+          "question": "Les parents sont responsables ___ leurs enfants.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Os pais são responsáveis perante os filhos."
+        },
+        {
+          "question": "Il est méprisant ___ les autres.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: É desdenhoso para com os outros."
+        },
+        {
+          "question": "Sa bonté ___ les animaux est connue.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: A bondade dele para com os animais é conhecida."
+        },
+        {
+          "question": "Elle a été honnête ___ moi.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Foi honesta comigo."
+        },
+        {
+          "question": "L'État a des devoirs ___ ses citoyens.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: O Estado tem deveres para com os seus cidadãos."
+        },
+        {
+          "question": "Il s'est montré froid ___ sa famille.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Mostrou-se frio para com a família."
+        },
+        {
+          "question": "Elle éprouve de la tendresse ___ son grand-père.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Sente ternura pelo avô."
+        },
+        {
+          "question": "Il faut être tolérant ___ ceux qui pensent autrement.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: É preciso ser tolerante para com quem pensa de outra maneira."
+        },
+        {
+          "question": "Il a toujours été fidèle ___ ses amis.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Sempre foi fiel aos amigos."
+        },
+        {
+          "question": "Elle est très exigeante ___ ses élèves.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: É muito exigente com os alunos."
+        },
+        {
+          "question": "Son mépris ___ l'argent surprend tout le monde.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: O desprezo dele pelo dinheiro surpreende toda a gente."
+        },
+        {
+          "question": "Nous avons été accueillants ___ les nouveaux voisins.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Fomos acolhedores com os novos vizinhos."
+        },
+        {
+          "question": "Il se sent coupable ___ sa mère.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Sente-se culpado em relação à mãe."
+        },
+        {
+          "question": "Elle reste courtoise ___ tout le monde.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: Mantém-se cortês com toda a gente."
+        },
+        {
+          "question": "Sa générosité ___ nous était sincère.",
+          "answer": [
+            "envers"
+          ],
+          "explanation": "PT: A generosidade dele para connosco era sincera."
+        }
+      ]
+    },
+    {
+      "title": "contra · against",
+      "description": "Hint: 6 letters, starts with c. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Je suis ___ cette idée.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Sou contra esta ideia."
+        },
+        {
+          "question": "Il a voté ___ le projet.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Votou contra o projeto."
+        },
+        {
+          "question": "Pose l'échelle ___ le mur.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Encosta a escada à parede."
+        },
+        {
+          "question": "J'ai échangé mon vélo ___ une guitare.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Troquei a bicicleta por uma guitarra."
+        },
+        {
+          "question": "Ce sirop est efficace ___ la toux.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Este xarope é eficaz contra a tosse."
+        },
+        {
+          "question": "Le Portugal joue ___ la France ce soir.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Portugal joga contra a França esta noite."
+        },
+        {
+          "question": "Elle s'est appuyée ___ la porte.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Encostou-se à porta."
+        },
+        {
+          "question": "Il s'est battu ___ la maladie pendant des années.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Lutou contra a doença durante anos."
+        },
+        {
+          "question": "Le bateau avance ___ le vent.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: O barco avança contra o vento."
+        },
+        {
+          "question": "Nous sommes assurés ___ le vol.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Temos seguro contra roubo."
+        },
+        {
+          "question": "Il est en colère ___ son patron.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Está zangado com o chefe."
+        },
+        {
+          "question": "Elle a serré l'enfant ___ elle.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Apertou a criança contra si."
+        },
+        {
+          "question": "Les manifestants protestent ___ la réforme.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Os manifestantes protestam contra a reforma."
+        },
+        {
+          "question": "Je me suis cogné la tête ___ l'étagère.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Bati com a cabeça na prateleira."
+        },
+        {
+          "question": "Il a agi ___ l'avis de son médecin.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Agiu contra a opinião do médico."
+        },
+        {
+          "question": "Un vaccin ___ la grippe.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Uma vacina contra a gripe."
+        },
+        {
+          "question": "Tout le monde était ___ moi.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Toda a gente estava contra mim."
+        },
+        {
+          "question": "La voiture s'est écrasée ___ un arbre.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: O carro foi embater numa árvore."
+        },
+        {
+          "question": "Mets le canapé ___ le mur du fond.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Põe o sofá encostado à parede do fundo."
+        },
+        {
+          "question": "Ils étaient trois ___ un.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Eram três contra um."
+        },
+        {
+          "question": "Ce médicament agit ___ la douleur.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Este medicamento atua contra a dor."
+        },
+        {
+          "question": "Elle a porté plainte ___ son voisin.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Apresentou queixa contra o vizinho."
+        },
+        {
+          "question": "Le chat se frotte ___ mes jambes.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: O gato roça-se nas minhas pernas."
+        },
+        {
+          "question": "Nous luttons ___ le gaspillage.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Lutamos contra o desperdício."
+        },
+        {
+          "question": "Il a nagé ___ le courant.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Nadou contra a corrente."
+        },
+        {
+          "question": "Cette crème protège ___ le soleil.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Este creme protege do sol."
+        },
+        {
+          "question": "Je n'ai rien ___ lui.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Não tenho nada contra ele."
+        },
+        {
+          "question": "C'est ___ la loi.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: É contra a lei."
+        },
+        {
+          "question": "Ils dansaient joue ___ joue.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: Dançavam de cara encostada."
+        },
+        {
+          "question": "La pluie tape ___ les vitres.",
+          "answer": [
+            "contre"
+          ],
+          "explanation": "PT: A chuva bate nos vidros."
+        }
+      ]
+    },
+    {
+      "title": "desde; há (ainda a decorrer) · since; for (and still going on)",
+      "description": "Hint: 6 letters, starts with d. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "J'habite ici ___ trois ans.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Moro aqui há três anos."
+        },
+        {
+          "question": "Il pleut ___ ce matin.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Chove desde esta manhã."
+        },
+        {
+          "question": "Je t'attends ___ une heure !",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Estou à tua espera há uma hora!"
+        },
+        {
+          "question": "Elle travaille ici ___ 2019.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Trabalha aqui desde 2019."
+        },
+        {
+          "question": "On voit la mer ___ ma fenêtre.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Vê-se o mar da minha janela."
+        },
+        {
+          "question": "Nous nous connaissons ___ l'enfance.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Conhecemo-nos desde a infância."
+        },
+        {
+          "question": "Il n'a rien mangé ___ hier.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Não come nada desde ontem."
+        },
+        {
+          "question": "___ quand apprends-tu le français ?",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Desde quando aprendes francês?"
+        },
+        {
+          "question": "Elle est malade ___ une semaine.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Está doente há uma semana."
+        },
+        {
+          "question": "Le magasin est fermé ___ lundi.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: A loja está fechada desde segunda-feira."
+        },
+        {
+          "question": "___ son départ, la maison est vide.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Desde que ele partiu, a casa está vazia."
+        },
+        {
+          "question": "Il fait froid ___ quelques jours.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Está frio há alguns dias."
+        },
+        {
+          "question": "Le concert est retransmis ___ Paris.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: O concerto é transmitido a partir de Paris."
+        },
+        {
+          "question": "Ils sont mariés ___ dix ans.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Estão casados há dez anos."
+        },
+        {
+          "question": "Je n'ai pas de nouvelles ___ son dernier message.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Não tenho notícias desde a última mensagem dele."
+        },
+        {
+          "question": "Elle joue du piano ___ l'âge de six ans.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Toca piano desde os seis anos."
+        },
+        {
+          "question": "___ le début, je savais qu'il mentait.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Desde o início, eu sabia que ele mentia."
+        },
+        {
+          "question": "Il n'est pas sorti ___ samedi.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Não sai desde sábado."
+        },
+        {
+          "question": "Le prix a doublé ___ l'an dernier.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: O preço duplicou desde o ano passado."
+        },
+        {
+          "question": "On l'entend chanter ___ la rue.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Ouve-se ele a cantar da rua."
+        },
+        {
+          "question": "Ce restaurant existe ___ 1920.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Este restaurante existe desde 1920."
+        },
+        {
+          "question": "Elle ne fume plus ___ six mois.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Deixou de fumar há seis meses."
+        },
+        {
+          "question": "Le bébé dort ___ deux heures.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: O bebé dorme há duas horas."
+        },
+        {
+          "question": "___ la terrasse, on voit toute la ville.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Do terraço, vê-se a cidade toda."
+        },
+        {
+          "question": "Il a beaucoup changé ___ son accident.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Mudou muito desde o acidente."
+        },
+        {
+          "question": "Nous attendons le bus ___ vingt minutes.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Esperamos o autocarro há vinte minutos."
+        },
+        {
+          "question": "Elle vit en Suisse ___ peu.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Vive na Suíça há pouco tempo."
+        },
+        {
+          "question": "Tout va mieux ___ que tu es là.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Está tudo melhor desde que estás cá."
+        },
+        {
+          "question": "Je cherche mes lunettes ___ ce matin.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: Procuro os óculos desde esta manhã."
+        },
+        {
+          "question": "Le match est diffusé en direct ___ le stade.",
+          "answer": [
+            "depuis"
+          ],
+          "explanation": "PT: O jogo é transmitido em direto do estádio."
+        }
+      ]
+    },
+    {
+      "title": "durante · during, for (a finished period)",
+      "description": "Hint: 7 letters, starts with p; the everyday word. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Mon père lit le journal ___ le repas.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: O meu pai lê o jornal durante a refeição."
+        },
+        {
+          "question": "Il a vécu à Rome ___ dix ans.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Viveu em Roma durante dez anos."
+        },
+        {
+          "question": "Ne parle pas ___ le film.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Não fales durante o filme."
+        },
+        {
+          "question": "Il a plu ___ trois jours.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Choveu durante três dias."
+        },
+        {
+          "question": "J'ai dormi ___ tout le voyage.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Dormi durante a viagem toda."
+        },
+        {
+          "question": "Nous avons attendu ___ deux heures.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Esperámos durante duas horas."
+        },
+        {
+          "question": "Elle a travaillé dans un café ___ l'été.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Trabalhou num café durante o verão."
+        },
+        {
+          "question": "___ la guerre, ils ont quitté le pays.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Durante a guerra, saíram do país."
+        },
+        {
+          "question": "Il a parlé ___ une heure sans s'arrêter.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Falou durante uma hora sem parar."
+        },
+        {
+          "question": "Les magasins sont fermés ___ les fêtes.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: As lojas estão fechadas durante as festas."
+        },
+        {
+          "question": "J'ai appris l'espagnol ___ mon séjour à Madrid.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Aprendi espanhol durante a minha estadia em Madrid."
+        },
+        {
+          "question": "Le téléphone a sonné ___ la réunion.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: O telefone tocou durante a reunião."
+        },
+        {
+          "question": "Ils ont dansé ___ toute la nuit.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Dançaram durante a noite toda."
+        },
+        {
+          "question": "Garde le silence ___ l'examen.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Mantém o silêncio durante o exame."
+        },
+        {
+          "question": "Elle a été malade ___ une semaine.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Esteve doente durante uma semana."
+        },
+        {
+          "question": "Il fait chaud ___ la journée.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Faz calor durante o dia."
+        },
+        {
+          "question": "Nous avons marché ___ des kilomètres.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Caminhámos durante quilómetros."
+        },
+        {
+          "question": "___ les vacances, je ne lis pas mes e-mails.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Durante as férias, não leio os e-mails."
+        },
+        {
+          "question": "Il s'est endormi ___ le cours.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Adormeceu durante a aula."
+        },
+        {
+          "question": "Le musée a été fermé ___ six mois.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: O museu esteve fechado durante seis meses."
+        },
+        {
+          "question": "Mélange ___ deux minutes.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Mexe durante dois minutos."
+        },
+        {
+          "question": "Elle a habité chez nous ___ quelques semaines.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Viveu connosco durante algumas semanas."
+        },
+        {
+          "question": "J'ai mal au dos ___ la nuit.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Doem-me as costas durante a noite."
+        },
+        {
+          "question": "Il a joué au football ___ sa jeunesse.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Jogou futebol durante a juventude."
+        },
+        {
+          "question": "___ le trajet, nous avons chanté.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Durante o trajeto, cantámos."
+        },
+        {
+          "question": "La route est coupée ___ les travaux.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: A estrada está cortada durante as obras."
+        },
+        {
+          "question": "Ils se sont tus ___ un long moment.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Calaram-se durante muito tempo."
+        },
+        {
+          "question": "Il est resté au lit ___ trois jours.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Ficou de cama durante três dias."
+        },
+        {
+          "question": "Profite du soleil ___ qu'il fait beau.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: Aproveita o sol enquanto está bom tempo."
+        },
+        {
+          "question": "Le bébé a pleuré ___ tout le vol.",
+          "answer": [
+            "pendant"
+          ],
+          "explanation": "PT: O bebé chorou durante o voo todo."
+        }
+      ]
+    },
+    {
+      "title": "durante, ao longo de · throughout (formal)",
+      "description": "Hint: 6 letters, starts with d; the more formal twin of the everyday word. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Il a neigé ___ toute la journée.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Nevou durante todo o dia."
+        },
+        {
+          "question": "La route reste fermée ___ tout l'hiver.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: A estrada fica fechada durante todo o inverno."
+        },
+        {
+          "question": "___ des siècles, la ville a été un port important.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Durante séculos, a cidade foi um porto importante."
+        },
+        {
+          "question": "Elle a travaillé ___ quarante ans dans la même entreprise.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Trabalhou durante quarenta anos na mesma empresa."
+        },
+        {
+          "question": "Le roi a régné ___ trente ans.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: O rei reinou durante trinta anos."
+        },
+        {
+          "question": "Ils ont marché ___ des heures dans le désert.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Caminharam durante horas no deserto."
+        },
+        {
+          "question": "___ la cérémonie, personne n'a parlé.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Durante a cerimónia, ninguém falou."
+        },
+        {
+          "question": "Le festival a lieu ___ le mois de juillet.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: O festival decorre durante o mês de julho."
+        },
+        {
+          "question": "Il a été absent ___ toute la semaine.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Esteve ausente durante toda a semana."
+        },
+        {
+          "question": "La population a beaucoup souffert ___ la crise.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: A população sofreu muito durante a crise."
+        },
+        {
+          "question": "___ son enfance, il a souvent déménagé.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Durante a infância, mudou muitas vezes de casa."
+        },
+        {
+          "question": "Le traitement doit être suivi ___ un mois.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: O tratamento deve ser seguido durante um mês."
+        },
+        {
+          "question": "Ils se sont écrit ___ des années.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Escreveram-se durante anos."
+        },
+        {
+          "question": "___ le spectacle, il est interdit de photographier.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Durante o espetáculo, é proibido fotografar."
+        },
+        {
+          "question": "La tempête a soufflé ___ deux jours.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: A tempestade soprou durante dois dias."
+        },
+        {
+          "question": "Le château a été habité ___ le Moyen Âge.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: O castelo foi habitado durante a Idade Média."
+        },
+        {
+          "question": "Il a gardé le secret ___ toute sa vie.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Guardou o segredo durante toda a vida."
+        },
+        {
+          "question": "Les archéologues ont fouillé le site ___ trois étés.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Os arqueólogos escavaram o local durante três verões."
+        },
+        {
+          "question": "___ le procès, l'accusé est resté calme.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Durante o julgamento, o arguido manteve-se calmo."
+        },
+        {
+          "question": "La maison est restée vide ___ dix ans.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: A casa ficou vazia durante dez anos."
+        },
+        {
+          "question": "Le musée sera fermé ___ les travaux de rénovation.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: O museu estará fechado durante as obras de renovação."
+        },
+        {
+          "question": "Il a plu sans arrêt ___ notre séjour.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Choveu sem parar durante a nossa estadia."
+        },
+        {
+          "question": "___ la nuit, la température descend beaucoup.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Durante a noite, a temperatura desce muito."
+        },
+        {
+          "question": "Elle a étudié le violon ___ quinze ans.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Estudou violino durante quinze anos."
+        },
+        {
+          "question": "Le pont est fermé ___ la saison des pluies.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: A ponte está fechada durante a época das chuvas."
+        },
+        {
+          "question": "Les deux pays ont été alliés ___ un siècle.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Os dois países foram aliados durante um século."
+        },
+        {
+          "question": "___ toute la réunion, il n'a rien dit.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Durante toda a reunião, não disse nada."
+        },
+        {
+          "question": "La fête a continué ___ trois jours.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: A festa continuou durante três dias."
+        },
+        {
+          "question": "Le patient a dormi ___ l'opération.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: O doente dormiu durante a operação."
+        },
+        {
+          "question": "On a entendu la musique ___ toute la soirée.",
+          "answer": [
+            "durant"
+          ],
+          "explanation": "PT: Ouviu-se a música durante toda a noite."
+        }
+      ]
+    },
+    {
+      "title": "logo a partir de, desde; assim que · from (that moment), as soon as",
+      "description": "Hint: 3 letters, with a grave accent. Find it on your cheat sheet, then type it in all 30 sentences. After each answer: the sentence in Portuguese.",
+      "questions": [
+        {
+          "question": "Je commence ___ demain.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Começo logo amanhã."
+        },
+        {
+          "question": "Il m'a appelé ___ son arrivée.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Ligou-me assim que chegou."
+        },
+        {
+          "question": "Le marché ouvre ___ 7 heures.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: O mercado abre logo às 7 horas."
+        },
+        {
+          "question": "___ qu'il arrive, on part.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Assim que ele chegar, partimos."
+        },
+        {
+          "question": "Elle savait lire ___ l'âge de quatre ans.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Já sabia ler aos quatro anos."
+        },
+        {
+          "question": "Appelle-moi ___ que tu as les résultats.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Liga-me assim que tiveres os resultados."
+        },
+        {
+          "question": "___ le premier jour, je me suis senti chez moi.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Logo desde o primeiro dia, senti-me em casa."
+        },
+        {
+          "question": "Les billets sont en vente ___ maintenant.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Os bilhetes estão à venda a partir de agora."
+        },
+        {
+          "question": "Il pleuvait ___ le matin.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Chovia logo desde manhã."
+        },
+        {
+          "question": "___ son plus jeune âge, il aimait dessiner.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Desde muito pequeno, gostava de desenhar."
+        },
+        {
+          "question": "On a compris le problème ___ le début.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Percebemos o problema logo desde o início."
+        },
+        {
+          "question": "Je te réponds ___ que possible.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Respondo-te logo que possível."
+        },
+        {
+          "question": "La réduction s'applique ___ deux articles achetés.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: O desconto aplica-se a partir de dois artigos comprados."
+        },
+        {
+          "question": "___ réception de votre paiement, nous envoyons le colis.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Logo que recebermos o pagamento, enviamos a encomenda."
+        },
+        {
+          "question": "Elle s'est levée ___ l'aube.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Levantou-se logo ao amanhecer."
+        },
+        {
+          "question": "Il est parti ___ la fin du cours.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Saiu logo que a aula acabou."
+        },
+        {
+          "question": "___ que le soleil se couche, il fait froid.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Assim que o sol se põe, fica frio."
+        },
+        {
+          "question": "Le restaurant est complet ___ midi.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: O restaurante fica cheio logo ao meio-dia."
+        },
+        {
+          "question": "Je l'ai aimé ___ le premier regard.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Gostei dele logo ao primeiro olhar."
+        },
+        {
+          "question": "Les inscriptions sont ouvertes ___ aujourd'hui.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: As inscrições estão abertas a partir de hoje."
+        },
+        {
+          "question": "Il a eu de la fièvre ___ le deuxième jour.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Teve febre logo no segundo dia."
+        },
+        {
+          "question": "Envoyez-moi le dossier ___ qu'il est prêt.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Envie-me o processo assim que estiver pronto."
+        },
+        {
+          "question": "___ l'entrée, on sent l'odeur du pain.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Logo à entrada, sente-se o cheiro do pão."
+        },
+        {
+          "question": "Il a commencé à neiger ___ novembre.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Começou a nevar logo em novembro."
+        },
+        {
+          "question": "___ lors, tout a changé.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Desde então, tudo mudou."
+        },
+        {
+          "question": "Le bébé sourit ___ qu'il voit sa mère.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: O bebé sorri assim que vê a mãe."
+        },
+        {
+          "question": "Les enfants peuvent apprendre à nager ___ six ans.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: As crianças podem aprender a nadar a partir dos seis anos."
+        },
+        {
+          "question": "Elle a été la meilleure ___ sa première course.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Foi a melhor logo na primeira corrida."
+        },
+        {
+          "question": "On voit le château ___ la sortie du village.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Vê-se o castelo logo à saída da aldeia."
+        },
+        {
+          "question": "Je pars ___ que j'ai fini.",
+          "answer": [
+            "dès"
+          ],
+          "explanation": "PT: Saio assim que acabar."
+        }
+      ]
+    }
+  ]
+}
