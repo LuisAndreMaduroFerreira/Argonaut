@@ -1,3 +1,8 @@
+# The project keeps its first name whatever folder it's in: Docker names the network and the
+# data volume after it (knowledge-vault_default, knowledge-vault_argonaut-db-data), and a new
+# name would mean a new, empty database and a network that clashes with the old one.
+name: knowledge-vault
+
 services:
   argonaut-db:
     image: postgres:16-alpine
