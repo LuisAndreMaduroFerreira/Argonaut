@@ -1,5 +1,7 @@
 # Argonaut
 
+![Argonaut in dark mode: the sidebar with Notes, Works, Papers, Tests and Agent Skills, a new note open in the editor, and the Assistant panel on the right](documentation/images/argonaut.webp)
+
 A voice-first knowledge vault for Windows: notes in Markdown with `[[wikilinks]]`, books
 written a page at a time, PDF papers, self-tests with scores and weekly missions, daily
 tasks, and an AI assistant you can talk to. It runs on your own PC, in its own window, with
